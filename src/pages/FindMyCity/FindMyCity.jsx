@@ -11,6 +11,7 @@ export default function FindMyCity() {
     const URL = 'http://localhost:8080'
 
     const navigate = useNavigate()
+    //fdfd
 
     const [cleanAir, setCleanAir] = useState(false)
     const [cleanWater, setCleanWater] = useState(false)
