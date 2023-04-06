@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Home from './pages/Home/Home';
+import FindMyCity from './pages/FindMyCity/FindMyCity';
+import Compare from './pages/Compare/Compare';
+import Info from './pages/Info/Info';
+
+import './App.scss';
+import Header from './components/Header/Header';
+import Recommendations from './pages/Recommendations/Recommendations';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+      <Header />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/home' element={<Home />} />
+        <Route path='/findmycity' element={<FindMyCity />} />
+        <Route path='/recommendations' element={<Recommendations />} />
+        <Route path='/compare' element={<Compare />} />
+        <Route path='/info' element={<Info />} />
+      </Routes>
+      </BrowserRouter>
     </div>
   );
 }

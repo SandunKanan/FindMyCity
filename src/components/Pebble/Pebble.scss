@@ -1,0 +1,14 @@
+.pebble {
+    border: 0.0625rem solid yellowgreen;
+    width: fit-content;
+    padding: 0.25rem 0.5rem;
+    border-radius: 2rem;
+    cursor: pointer;
+
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+
+    &--active {
+        background-color: yellowgreen;
+    }
+}

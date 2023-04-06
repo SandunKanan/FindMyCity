@@ -1,0 +1,25 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
+.header {
+    background-color: yellowgreen;
+
+    &__content {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        padding: 1rem 3rem;
+        @include desktop {
+            width: $desktop-content-width;
+            padding: 1rem 0;
+        }
+    }
+
+    &__nav {
+        display: flex;
+    }
+
+    &__nav-item {
+        margin: 0 0.5rem
+    }
+}

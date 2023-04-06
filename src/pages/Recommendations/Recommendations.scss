@@ -1,0 +1,12 @@
+.rec {
+    width: 64rem;
+    margin: auto;
+
+    &__item {
+        margin: 0.5rem 0
+    }
+
+    &__img {
+        width: 100%;
+    }
+}

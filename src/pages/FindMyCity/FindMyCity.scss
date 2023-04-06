@@ -1,0 +1,48 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
+.find {
+    @include desktop {
+        width: $desktop-content-width;
+        margin: auto;
+    }
+
+    &__title {
+        margin: 0.5rem 0;
+    }
+
+    &__subtitle {
+        margin: 0.5rem 0;
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+
+    }
+}
+
+.form {
+
+    display: flex;
+    flex-direction: column;
+
+    
+
+    &__item-box {
+        display: flex;
+        justify-content: space-between;
+        margin: 0.5rem 0;
+    }
+
+    &__pebble-div {
+        display: flex;
+        margin: 0.5rem 0;
+    }
+
+    &__pebble-label {
+        min-width: 8rem;
+    }
+    
+    &__pebble-box {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

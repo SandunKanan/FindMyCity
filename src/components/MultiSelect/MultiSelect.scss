@@ -1,0 +1,14 @@
+.mSelect {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 0;
+
+    &__options-box {
+        width: 8rem;
+    }
+
+    &__option {
+        display: flex;
+        justify-content: space-between;
+    }
+}
