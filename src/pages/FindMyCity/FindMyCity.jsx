@@ -6,12 +6,11 @@ import { useNavigate } from 'react-router-dom'
 import Pebble from '../../components/Pebble/Pebble'
 import { useState, useEffect } from 'react'
 
-export default function FindMyCity() {
+export default function FindMyCity({setUserData}) {
 
     const URL = 'http://localhost:8080'
 
     const navigate = useNavigate()
-    //fdfd
 
     const [cleanAir, setCleanAir] = useState(false)
     const [cleanWater, setCleanWater] = useState(false)
@@ -90,14 +89,8 @@ export default function FindMyCity() {
     function handleSubmit(e) {
         e.preventDefault()
         const post = createPost(e.target)
-        console.log(post)
-        axios.post(`${URL}/salaries`, post)
-            .then(resp => {
-                console.log(resp.data)
-                goToRecs()
-            }).catch(error => console.log(error))
-
-        // navigate('/recommendations')
+        setUserData(post)
+        goToRecs()
     }
 
     const pebbles = [
