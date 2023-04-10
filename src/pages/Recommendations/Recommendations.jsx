@@ -1,53 +1,49 @@
 import './Recommendations.scss'
 import { useEffect, useState } from 'react'
 import axios from 'axios'
+import RecItem from '../../components/RecItem/RecItem';
 
 
 export default function Recommendations({userData}) {
     
     const URL = 'http://localhost:8080'
-    // const [barcelonaPic, setBarcelonaPic] = useState(null)
-    // const [ZurichPic, setZurichPic] = useState(null)
-    // const [SydneyPic, setSydneyPic] = useState(null)
-
-    const [salaryData, setSalaryData] = useState(null)
-
-    const barcPic = "https://d13k13wj6adfdf.cloudfront.net/urban_areas/barcelona_web-8ce54f1421.jpg"
-    const zuriPic = "https://d13k13wj6adfdf.cloudfront.net/urban_areas/zurich_web-f08acd93ea.jpg"
-    const sydPic = "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sydney_web-b47b8df85c.jpg"
-
+    const [scoreData, setScoreData] = useState(null)
 
     useEffect(() => {
-        axios.post(`${URL}/salaries`, userData)
-        .then(resp => {
-            setSalaryData(JSON.stringify(resp.data))
-        }).catch(error => console.log(error))
-    }, [])
+        if (userData) {
+            axios.post(`${URL}/findmycity`, userData)
+                .then(resp => {
+                console.log(resp.data)
+                setScoreData(resp.data)
+                sessionStorage.setItem("respData", JSON.stringify(resp.data));
+                sessionStorage.setItem("userData", JSON.stringify(userData));
+            }).catch(error => console.log(error))
+        } else if (sessionStorage.getItem("respData")) {
+            setScoreData(JSON.parse(sessionStorage.getItem("respData")))
+        }
+    }, [userData])
 
-// navigate('/recommendations')
+    if (!userData && !sessionStorage.getItem("respData")) {
+        return (
+            <main>
+                <h3>We do not currently have any recommendations for you. Please go to "Find my city"</h3>
+            </main>
+        )
+    }
 
-    if (!salaryData) {
-        return <h1>Loading</h1>
+    if (!scoreData) {
+        console.log()
+        return <main>
+            <h1>Loading</h1>
+        </main>
     }
 
     return (
-        <main class="rec">
+        <main className="rec">
             <h1>Recommendations</h1>
             <h2>Salary data</h2>
-            <p>{salaryData}</p>
             <p>Based on your inputs, here are a few options for you</p>
-            <div className='rec__item'>
-                <h3>Barcelona, Spain: 85% match</h3>
-                <img className='rec__img' src={barcPic} alt='Barcelona' />
-            </div>
-            <div className='rec__item'>
-                <h3>Zurich, Switzerland: 79% match</h3>
-                <img className='rec__img' src={zuriPic} alt='Barcelona' />
-            </div>
-            <div className='rec__item'>
-                <h3>Sydney, Australia: 75% match</h3>
-                <img className='rec__img' src={sydPic} alt='Barcelona' />
-                </div>
+            {scoreData.map(rec => <RecItem data={rec} key={rec.city_name} userData={userData} />)}
         </main>
     )
 }

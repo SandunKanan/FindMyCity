@@ -2,11 +2,22 @@
 @use '../../styles/partials/mixins' as *;
 
 .header {
-    background-color: yellowgreen;
+    background-color: $lightGrey;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+
+    // width: $desktop-background-width;
+    // margin: auto;
+
+    &__title {
+        font-size: 2rem;
+    }
 
     &__content {
         display: flex;
         justify-content: space-between;
+        align-items: center;
         margin: auto;
         padding: 1rem 3rem;
         @include desktop {
@@ -20,6 +31,31 @@
     }
 
     &__nav-item {
-        margin: 0 0.5rem
+        margin: 0 0.5rem;
+    }
+
+    &__nav-text {
+        font-weight: normal;
+
+        color: inherit;
+        text-decoration: underline 0.15em rgba(12, 12, 12, 0);
+        transition: text-decoration-color 300ms;
+        &:hover {
+            text-decoration-color: rgba(12, 12, 12, 1);
+        }
+        &--active {
+            font-weight: bold;
+        }
+
     }
 }
+
+// a {
+//     color: inherit;
+//     text-decoration: underline 0.15em rgba(255, 255, 255, 0);
+//     transition: text-decoration-color 300ms;
+//   }
+  
+//   a:hover {
+//     text-decoration-color: rgba(255, 255, 255, 1);
+//   }

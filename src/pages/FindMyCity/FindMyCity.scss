@@ -2,10 +2,10 @@
 @use '../../styles/partials/mixins' as *;
 
 .find {
-    @include desktop {
-        width: $desktop-content-width;
-        margin: auto;
-    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
     &__title {
         margin: 0.5rem 0;
@@ -13,8 +13,8 @@
 
     &__subtitle {
         margin: 0.5rem 0;
-        margin-top: 3rem;
-        margin-bottom: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 1.5rem;
 
     }
 }
@@ -39,10 +39,44 @@
 
     &__pebble-label {
         min-width: 8rem;
+        margin-right: 2rem;
+        line-height: 2.25rem;
     }
     
     &__pebble-box {
         display: flex;
         flex-wrap: wrap;
+    }
+
+    &__btn {
+        border: none;
+        border-radius: 1.25rem;
+        padding: 0 1rem;
+        height: 2.375rem;
+        margin: 1rem 0;
+        font-size: .8125rem;
+        font-weight: bold;
+        width: 50%;
+        background-color: $inStock-Indigo;
+        color: white;
+
+        align-self: flex-end;
+        width: 15rem;
+
+        &:hover {
+            background-color: $graphite;
+        }
+
+        &--cancel {
+            background-color: white;
+            color: $slate;
+            border: 0.0625rem solid $cloud;
+
+            &:hover {
+                border-color: $inStock-Indigo;
+                background-color: white;
+                color: $inStock-Indigo;
+            }
+        }
     }
 }

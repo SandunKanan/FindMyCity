@@ -1,8 +1,20 @@
 .info {
-    &__country-list {
-        display: flex;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0;
+
+    &__img {
+        width: 100vw;
+        height: 30rem;
+        
+
     }
-    &__city {
-        margin: 0.25rem 1rem;
+    &__text {
+        width: 100%;
+    }
+    &__cat {
+        width: 100%;
     }
 }

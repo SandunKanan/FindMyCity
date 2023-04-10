@@ -17,18 +17,21 @@ export default function FindMyCity({setUserData}) {
     const [healthCare, setHealthCare] = useState(false)
     const [lowCrime, setLowCrime] = useState(false)
     const [carFree, setCarFree] = useState(false)
-
+    const [edu, setEdu] = useState(false)
+    const [internet, setInternet] = useState(false)
+    const [tolerant, setTolerant] = useState(false)
     const [smallCity, setSmallCity] = useState(false)
     const [midSize, setMidSize] = useState(false)
     const [largeCity, setLargeCity] = useState(false)
-    
     const [lowTraffic, setLowTraffic] = useState(false)
-
+    const [culture, setCulture] = useState(false)
     const [costLiving, setCostLiving] = useState(false)
     const [costRent, setCostRent] = useState(false)
     const [ratio, setRatio] = useState(false)
+    const [enviroQuality, setEnviroQuality] = useState(false)
+    const [lowTaxes, setLowTaxes] = useState(false)
 
-    const [budget, setBudget] = useState("")
+    // const [budget, setBudget] = useState("")
     // const [job, setJob] = useState("")
     // const [exp, setExp] = useState("")
 
@@ -54,21 +57,34 @@ export default function FindMyCity({setUserData}) {
             })
     }, [])
 
+
+//     {"color": "#f1351b","name": "Outdoors","score_out_of_10": 4.13}
+//        cleanAir,
+//        cleanWater,
+//        costRent,
+//        salaryToCostOfLiving,
+//        salary,
+
     function createPost(data) {
+
         return {
+            carFree,
             cleanAir,
             cleanWater,
+            costLiving,
+            costRent,
             healthCare,
-            lowCrime,
-            carFree,
             smallCity,
             midSize,
             largeCity,
+            lowCrime,
             lowTraffic,
-            costLiving,
-            costRent,
             ratio,
-            budget: data.budget.value,
+            edu,
+            culture,
+            internet,
+            tolerant,
+            enviroQuality,
             role: data.role.value,
             exp: data.exp.value
         }
@@ -100,7 +116,11 @@ export default function FindMyCity({setUserData}) {
                 {text: 'CLEAN AIR', state: cleanAir, setState: setCleanAir},
                 {text: 'CLEAN WATER', state: cleanWater, setState: setCleanWater},
                 {text: 'LOW CRIME', state: lowCrime, setState: setLowCrime},
-                {text: 'HEALTHCARE', state: healthCare, setState: setHealthCare}
+                {text: 'HEALTHCARE', state: healthCare, setState: setHealthCare},
+                {text: 'CLEAN ENVIRONNEMT', state: enviroQuality, setState: setEnviroQuality},
+                {text: 'GOOD EDUCATION', state: edu, setState: setEdu},
+                {text: 'GOOD INTERNET', state: internet, setState: setInternet},
+                {text: 'TOLERANT SOCIETY', state: tolerant, setState: setTolerant},
             ]
         },
         {
@@ -108,6 +128,7 @@ export default function FindMyCity({setUserData}) {
             data: [
                 {text: 'CAR-FREE LIFE', state: carFree, setState: setCarFree},
                 {text: 'LOW TRAFFIC', state: lowTraffic, setState: setLowTraffic},
+                {text: 'LEISURE & CULTURE', state: culture, setState: setCulture},
             ]
         },
         {
@@ -123,7 +144,8 @@ export default function FindMyCity({setUserData}) {
             data: [
                 {text: 'LOW COST OF LIVING', state: costLiving, setState: setCostLiving},
                 {text: 'LOW RENT', state: costRent, setState: setCostRent},
-                {text: 'HIGH SALARY/COST OF LIVING RATIO', state: ratio, setState: setRatio}
+                {text: 'HIGH SALARY/COST OF LIVING RATIO', state: ratio, setState: setRatio},
+                {text: 'LOW TAXES', state: lowTaxes, setState: setLowTaxes}
             ]
         }
     ]
@@ -151,12 +173,12 @@ export default function FindMyCity({setUserData}) {
                 })}
 
                 <h2 className='find__subtitle'>Your current situation</h2>
-                <Input  name='budget' label="What is your budget? (Monthly)" placeholder={'Monthly Budget'} />
+                {/* <Input  name='budget' label="What is your budget? (USD per month)" placeholder={'Monthly Budget'} /> */}
                 <Select name='role' label="What is your current role?" options={jobsList}/>
                 <Select name='exp' label="How many years experience do you have?" options={expList}/>
 
                 {/* Submit Button */}
-                <button>Submit</button>
+                <button className='form__btn'>Submit</button>
             </form>
         </main>
     )

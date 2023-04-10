@@ -1,14 +1,27 @@
 .pebble {
-    border: 0.0625rem solid yellowgreen;
+    box-sizing: border-box;
+    border: 0.0625rem solid rgba($color: darkcyan, $alpha: 0.5);
     width: fit-content;
     padding: 0.5rem 1rem;
     border-radius: 2rem;
     cursor: pointer;
+    transition: 0.1s;
 
     margin-right: 1rem;
     margin-bottom: 0.5rem;
 
+    &:hover {
+        background-color: rgba(175, 215, 228, 0.7);
+    }
+
     &--active {
-        background-color: yellowgreen;
+        background-color: lightblue;
+        background-color: rgba($color: darkcyan, $alpha: 0.7);
+        border-color: rgba($color: darkcyan, $alpha: 0);
+
+
+        &:hover {
+            background-color: rgba($color: darkcyan, $alpha: 0.7);
+        }
     }
 }

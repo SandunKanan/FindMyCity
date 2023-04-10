@@ -24,8 +24,8 @@ export default function Select({name, label, options}) {
 
     return (
         <div className='select'>
-            <label>{label}</label>
-            <select className="select__field" name={name}>
+            <label className='select__label'>{label}</label>
+            <select className="select__field" name={name} required>
                 {selectOptions.map(option => <option key={option.value} value={option.value}>{option.text}</option>)}
             </select>
         </div>

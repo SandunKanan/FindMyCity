@@ -1,5 +1,31 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
 .input {
     display: flex;
     justify-content: space-between;
     margin: 0.5rem 0;
+
+    &__label {
+        
+    }
+
+    &__input {
+        border-radius: 1.25rem;
+        padding: 0 1rem;
+        height: 2.375rem;
+        font-size: .9375rem;
+        margin-top: 0.25rem;
+        margin-bottom: 0.5rem;
+        width: 15rem;
+
+        &:focus {
+            outline: 0.0625rem solid darkcyan;
+        }
+
+        &--error {
+            border: 0.125rem solid $red
+        }
+    }
 }
+

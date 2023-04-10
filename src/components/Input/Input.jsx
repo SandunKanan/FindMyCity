@@ -4,8 +4,8 @@ export default function Input({name, label, placeholder}) {
 
     return (
         <div className='input'>
-            <label>{label}</label>
-            <input name={name} type="text" placeholder={placeholder} />
+            <label className='input__label'>{label}</label>
+            <input className='input__input' name={name} type="text" placeholder={placeholder} required/>
         </div>
     )
 }

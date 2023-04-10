@@ -1,0 +1,36 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
+.item {
+    margin: 1.5rem 0;
+    display: flex;
+
+    &__img {
+        max-width: 100%;
+        max-height: 25rem;
+        margin-right: 2rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        border: 0.125rem solid rgba(12, 12, 12, 0);
+        box-shadow: 0px .125rem .3125rem $slate;
+        
+        transition: 0.25s;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+
+    &__cityName {
+        font-size: 2.5rem;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    &__text {
+        font-size: 0.9375rem;
+        margin: 0.25rem 0;
+    }
+}

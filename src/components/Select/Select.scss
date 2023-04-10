@@ -1,9 +1,31 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
 .select {
     display: flex;
     justify-content: space-between;
     margin: 0.5rem 0;
 
+    &__label {
+        min-width: 8rem;
+        margin-right: 1rem;
+        line-height: 2.25rem;
+        font-size: 1.125rem;
+        font-weight: bold;
+    }
+
     &__field {
-        width: 9rem;
+        border-radius: 1.25rem;
+        padding: 0 1rem;
+        height: 2.375rem;
+        font-size: .9375rem;
+        margin-top: 0.25rem;
+        margin-bottom: 0.5rem;
+        width: 15rem;
+
+        &:focus {
+            border: 0.0625rem solid darkcyan;
+            border-color: #2a6dc9 !important;
+        }
     }
 }

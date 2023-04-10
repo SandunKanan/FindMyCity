@@ -25,6 +25,7 @@ function App() {
         <Route path='/recommendations' element={<Recommendations userData={userData} />} />
         <Route path='/compare' element={<Compare />} />
         <Route path='/info' element={<Info />} />
+        <Route path='/info/:city' element={<Info />} />
       </Routes>
       </BrowserRouter>
     </div>
