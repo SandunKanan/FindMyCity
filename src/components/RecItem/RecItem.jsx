@@ -52,13 +52,13 @@ export default function RecItem({data, userData}) {
                 <p className='item__text'>{parse(city_data.summary.replaceAll("</p>", "").split("<p>")[1])}</p>
                 <p className='item__text'><b>Expected Income: ${city_data.salary} USD/year</b> for <b>{city_data.title}s</b> with 3-7 years experience. </p>
                 <p className='item__text'><b>Cost of Living: ${city_data.total_cost ? (city_data.total_cost*12).toFixed(2) : '0'} USD/year</b> on average, giving an <b>income to cost ratio of {city_data.ratio ? city_data.ratio.toFixed(2) : '0'}</b></p>
-                <p><b>Why we selected this city (Scores out of 10):</b></p>
+                <p className='item__text'><b>Why we selected this city (Scores out of 10):</b></p>
                 <div className='item__pebbles'>
                     {Object.keys(goodCats).map(key => {
                         return <PebbleStatic good={true} text={`${mapping[key]}: ${Number(goodCats[key]).toFixed(2)}`} />
                     })}
                 </div>
-                {Object.keys(badCats).length>0 && <p><b>Note: This city rates poorly in the following categories:</b></p>}
+                {Object.keys(badCats).length>0 && <p className='item__text'><b>Note: This city rates poorly in the following categories:</b></p>}
                 <div className='item__pebbles'>
                     {Object.keys(badCats).map(key => {
                         return <PebbleStatic good={false} text={`${mapping[key]}: ${Number(badCats[key]).toFixed(2)}`} />
