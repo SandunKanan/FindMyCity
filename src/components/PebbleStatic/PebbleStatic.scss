@@ -20,5 +20,8 @@
     &--bad {
         background-color: rgba($color: red, $alpha: 0.2);
         border-color: rgba($color: red, $alpha: 0.1);
+        &:hover {
+            background-color: rgba($color: red, $alpha: 0.4);
+        }
     }
 }
