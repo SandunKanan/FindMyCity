@@ -39,7 +39,7 @@ export default function Info() {
     return (
         <main className="info">
             <img className="info__img" src={info.city_info.web_url}/>
-            <h1>Info Page</h1>
+            <h1>{info.city_info.city_name}</h1>
             {Object.keys(info).map(cat => {
                 return (
                     <div className='info__cat' key={cat}>

@@ -1,0 +1,28 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
+.btn {
+    border: none;
+    border-radius: 1.25rem;
+    padding: 0 1rem;
+    height: 2.375rem;
+    margin: 1rem 0;
+    font-size: .8125rem;
+    font-weight: bold;
+    width: 50%;
+    background-color: darkcyan;
+    color: white;
+
+    align-self: flex-end;
+    width: 15rem;
+
+    &:hover {
+        background-color: $graphite;
+    }
+
+    &--large {
+        height: 3rem;
+        border-radius: 1.75rem;
+        font-size: 1.25rem;
+    }
+}

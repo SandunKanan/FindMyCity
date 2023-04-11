@@ -14,9 +14,11 @@
         background-color: rgba(175, 215, 228, 0.7);
     }
     &--active {
-        background-color: lightblue;
         background-color: rgba($color: darkcyan, $alpha: 0.7);
         border-color: rgba($color: darkcyan, $alpha: 0);
-
+    }
+    &--bad {
+        background-color: rgba($color: red, $alpha: 0.2);
+        border-color: rgba($color: red, $alpha: 0.1);
     }
 }

@@ -43,7 +43,7 @@ export default function Recommendations({userData}) {
             <h1>Recommendations</h1>
             <h2>Salary data</h2>
             <p>Based on your inputs, here are a few options for you</p>
-            {scoreData.map(rec => <RecItem data={rec} key={rec.city_name} userData={userData} />)}
+            {scoreData.map(rec => <RecItem data={rec} key={rec.city_data.city_name} userData={userData} />)}
         </main>
     )
 }

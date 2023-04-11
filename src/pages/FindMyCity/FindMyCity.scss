@@ -24,8 +24,6 @@
     display: flex;
     flex-direction: column;
 
-    
-
     &__item-box {
         display: flex;
         justify-content: space-between;
@@ -57,7 +55,7 @@
         font-size: .8125rem;
         font-weight: bold;
         width: 50%;
-        background-color: $inStock-Indigo;
+        background-color: darkcyan;
         color: white;
 
         align-self: flex-end;
