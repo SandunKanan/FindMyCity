@@ -1,7 +1,7 @@
 # FindMyCity
 
 ### Formerly MyGlobalHome
-This project is the frontend implementation of MyGlobalHome, a platform that helps people make informed decisions about which city to move to. The frontend is built with React and utilizes Axios for making API requests to the backend.
+This project is the frontend implementation of FindMyCity, a platform that helps people make informed decisions about which city to move to. The frontend is built with React and utilizes Axios for making API requests to the backend.
 
 Backend: https://github.com/SandunKanan/FindMyCity-server
 
@@ -28,9 +28,9 @@ To install and run the frontend locally, follow these steps:
 #### Clone the repository
 
 Copy code
-git clone https://github.com/your-username/myglobalhome-client.git
+git clone https://github.com/your-username/FindMyCity.git
 
-cd myglobalhome-client
+cd FindMyCity
 
 npm i 
 npm start
