@@ -6,29 +6,40 @@
     display: flex;
 
 
-    &__img {
+    &__img-wrapper {
+        flex: 1;
         margin-right: 2rem;
         height: 25rem;
+        // width: 20rem;
         border-radius: 0.5rem;
         cursor: pointer;
         border: 0.125rem solid rgba(12, 12, 12, 0);
         box-shadow: 0px .125rem .3125rem $slate;
-        
+        overflow: hidden; /* Ensures the image does not overflow the container */
+
         transition: 0.25s;
         &:hover {
             transform: scale(1.1);
         }
     }
 
+    &__img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures the image maintains its aspect ratio and covers the container */
+    }
+
+
     &__cityName {
         font-size: 2.5rem;
     }
 
     &__content {
+        flex: 2;
         display: flex;
         flex-direction: column;
     }
-    
+
     &__text {
         font-size: 0.9375rem;
         margin: 0.25rem 0;
