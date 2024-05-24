@@ -1,20 +1,54 @@
-.info {
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
 
+.info {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 0;
-    
-    &__img {
-        width: 100vw;
-        height: 30rem;
-        
+    padding-top: 5rem;
 
+    &__img {
+        width: $desktop-background-width;
+        height: 18rem;
+        background-size: cover;
+        background-position: 50% 75%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
+    &__title-box {
+        padding: 1rem 2rem;
+        background-color: rgba($color: $lightGrey, $alpha: 1);
+        border-radius: 1rem;
+    }
+
+    &__title {
+        font-size: 3rem;
+        color: #0D0D0D;
+    }
+
+    &__content {
+        margin-top: 3rem;
+    }
+
+    &__sec-title {
+        font-size: 2.5rem;
+        text-shadow: 1px 1px rgba(140, 140, 140, 0.5);
+    }
+
     &__text {
-        width: 100%;
+        line-height: 1.5rem;
+        margin: 1rem 0;
+        font-size: 1.25rem;
+
+        &--big {
+            font-size: 1.75rem;
+            line-height: 2rem;
+        }
     }
-    &__cat {
+
+    &__category-box {
         width: 100%;
     }
 }

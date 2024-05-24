@@ -1,0 +1,32 @@
+@use '../../styles/partials/variables' as *;
+@use '../../styles/partials/mixins' as *;
+
+.sub {
+    background-color: $lightGrey;
+    height: 4rem;
+    width: $desktop-background-width;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.25);
+
+    &__nav-item {
+        margin: 0 1rem;
+    }
+
+    &__nav-text {
+        font-weight: normal;
+        margin: 0 1rem;
+
+        text-decoration: underline 0.15em rgba(12, 12, 12, 0);
+        color: inherit;
+        transition: text-decoration-color 300ms;
+        &:hover {
+            text-decoration-color: rgba(12, 12, 12, 1);
+        }
+        &--active {
+            font-weight: 900;
+        }
+
+    }
+}

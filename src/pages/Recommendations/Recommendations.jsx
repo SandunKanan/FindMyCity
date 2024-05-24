@@ -5,7 +5,7 @@ import RecItem from '../../components/RecItem/RecItem';
 
 
 export default function Recommendations({userData}) {
-    
+
     const URL = 'http://localhost:8080'
     const [scoreData, setScoreData] = useState(null)
 
@@ -13,7 +13,7 @@ export default function Recommendations({userData}) {
         if (userData) {
             axios.post(`${URL}/findmycity`, userData)
                 .then(resp => {
-                console.log(resp.data)
+                // console.log(resp.data)
                 setScoreData(resp.data)
                 sessionStorage.setItem("respData", JSON.stringify(resp.data));
                 sessionStorage.setItem("userData", JSON.stringify(userData));
@@ -21,6 +21,7 @@ export default function Recommendations({userData}) {
         } else if (sessionStorage.getItem("respData")) {
             setScoreData(JSON.parse(sessionStorage.getItem("respData")))
         }
+
     }, [userData])
 
     if (!userData && !sessionStorage.getItem("respData")) {
@@ -32,7 +33,6 @@ export default function Recommendations({userData}) {
     }
 
     if (!scoreData) {
-        console.log()
         return <main>
             <h1>Loading</h1>
         </main>
@@ -41,9 +41,9 @@ export default function Recommendations({userData}) {
     return (
         <main className="rec">
             <h1>Recommendations</h1>
-            <h2>Salary data</h2>
+            {/* <h2>Salary data</h2> */}
             <p>Based on your inputs, here are a few options for you</p>
-            {scoreData.map(rec => <RecItem data={rec} key={rec.city_data.city_name} userData={userData} />)}
+            {scoreData.map((rec, index) => <RecItem rank={index+1} data={rec} key={rec.city_data.city_name} userData={userData} />)}
         </main>
     )
 }
