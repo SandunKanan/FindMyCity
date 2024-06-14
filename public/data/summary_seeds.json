@@ -1,0 +1,1598 @@
+[
+ {
+ "id": 1,
+ "summary": "<p>Aarhus, Denmark, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 65.08999999999999,
+ "city_id": 1
+ },
+ {
+ "id": 2,
+ "summary": "<p>Adelaide, Australia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 61.19986486486487,
+ "city_id": 2
+ },
+ {
+ "id": 3,
+ "summary": "<p>Albuquerque, New Mexico, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 51.512162162162156,
+ "city_id": 3
+ },
+ {
+ "id": 4,
+ "summary": "<p>Almaty, Kazakhstan, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>taxation</b>. </p>",
+ "total_score": 52.75824324324324,
+ "city_id": 4
+ },
+ {
+ "id": 5,
+ "summary": "<p> Amsterdam is one of the most <b>bike-friendly</b> cities on the planet: It has more bikes than people and 63% of its residents use them for their daily commute. It is also one of the best cities in Europe for starting and operating a business. With its <b>clean environment</b>, <b>cultural diversity</b> and <b>well-developed infrastructure</b>, Amsterdam is a great place to live.</p> <p>Amsterdam is one of the top ten city matches for 20.1% of FindMyCity users.</p>",
+ "total_score": 69.59878378378377,
+ "city_id": 5
+ },
+ {
+ "id": 6,
+ "summary": "<p>Anchorage, Alaska, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>tolerance</b>. </p>",
+ "total_score": 52.02472972972975,
+ "city_id": 6
+ },
+ {
+ "id": 7,
+ "summary": "<p>Andorra features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>environmental quality</b>, <b>internet access</b> and <b>tolerance</b>. </p>",
+ "total_score": 29.364324324324322,
+ "city_id": 7
+ },
+ {
+ "id": 8,
+ "summary": "<p>Ankara, Turkey, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>leisure & culture</b>. </p> <p>Ankara is one of the top ten city matches for 0.9% of FindMyCity users.</p>",
+ "total_score": 52.01594594594593,
+ "city_id": 8
+ },
+ {
+ "id": 9,
+ "summary": "<p>Asheville, North Carolina, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>tolerance</b>. </p>",
+ "total_score": 50.92864864864867,
+ "city_id": 9
+ },
+ {
+ "id": 10,
+ "summary": "<p>Asuncion, Paraguay, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>taxation</b>. </p>",
+ "total_score": 47.11594594594596,
+ "city_id": 10
+ },
+ {
+ "id": 11,
+ "summary": "<p> Athens, the birthplace of democracy, is a city with deep roots in history and culture. Its grand architecture, <b>Mediterranean climate</b> and millions of annual visitors feed a thriving tourism industry, creating thousands of Athens jobs. Shipping, finance and international trade are also important elements of Athens, which offers <b>affordable housing</b> and proximity to countless <b>recreational and cultural activities </b>.</p> <p>Athens is one of the top ten city matches for 0.7% of FindMyCity users.</p>",
+ "total_score": 55.062567567567555,
+ "city_id": 11
+ },
+ {
+ "id": 12,
+ "summary": "<p>Atlanta, Georgia, is among the best cities with a <b>vibrant startup scene</b>. According to our city rankings, this is a good place to live with high ratings in <b>venture capital</b>, <b>business freedom</b> and <b>healthcare</b>. </p> <p>Atlanta is one of the top ten city matches for 6.5% of FindMyCity users.</p>",
+ "total_score": 58.03756756756757,
+ "city_id": 12
+ },
+ {
+ "id": 13,
+ "summary": "<p>Auckland, New Zealand, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Auckland is one of the top ten city matches for 1.7% of FindMyCity users.</p>",
+ "total_score": 60.44162162162162,
+ "city_id": 13
+ },
+ {
+ "id": 14,
+ "summary": "<p>Austin, Texas, is among the best cities with a <b>vibrant startup scene</b>. According to our city rankings, this is a good place to live with high ratings in <b>venture capital</b>, <b>business freedom</b> and <b>healthcare</b>. </p> <p>Austin is one of the top ten city matches for 9.0% of FindMyCity users.</p>",
+ "total_score": 60.5177027027027,
+ "city_id": 14
+ },
+ {
+ "id": 15,
+ "summary": "<p>Baku, Azerbaijan, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p> <p>Baku is one of the top ten city matches for 1.6% of FindMyCity users.</p>",
+ "total_score": 49.984459459459465,
+ "city_id": 15
+ },
+ {
+ "id": 16,
+ "summary": "<p>Bali, Indonesia, features a <b>very safe living environment</b>. This urban area is consistently ahead in <b>outdoors</b>. </p> <p>Bali is one of the top ten city matches for 0.7% of FindMyCity users.</p>",
+ "total_score": 44.287837837837834,
+ "city_id": 16
+ },
+ {
+ "id": 17,
+ "summary": "<p> This urban area is consistently ahead in <b>healthcare</b>. </p>",
+ "total_score": 45.36324324324325,
+ "city_id": 17
+ },
+ {
+ "id": 18,
+ "summary": "<p>Bangkok, Thailand, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>safety</b>. </p> <p>Bangkok is one of the top ten city matches for 2.7% of FindMyCity users.</p>",
+ "total_score": 54.17243243243245,
+ "city_id": 18
+ },
+ {
+ "id": 19,
+ "summary": "<p> Barcelona offers an engaging mix of relaxed lifestyle and innovative business environment, making it one of the most <b>attractive startup scenes</b> in Europe. The city also boasts a great cultural heritage and a modern, active social scene that highlights sports, city beaches and excellent local food. Adding the affordable <b>high quality health services</b> and <b>good travel connections</b>, and Barcelona will appeal to many.</p> <p>Barcelona is one of the top ten city matches for 2.3% of FindMyCity users.</p>",
+ "total_score": 63.35378378378377,
+ "city_id": 19
+ },
+ {
+ "id": 20,
+ "summary": "<p>Beijing, China, is among the leading cities with a <b>higher number of accelerators or available funding</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>travel connectivity</b> and <b>safety</b>. </p> <p>Beijing is one of the top ten city matches for 2.5% of FindMyCity users.</p>",
+ "total_score": 53.410270270270274,
+ "city_id": 20
+ },
+ {
+ "id": 21,
+ "summary": "<p>Beirut, Lebanon, is characterized by <b>low taxes</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p>",
+ "total_score": 42.95716216216216,
+ "city_id": 21
+ },
+ {
+ "id": 22,
+ "summary": "<p>Belfast, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 59.546081081081105,
+ "city_id": 22
+ },
+ {
+ "id": 23,
+ "summary": "<p>Belgrade, Serbia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>tolerance</b>. </p> <p>Belgrade is one of the top ten city matches for 2.0% of FindMyCity users.</p>",
+ "total_score": 50.90851351351351,
+ "city_id": 23
+ },
+ {
+ "id": 24,
+ "summary": "<p>Belize City, Belize, is characterized by <b>low taxes</b>. This urban area is consistently ahead in <b>tolerance</b>. </p>",
+ "total_score": 28.685000000000006,
+ "city_id": 24
+ },
+ {
+ "id": 25,
+ "summary": "<p>Bengaluru, India, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>startups</b> and <b>venture capital</b>. </p> <p>Bengaluru is one of the top ten city matches for 2.0% of FindMyCity users.</p>",
+ "total_score": 47.55689189189189,
+ "city_id": 25
+ },
+ {
+ "id": 26,
+ "summary": "<p>Bergen, Norway, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 60.09445945945945,
+ "city_id": 26
+ },
+ {
+ "id": 27,
+ "summary": "<p> Berlin is a sprawling, <b>diverse metropolis</b>, home to people from around the world. Although it is roughly nine times the size of Paris, Berlin's key districts are <b>well-connected</b> by public transport or cycling roads, and many even close enough for walking. The flexible work environment combined with easy access to <b>venture capital</b> attracts young people and entrepreneurs, making Berlin one of the most <b>vibrant</b> startup scenes in Europe.</p> <p>Berlin is one of the top ten city matches for 30.8% of FindMyCity users.</p>",
+ "total_score": 69.96513513513514,
+ "city_id": 27
+ },
+ {
+ "id": 28,
+ "summary": "<p>Bern, Switzerland, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Bern is one of the top ten city matches for 2.3% of FindMyCity users.</p>",
+ "total_score": 62.41121621621622,
+ "city_id": 28
+ },
+ {
+ "id": 29,
+ "summary": "<p>Bilbao, Spain, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 59.019459459459455,
+ "city_id": 29
+ },
+ {
+ "id": 30,
+ "summary": "<p>Birmingham, United Kingdom, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>safety</b> and <b>healthcare</b>. </p> <p>Birmingham is one of the top ten city matches for 0.6% of FindMyCity users.</p>",
+ "total_score": 58.58513513513513,
+ "city_id": 30
+ },
+ {
+ "id": 31,
+ "summary": "<p>Birmingham, Alabama, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 45.74148648648649,
+ "city_id": 31
+ },
+ {
+ "id": 32,
+ "summary": "<p>Bogota, Colombia, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>tolerance</b> and <b>outdoors</b>. </p> <p>Bogota is one of the top ten city matches for 1.4% of FindMyCity users.</p>",
+ "total_score": 52.68162162162161,
+ "city_id": 32
+ },
+ {
+ "id": 33,
+ "summary": "<p>Boise, Idaho, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 55.63108108108109,
+ "city_id": 33
+ },
+ {
+ "id": 34,
+ "summary": "<p>Bologna, Italy, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 53.89972972972973,
+ "city_id": 34
+ },
+ {
+ "id": 35,
+ "summary": "<p>Bordeaux, France, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Bordeaux is one of the top ten city matches for 0.2% of FindMyCity users.</p>",
+ "total_score": 57.256486486486494,
+ "city_id": 35
+ },
+ {
+ "id": 36,
+ "summary": "<p> One of the oldest and most historic cities in the US, Boston is a center of higher education with some of the <b>top universities</b> in the world. It has also developed a vibrant technology scene and is home to numerous <b>venture capital</b> firms, all supporting high rates of innovation and entrepreneurship. Add its <b>tolerant</b> environment, great quality of <b>healthcare</b> and beautiful New England nature, and you've got an enticing city that attracts talent from around the world.</p> <p>Boston is one of the top ten city matches for 12.8% of FindMyCity users.</p>",
+ "total_score": 67.32635135135136,
+ "city_id": 36
+ },
+ {
+ "id": 37,
+ "summary": "<p>Boulder, Colorado, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Boulder is one of the top ten city matches for 13.4% of FindMyCity users.</p>",
+ "total_score": 64.25229729729732,
+ "city_id": 37
+ },
+ {
+ "id": 38,
+ "summary": "<p>Bozeman, Montana, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 48.48432432432433,
+ "city_id": 38
+ },
+ {
+ "id": 39,
+ "summary": "<p>Bratislava, Slovakia, features a <b>very safe living environment</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>cost of living</b>. </p> <p>Bratislava is one of the top ten city matches for 1.7% of FindMyCity users.</p>",
+ "total_score": 57.406891891891895,
+ "city_id": 39
+ },
+ {
+ "id": 40,
+ "summary": "<p>Brighton, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.39027027027026,
+ "city_id": 40
+ },
+ {
+ "id": 41,
+ "summary": "<p>Brisbane, Australia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Brisbane is one of the top ten city matches for 0.7% of FindMyCity users.</p>",
+ "total_score": 63.16783783783782,
+ "city_id": 41
+ },
+ {
+ "id": 42,
+ "summary": "<p>Bristol, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>tolerance</b>. </p>",
+ "total_score": 61.426351351351336,
+ "city_id": 42
+ },
+ {
+ "id": 43,
+ "summary": "<p>Brno, Czechia, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>healthcare</b>. </p>",
+ "total_score": 58.28702702702703,
+ "city_id": 43
+ },
+ {
+ "id": 44,
+ "summary": "<p> <i>By Katre Liis Kallas</i><br><br>Life in Brussels is a <b>culturally rich</b>, central-European adventure offering a high quality of life. Home to much of the European Union infrastructure, it attracts a diverse population, while maintaining its distinct identity. You can go <b>hiking</b> in the woods, attend various cultural events and talk to people of multiple nationalities in a single day. The key districts of Brussels are well connected by a <b>quality transportation</b> network, but its <b>compact</b> size also allows for navigation by foot and all the opportunities that creates.</p> <p>Brussels is one of the top ten city matches for 0.4% of FindMyCity users.</p>",
+ "total_score": 61.962837837837846,
+ "city_id": 44
+ },
+ {
+ "id": 45,
+ "summary": "<p>Bucharest, Romania, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>safety</b>. </p> <p>Bucharest is one of the top ten city matches for 6.1% of FindMyCity users.</p>",
+ "total_score": 57.41067567567566,
+ "city_id": 45
+ },
+ {
+ "id": 46,
+ "summary": "<p>Budapest, Hungary, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Budapest is one of the top ten city matches for 2.4% of FindMyCity users.</p>",
+ "total_score": 61.15459459459461,
+ "city_id": 46
+ },
+ {
+ "id": 47,
+ "summary": "<p>Buenos Aires, Argentina, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>leisure & culture</b> and <b>tolerance</b>. </p> <p>Buenos Aires is one of the top ten city matches for 1.9% of FindMyCity users.</p>",
+ "total_score": 49.59229729729729,
+ "city_id": 47
+ },
+ {
+ "id": 48,
+ "summary": "<p>Buffalo, New York, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 56.03797297297297,
+ "city_id": 48
+ },
+ {
+ "id": 49,
+ "summary": "<p>Cairo, Egypt, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p>",
+ "total_score": 43.35243243243242,
+ "city_id": 49
+ },
+ {
+ "id": 50,
+ "summary": "<p>Calgary, Canada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Calgary is one of the top ten city matches for 4.2% of FindMyCity users.</p>",
+ "total_score": 65.5031081081081,
+ "city_id": 50
+ },
+ {
+ "id": 51,
+ "summary": "<p>Cambridge, United Kingdom, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 63.056891891891894,
+ "city_id": 51
+ },
+ {
+ "id": 52,
+ "summary": "<p>Cape Town, South Africa, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>environmental quality</b> and <b>outdoors</b>. </p> <p>Cape Town is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 45.93310810810814,
+ "city_id": 52
+ },
+ {
+ "id": 53,
+ "summary": "<p>Caracas, Venezuela, differentiates itself with <b>low living costs</b>. When considering your preferences, this city does not have any category with a high rating. </p>",
+ "total_score": 34.52013513513513,
+ "city_id": 53
+ },
+ {
+ "id": 54,
+ "summary": "<p>Cardiff, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.817162162162155,
+ "city_id": 54
+ },
+ {
+ "id": 55,
+ "summary": "<p>Casablanca, Morocco, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p>",
+ "total_score": 40.35081081081081,
+ "city_id": 55
+ },
+ {
+ "id": 56,
+ "summary": "<p>Charleston, South Carolina, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 54.797027027027035,
+ "city_id": 56
+ },
+ {
+ "id": 57,
+ "summary": "<p>Charlotte, North Carolina, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>tolerance</b>. </p> <p>Charlotte is one of the top ten city matches for 2.6% of FindMyCity users.</p>",
+ "total_score": 56.057162162162165,
+ "city_id": 57
+ },
+ {
+ "id": 58,
+ "summary": "<p>Chattanooga, Tennessee, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 49.4091891891892,
+ "city_id": 58
+ },
+ {
+ "id": 59,
+ "summary": "<p>Chennai, India, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>startups</b> and <b>safety</b>. </p>",
+ "total_score": 48.08283783783783,
+ "city_id": 59
+ },
+ {
+ "id": 60,
+ "summary": "<p>Chiang Mai, Thailand, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p> <p>Chiang Mai is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 51.011216216216205,
+ "city_id": 60
+ },
+ {
+ "id": 61,
+ "summary": "<p>Chicago, Illinois, is among the best cities with a <b>vibrant startup scene</b>. According to our city rankings, this is a good place to live with high ratings in <b>venture capital</b>, <b>business freedom</b> and <b>healthcare</b>. </p> <p>Chicago is one of the top ten city matches for 5.5% of FindMyCity users.</p>",
+ "total_score": 62.90500000000001,
+ "city_id": 61
+ },
+ {
+ "id": 62,
+ "summary": "<p>Chisinau, Moldova, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>tolerance</b>. </p> <p>Chisinau is one of the top ten city matches for 2.1% of FindMyCity users.</p>",
+ "total_score": 48.66702702702702,
+ "city_id": 62
+ },
+ {
+ "id": 63,
+ "summary": "<p>Christchurch, New Zealand, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.669729729729724,
+ "city_id": 63
+ },
+ {
+ "id": 64,
+ "summary": "<p>Cincinnati, Ohio, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Cincinnati is one of the top ten city matches for 0.2% of FindMyCity users.</p>",
+ "total_score": 56.55027027027029,
+ "city_id": 64
+ },
+ {
+ "id": 65,
+ "summary": "<p>Cleveland, Ohio, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 54.84851351351354,
+ "city_id": 65
+ },
+ {
+ "id": 66,
+ "summary": "<p>Cluj-Napoca, Romania, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>taxation</b>. </p>",
+ "total_score": 57.53378378378377,
+ "city_id": 66
+ },
+ {
+ "id": 67,
+ "summary": "<p>Cologne, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.26432432432431,
+ "city_id": 67
+ },
+ {
+ "id": 68,
+ "summary": "<p>Colorado Springs, Colorado, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>tolerance</b>. </p>",
+ "total_score": 55.11527027027028,
+ "city_id": 68
+ },
+ {
+ "id": 69,
+ "summary": "<p>Columbus, Ohio, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Columbus is one of the top ten city matches for 0.9% of FindMyCity users.</p>",
+ "total_score": 58.759324324324325,
+ "city_id": 69
+ },
+ {
+ "id": 70,
+ "summary": "<p> <i>By Maria Rahamägi</i><br><br>Copenhagen is a city with a small-town vibe. The city is best explored by bike using one of the world's most developed bike-path system and its countless cafés, bars, and parks are never far away. The <b>high standard of living</b>, easy <b>access to Internet</b>, modern metro system and a <b>thriving business environment</b> attract talent from all over the world.</p> <p>Copenhagen is one of the top ten city matches for 15.3% of FindMyCity users.</p>",
+ "total_score": 68.81594594594596,
+ "city_id": 70
+ },
+ {
+ "id": 71,
+ "summary": "<p>Cork, Ireland, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.60878378378381,
+ "city_id": 71
+ },
+ {
+ "id": 72,
+ "summary": "<p>Curitiba, Brazil, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>environmental quality</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 46.45472972972971,
+ "city_id": 72
+ },
+ {
+ "id": 73,
+ "summary": "<p>Dallas, Texas, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Dallas is one of the top ten city matches for 6.0% of FindMyCity users.</p>",
+ "total_score": 59.02243243243244,
+ "city_id": 73
+ },
+ {
+ "id": 74,
+ "summary": "<p>Dar es Salaam, Tanzania, differentiates itself with <b>low living costs</b>. This urban area is consistently ahead in <b>housing</b>. </p>",
+ "total_score": 33.68337837837837,
+ "city_id": 74
+ },
+ {
+ "id": 75,
+ "summary": "<p>Delhi, India, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>startups</b> and <b>venture capital</b>. </p> <p>Delhi is one of the top ten city matches for 2.5% of FindMyCity users.</p>",
+ "total_score": 47.155135135135126,
+ "city_id": 75
+ },
+ {
+ "id": 76,
+ "summary": "<p>Denver, Colorado, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Denver is one of the top ten city matches for 4.1% of FindMyCity users.</p>",
+ "total_score": 61.413243243243265,
+ "city_id": 76
+ },
+ {
+ "id": 77,
+ "summary": "<p>Des Moines, Iowa, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p>",
+ "total_score": 55.92121621621623,
+ "city_id": 77
+ },
+ {
+ "id": 78,
+ "summary": "<p>Detroit, Michigan, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>leisure & culture</b>. </p> <p>Detroit is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 52.3633783783784,
+ "city_id": 78
+ },
+ {
+ "id": 79,
+ "summary": "<p>Doha, Qatar, is characterized by <b>low taxes</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 54.44743243243244,
+ "city_id": 79
+ },
+ {
+ "id": 80,
+ "summary": "<p>Dresden, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.21189189189189,
+ "city_id": 80
+ },
+ {
+ "id": 81,
+ "summary": "<p>Dubai, United Arab Emirates, is characterized by <b>low taxes</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Dubai is one of the top ten city matches for 6.9% of FindMyCity users.</p>",
+ "total_score": 60.26243243243243,
+ "city_id": 81
+ },
+ {
+ "id": 82,
+ "summary": "<p> Dublin is a city marked by its long history and rich background. The city center is compact, rich in <b>urban greenery</b>, and can be easily traversed on foot. Due to its great <b>travel connections</b>, tax incentives and relatively close time zone to the US, most of the largest American technology companies have their headquarters in Dublin. There are also over 1,200 startups in the city attracted by the acces to venture capital and <b>high speed Internet</b>.</p> <p>Dublin is one of the top ten city matches for 4.9% of FindMyCity users.</p>",
+ "total_score": 63.60797297297298,
+ "city_id": 82
+ },
+ {
+ "id": 83,
+ "summary": "<p>Dusseldorf, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.201621621621626,
+ "city_id": 83
+ },
+ {
+ "id": 84,
+ "summary": "<p> Edinburgh is truly steeped in history—even its New Town was built in the 18th century. It also boasts <b>breathtaking views</b> of a hilly scenery and <b>proximity to nature</b>. With a population of 465 thousand people, walkable distances and amazing public transport, you are more likely to stumble upon your friends than in any other capital. Despite its small size, Edinburgh is still the second largest <b>financial center</b> in the UK after London.</p> <p>Edinburgh is one of the top ten city matches for 4.8% of FindMyCity users.</p>",
+ "total_score": 66.24905405405406,
+ "city_id": 84
+ },
+ {
+ "id": 85,
+ "summary": "<p>Edmonton, Canada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 61.25094594594594,
+ "city_id": 85
+ },
+ {
+ "id": 86,
+ "summary": "<p>Eindhoven, Netherlands, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Eindhoven is one of the top ten city matches for 2.7% of FindMyCity users.</p>",
+ "total_score": 65.95945945945945,
+ "city_id": 86
+ },
+ {
+ "id": 87,
+ "summary": "<p>Eugene, Oregon, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 56.758648648648645,
+ "city_id": 87
+ },
+ {
+ "id": 88,
+ "summary": "<p>Florence, Italy, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 54.33608108108109,
+ "city_id": 88
+ },
+ {
+ "id": 89,
+ "summary": "<p>Florianopolis, Brazil, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>cost of living</b> and <b>tolerance</b>. </p>",
+ "total_score": 43.69945945945945,
+ "city_id": 89
+ },
+ {
+ "id": 90,
+ "summary": "<p>Fort Collins, Colorado, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 53.06662162162162,
+ "city_id": 90
+ },
+ {
+ "id": 91,
+ "summary": "<p>Frankfurt, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Frankfurt is one of the top ten city matches for 4.4% of FindMyCity users.</p>",
+ "total_score": 62.7635135135135,
+ "city_id": 91
+ },
+ {
+ "id": 92,
+ "summary": "<p>Fukuoka, Japan, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 55.89324324324324,
+ "city_id": 92
+ },
+ {
+ "id": 93,
+ "summary": "<p>Galway, Ireland, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 60.650000000000006,
+ "city_id": 93
+ },
+ {
+ "id": 94,
+ "summary": "<p>Gdansk, Poland, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>environmental quality</b>. </p>",
+ "total_score": 55.96864864864867,
+ "city_id": 94
+ },
+ {
+ "id": 95,
+ "summary": "<p>Geneva, Switzerland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Geneva is one of the top ten city matches for 2.8% of FindMyCity users.</p>",
+ "total_score": 65.81513513513515,
+ "city_id": 95
+ },
+ {
+ "id": 96,
+ "summary": "<p>Gibraltar, Gibraltar, features a <b>very safe living environment</b>. When considering your preferences, this city does not have any category with a high rating. </p>",
+ "total_score": 25.347027027027032,
+ "city_id": 96
+ },
+ {
+ "id": 97,
+ "summary": "<p> <i>By Jaanika Jensen</i><br><br>Glasgow is an outgoing, friendly and international city with a <b>historic flavor</b>. It offers a high quality of life and a wide range of cultural activities including concerts, fairs, sports events and festivals, making it a highly <b>sociable</b> environment. The unpredictable weather might be a challenge for some, but as the <b>business and cultural center</b> of Scotland, it's an exciting choice.</p> <p>Glasgow is one of the top ten city matches for 0.6% of FindMyCity users.</p>",
+ "total_score": 61.34108108108107,
+ "city_id": 97
+ },
+ {
+ "id": 98,
+ "summary": "<p>Gothenburg, Sweden, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.449729729729725,
+ "city_id": 98
+ },
+ {
+ "id": 99,
+ "summary": "<p>Grenoble, France, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>healthcare</b>. </p>",
+ "total_score": 53.24459459459461,
+ "city_id": 99
+ },
+ {
+ "id": 100,
+ "summary": "<p>Guadalajara, Mexico, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>leisure & culture</b> and <b>tolerance</b>. </p>",
+ "total_score": 50.5891891891892,
+ "city_id": 100
+ },
+ {
+ "id": 101,
+ "summary": "<p>Guatemala City, Guatemala, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>taxation</b> and <b>tolerance</b>. </p> <p>Guatemala City is one of the top ten city matches for 0.2% of FindMyCity users.</p>",
+ "total_score": 41.387162162162156,
+ "city_id": 101
+ },
+ {
+ "id": 102,
+ "summary": "<p>Halifax, Canada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.742027027027035,
+ "city_id": 102
+ },
+ {
+ "id": 103,
+ "summary": "<p>Hamburg, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>tolerance</b>. </p> <p>Hamburg is one of the top ten city matches for 1.1% of FindMyCity users.</p>",
+ "total_score": 62.92743243243242,
+ "city_id": 103
+ },
+ {
+ "id": 104,
+ "summary": "<p>Hannover, Germany, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p>",
+ "total_score": 60.91554054054053,
+ "city_id": 104
+ },
+ {
+ "id": 105,
+ "summary": "<p>Havana, Cuba, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>tolerance</b>. </p>",
+ "total_score": 36.73527027027027,
+ "city_id": 105
+ },
+ {
+ "id": 106,
+ "summary": "<p> <i>By Minja Orava</i><br><br>Helsinki is a unique mix of influences from the Nordics and the East. The city center is small enough to navigate by foot but offers a thriving underground <b>cultural scene</b> and more than 50 annual city festivals. Finland is a world leader in <b>clean technology</b> and Helsinki is very environmentally conscious with 90% of all bottles and cans recycled. The society prides itself on one of the best primary and secondary education systems in the world, equal opportunity and <b>tolerance</b>, creating a high standard of living and welcoming environment for innovation and tech <b>start-ups</b>.</p> <p>Helsinki is one of the top ten city matches for 3.6% of FindMyCity users.</p>",
+ "total_score": 65.85716216216217,
+ "city_id": 106
+ },
+ {
+ "id": 107,
+ "summary": "<p>Ho Chi Minh City, Vietnam, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p>",
+ "total_score": 47.595810810810825,
+ "city_id": 107
+ },
+ {
+ "id": 108,
+ "summary": "<p> Hong Kong is a world financial center with <b>low taxation rates</b> and free trade. The city is connected by a well-developed but cheap public transportation system and offers <b>extensive international travel connections</b> for its large expat community. Adding its b>ease of doing business</b>, the free public wifi, high safety rating, and unique status within China and it's no surprise that Hong Kong is a truly international city.</p> <p>Hong Kong is one of the top ten city matches for 10.2% of FindMyCity users.</p>",
+ "total_score": 64.44351351351352,
+ "city_id": 108
+ },
+ {
+ "id": 109,
+ "summary": "<p>Honolulu, Hawaii, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 55.74702702702703,
+ "city_id": 109
+ },
+ {
+ "id": 110,
+ "summary": "<p>Houston, Texas, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>leisure & culture</b>. </p> <p>Houston is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 57.065540540540546,
+ "city_id": 110
+ },
+ {
+ "id": 111,
+ "summary": "<p>Hyderabad, India, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>startups</b> and <b>safety</b>. </p>",
+ "total_score": 48.69243243243243,
+ "city_id": 111
+ },
+ {
+ "id": 112,
+ "summary": "<p>Indianapolis, Indiana, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>leisure & culture</b> and <b>tolerance</b>. </p>",
+ "total_score": 55.76175675675677,
+ "city_id": 112
+ },
+ {
+ "id": 113,
+ "summary": "<p>Innsbruck, Austria, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 58.80743243243243,
+ "city_id": 113
+ },
+ {
+ "id": 114,
+ "summary": "<p>Istanbul, Turkey, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>startups</b>. </p> <p>Istanbul is one of the top ten city matches for 6.0% of FindMyCity users.</p>",
+ "total_score": 55.19081081081082,
+ "city_id": 114
+ },
+ {
+ "id": 115,
+ "summary": "<p>Jacksonville, Florida, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 50.804864864864875,
+ "city_id": 115
+ },
+ {
+ "id": 116,
+ "summary": "<p>Jakarta, Indonesia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>leisure & culture</b>. </p> <p>Jakarta is one of the top ten city matches for 0.4% of FindMyCity users.</p>",
+ "total_score": 48.56202702702704,
+ "city_id": 116
+ },
+ {
+ "id": 117,
+ "summary": "<p>Johannesburg, South Africa, is characterized by <b>reasonably priced housing</b>. This urban area is consistently ahead in <b>cost of living</b>. </p>",
+ "total_score": 41.291216216216206,
+ "city_id": 117
+ },
+ {
+ "id": 118,
+ "summary": "<p>Kansas City, Missouri, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Kansas City is one of the top ten city matches for 2.0% of FindMyCity users.</p>",
+ "total_score": 52.51337837837839,
+ "city_id": 118
+ },
+ {
+ "id": 119,
+ "summary": "<p>Karlsruhe, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 59.9687837837838,
+ "city_id": 119
+ },
+ {
+ "id": 120,
+ "summary": "<p>Kathmandu, Nepal, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>tolerance</b>. </p>",
+ "total_score": 47.20864864864864,
+ "city_id": 120
+ },
+ {
+ "id": 121,
+ "summary": "<p> <i>By Andrii Gorbenko</i><br><br>With a history going back more than 1500 years, Kiev today is an economic and industrial center of Eastern Europe. Known for its river-front location and historical landmarks, Kiev continues to develop, and boasts several international companies serving Ukraine's large domestic market. Its <b>expansive infrastructure</b> offers some of the cheapest metro services in Europe, there are great leisure-time opportunities and the overall <b>cost of living is very reasonable</b>.</p> <p>Kiev is one of the top ten city matches for 4.4% of FindMyCity users.</p>",
+ "total_score": 52.16364864864864,
+ "city_id": 121
+ },
+ {
+ "id": 122,
+ "summary": "<p>Kingston, Jamaica, is characterized by <b>reasonably priced housing</b>. When considering your preferences, this city does not have any category with a high rating. </p>",
+ "total_score": 42.05621621621623,
+ "city_id": 122
+ },
+ {
+ "id": 123,
+ "summary": "<p>Knoxville, Tennessee, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>internet access</b>. </p>",
+ "total_score": 48.39648648648649,
+ "city_id": 123
+ },
+ {
+ "id": 124,
+ "summary": "<p>Krakow, Poland, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>leisure & culture</b>. </p> <p>Krakow is one of the top ten city matches for 0.6% of FindMyCity users.</p>",
+ "total_score": 57.44851351351352,
+ "city_id": 124
+ },
+ {
+ "id": 125,
+ "summary": "<p>Kuala Lumpur, Malaysia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>business freedom</b> and <b>leisure & culture</b>. </p> <p>Kuala Lumpur is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 53.874729729729744,
+ "city_id": 125
+ },
+ {
+ "id": 126,
+ "summary": "<p>Kyoto, Japan, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 56.97,
+ "city_id": 126
+ },
+ {
+ "id": 127,
+ "summary": "<p>Lagos, Nigeria, differentiates itself with <b>low living costs</b>. This urban area is consistently ahead in <b>housing</b>. </p>",
+ "total_score": 37.1887837837838,
+ "city_id": 127
+ },
+ {
+ "id": 128,
+ "summary": "<p>La Paz, Bolivia, features a <b>very safe living environment</b>. When considering your preferences, this city does not have any category with a high rating. </p>",
+ "total_score": 33.88797297297296,
+ "city_id": 128
+ },
+ {
+ "id": 129,
+ "summary": "<p>Las Palmas de Gran Canaria, Spain, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p>",
+ "total_score": 54.33337837837837,
+ "city_id": 129
+ },
+ {
+ "id": 130,
+ "summary": "<p>Las Vegas, Nevada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>startups</b> and <b>healthcare</b>. </p> <p>Las Vegas is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 55.9195945945946,
+ "city_id": 130
+ },
+ {
+ "id": 131,
+ "summary": "<p>Lausanne, Switzerland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>education</b>. </p>",
+ "total_score": 65.16905405405407,
+ "city_id": 131
+ },
+ {
+ "id": 132,
+ "summary": "<p>Leeds, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.44499999999999,
+ "city_id": 132
+ },
+ {
+ "id": 133,
+ "summary": "<p>Leipzig, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 60.78162162162162,
+ "city_id": 133
+ },
+ {
+ "id": 134,
+ "summary": "<p>Lille, France, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 52.556216216216214,
+ "city_id": 134
+ },
+ {
+ "id": 135,
+ "summary": "<p>Lima, Peru, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>cost of living</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 46.68743243243244,
+ "city_id": 135
+ },
+ {
+ "id": 136,
+ "summary": "<p> Lisbon, one of the oldest cities in the world, is a charming mix of Paris and San Francisco—at a fraction of the price. It offers a <b>relaxed</b> and <b>tolerant</b> environment with great local cuisine. Its central areas are best navigated by foot, allowing you to enjoy the grand architecture and <b>pleasant climate</b>, while its <b>affordable public transportation</b> system offers easy access to the rest of the city.</p> <p>Lisbon is one of the top ten city matches for 10.4% of FindMyCity users.</p>",
+ "total_score": 63.994054054054025,
+ "city_id": 136
+ },
+ {
+ "id": 137,
+ "summary": "<p>Liverpool, United Kingdom, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>travel connectivity</b> and <b>business freedom</b>. </p>",
+ "total_score": 64.59554054054053,
+ "city_id": 137
+ },
+ {
+ "id": 138,
+ "summary": "<p>Ljubljana, Slovenia, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p> <p>Ljubljana is one of the top ten city matches for 1.7% of FindMyCity users.</p>",
+ "total_score": 60.078648648648645,
+ "city_id": 138
+ },
+ {
+ "id": 139,
+ "summary": "<p> <i>By Matteo Pozzi</i><br><br>London is packed with endless opportunities: it is one of the world's most inviting cities for <b>startups</b>, as well as home to world-class <b>schools, universities and museums</b>. There is a robust transport network offering <b>fast and easy commuting</b> around London. With its vibrant <b>multicultural environment</b>, London offers an enormous variety of cuisines, recreational opportunities and cultural activities that appeal to virtually any interest.</p> <p>London is one of the top ten city matches for 17.3% of FindMyCity users.</p>",
+ "total_score": 69.50594594594595,
+ "city_id": 139
+ },
+ {
+ "id": 140,
+ "summary": "<p> Los Angeles is a sprawling city of 500 square miles and the heart of a metropolitan area with 18 million residents. It is a fabled California region, home to Hollywood and America's <b>entertainment industry</b> with <b>year-round sunshine</b>, world-famous beaches, and an intense <b>car culture</b>. The \"City of Angels\" is a magnet to people from around the world and a uniquely exciting environment.</p> <p>Los Angeles is one of the top ten city matches for 11.5% of FindMyCity users.</p>",
+ "total_score": 63.426351351351364,
+ "city_id": 140
+ },
+ {
+ "id": 141,
+ "summary": "<p>Louisville, Kentucky, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 48.99202702702704,
+ "city_id": 141
+ },
+ {
+ "id": 142,
+ "summary": "<p>Luxembourg, Luxembourg, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Luxembourg is one of the top ten city matches for 1.6% of FindMyCity users.</p>",
+ "total_score": 60.42635135135136,
+ "city_id": 142
+ },
+ {
+ "id": 143,
+ "summary": "<p>Lviv, Ukraine, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 50.90554054054054,
+ "city_id": 143
+ },
+ {
+ "id": 144,
+ "summary": "<p>Lyon, France, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Lyon is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 60.259324324324325,
+ "city_id": 144
+ },
+ {
+ "id": 145,
+ "summary": "<p>Madison, Wisconsin, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Madison is one of the top ten city matches for 2.7% of FindMyCity users.</p>",
+ "total_score": 60.894999999999996,
+ "city_id": 145
+ },
+ {
+ "id": 146,
+ "summary": "<p>Madrid, Spain, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Madrid is one of the top ten city matches for 6.3% of FindMyCity users.</p>",
+ "total_score": 60.51783783783785,
+ "city_id": 146
+ },
+ {
+ "id": 147,
+ "summary": "<p>Malaga, Spain, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p>",
+ "total_score": 60.41837837837837,
+ "city_id": 147
+ },
+ {
+ "id": 148,
+ "summary": "<p>Malmo, Sweden, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 59.35351351351353,
+ "city_id": 148
+ },
+ {
+ "id": 149,
+ "summary": "<p>Managua, Nicaragua, features a <b>very safe living environment</b>. This urban area is consistently ahead in <b>tolerance</b>. </p>",
+ "total_score": 32.58189189189189,
+ "city_id": 149
+ },
+ {
+ "id": 150,
+ "summary": "<p>Manchester, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>tolerance</b>. </p> <p>Manchester is one of the top ten city matches for 1.0% of FindMyCity users.</p>",
+ "total_score": 60.752702702702685,
+ "city_id": 150
+ },
+ {
+ "id": 151,
+ "summary": "<p>Manila, Philippines, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>leisure & culture</b>. </p> <p>Manila is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 45.87648648648649,
+ "city_id": 151
+ },
+ {
+ "id": 152,
+ "summary": "<p>Marseille, France, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>healthcare</b>. </p>",
+ "total_score": 56.23148648648648,
+ "city_id": 152
+ },
+ {
+ "id": 153,
+ "summary": "<p>Medellin, Colombia, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>tolerance</b>. </p> <p>Medellin is one of the top ten city matches for 2.8% of FindMyCity users.</p>",
+ "total_score": 52.440270270270275,
+ "city_id": 153
+ },
+ {
+ "id": 154,
+ "summary": "<p>Melbourne, Australia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Melbourne is one of the top ten city matches for 6.7% of FindMyCity users.</p>",
+ "total_score": 64.8881081081081,
+ "city_id": 154
+ },
+ {
+ "id": 155,
+ "summary": "<p>Memphis, Tennessee, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 46.9977027027027,
+ "city_id": 155
+ },
+ {
+ "id": 156,
+ "summary": "<p>Mexico City, Mexico, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>startups</b>. </p> <p>Mexico City is one of the top ten city matches for 0.7% of FindMyCity users.</p>",
+ "total_score": 52.137027027027,
+ "city_id": 156
+ },
+ {
+ "id": 157,
+ "summary": "<p>Miami, Florida, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>leisure & culture</b>. </p> <p>Miami is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 57.09540540540541,
+ "city_id": 157
+ },
+ {
+ "id": 158,
+ "summary": "<p>Milan, Italy, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Milan is one of the top ten city matches for 0.1% of FindMyCity users.</p>",
+ "total_score": 57.7318918918919,
+ "city_id": 158
+ },
+ {
+ "id": 159,
+ "summary": "<p>Milwaukee, Wisconsin, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 55.335675675675674,
+ "city_id": 159
+ },
+ {
+ "id": 160,
+ "summary": "<p>Minneapolis-Saint Paul, Minnesota, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>leisure & culture</b>. </p> <p>Minneapolis-Saint Paul is one of the top ten city matches for 4.5% of FindMyCity users.</p>",
+ "total_score": 61.163648648648646,
+ "city_id": 160
+ },
+ {
+ "id": 161,
+ "summary": "<p>Minsk, Belarus, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>environmental quality</b>. </p> <p>Minsk is one of the top ten city matches for 7.2% of FindMyCity users.</p>",
+ "total_score": 56.25067567567568,
+ "city_id": 161
+ },
+ {
+ "id": 162,
+ "summary": "<p>Montevideo, Uruguay, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>business freedom</b> and <b>tolerance</b>. </p>",
+ "total_score": 52.335,
+ "city_id": 162
+ },
+ {
+ "id": 163,
+ "summary": "<p> Montreal is the largest city of Canada's French-speaking region, and a center for <b>finance</b>, aerospace and international organizations. With its <b>unique culture</b>, <b>bilingual residents</b> (French/English) and beautiful architecture, Montreal offers 50 of Canada's National Historic sites—more than any other Canadian city. Add Montreal's <b>tolerant people</b> plus a relatively low cost of living and you get a city worthy of strong consideration.</p> <p>Montreal is one of the top ten city matches for 15.0% of FindMyCity users.</p>",
+ "total_score": 68.85486486486488,
+ "city_id": 163
+ },
+ {
+ "id": 164,
+ "summary": "<p> <i>By Kevin Kiseljov</i><br><br>Moscow is a <b>lively</b> city, rich in history and <b>culture</b>. It is Russia's national center for visual and performing arts and home to some of the best known performance companies in the world. Renowned for its grand architecture, the city boasts <b>excellent travel connections</b> and <b>low cost of living</b>. With more than 12 million residents, Moscow is among the most populous cities in the world, but roughly 40% of its territory is still covered by greenery.</p> <p>Moscow is one of the top ten city matches for 4.7% of FindMyCity users.</p>",
+ "total_score": 56.82391891891893,
+ "city_id": 164
+ },
+ {
+ "id": 165,
+ "summary": "<p> Mumbai, the most populous city in India, offers a <b>wide variety of jobs</b> from conventional industries to IT services. It is also home to the Bollywood film industry. As India's <b>capital of finance</b>, Mumbai has the greatest number of fin-tech startups, while the cost of living and rental <b>prices remain reasonably low</b>.</p> <p>Mumbai is one of the top ten city matches for 14.2% of FindMyCity users.</p>",
+ "total_score": 49.32351351351352,
+ "city_id": 165
+ },
+ {
+ "id": 166,
+ "summary": "<p> Munich has a strong background in multiple industries, and is now a <b>center for software and biotechnology</b>. It's also the second largest <b>publishing center</b> in the world. People who love <b>sports</b> or <b>nature</b> aren't left out either: the Bavarian Alps allow winter lovers to indulge themselves while FC Bayern Munich is one of the most important football teams in the world.</p> <p>Munich is one of the top ten city matches for 32.7% of FindMyCity users.</p>",
+ "total_score": 72.19067567567568,
+ "city_id": 166
+ },
+ {
+ "id": 167,
+ "summary": "<p>Nairobi, Kenya, is characterized by <b>reasonably priced housing</b>. This urban area is consistently ahead in <b>cost of living</b>. </p>",
+ "total_score": 40.51445945945945,
+ "city_id": 167
+ },
+ {
+ "id": 168,
+ "summary": "<p>Nantes, France, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 58.27189189189189,
+ "city_id": 168
+ },
+ {
+ "id": 169,
+ "summary": "<p>Naples, Italy, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>tolerance</b>. </p>",
+ "total_score": 49.92905405405406,
+ "city_id": 169
+ },
+ {
+ "id": 170,
+ "summary": "<p>Nashville, Tennessee, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>internet access</b>. </p> <p>Nashville is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 55.83432432432433,
+ "city_id": 170
+ },
+ {
+ "id": 171,
+ "summary": "<p>New Orleans, Louisiana, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 49.229189189189185,
+ "city_id": 171
+ },
+ {
+ "id": 172,
+ "summary": "<p> The New York metropolitan area is one of the most populated cities in the world. New York City itself is an <b>international center for numerous industries</b> including finance, theater, television, film, arts, and technology. It is also home to an astonishing 37% of foreign-born residents. Costs are high, but so are the energy levels and <b>ambitious spirit</b>. Whether you're visiting or planning to move, the \"Big Apple\" has <b>something to offer for everyone</b>.</p> <p>New York is one of the top ten city matches for 13.9% of FindMyCity users.</p>",
+ "total_score": 67.27513513513514,
+ "city_id": 172
+ },
+ {
+ "id": 173,
+ "summary": "<p>Nice, France, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 59.05918918918921,
+ "city_id": 173
+ },
+ {
+ "id": 174,
+ "summary": "<p>Nicosia, Cyprus, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Nicosia is one of the top ten city matches for 0.9% of FindMyCity users.</p>",
+ "total_score": 54.07256756756757,
+ "city_id": 174
+ },
+ {
+ "id": 175,
+ "summary": "<p>Oklahoma City, Oklahoma, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Oklahoma City is one of the top ten city matches for 1.6% of FindMyCity users.</p>",
+ "total_score": 55.44851351351353,
+ "city_id": 175
+ },
+ {
+ "id": 176,
+ "summary": "<p>Omaha, Nebraska, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 52.9468918918919,
+ "city_id": 176
+ },
+ {
+ "id": 177,
+ "summary": "<p>Orlando, Florida, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Orlando is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 55.471891891891914,
+ "city_id": 177
+ },
+ {
+ "id": 178,
+ "summary": "<p>Osaka, Japan, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 64.44554054054053,
+ "city_id": 178
+ },
+ {
+ "id": 179,
+ "summary": "<p>Oslo, Norway, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Oslo is one of the top ten city matches for 0.9% of FindMyCity users.</p>",
+ "total_score": 64.31459459459458,
+ "city_id": 179
+ },
+ {
+ "id": 180,
+ "summary": "<p>Ottawa, Canada, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Ottawa is one of the top ten city matches for 6.6% of FindMyCity users.</p>",
+ "total_score": 67.06972972972974,
+ "city_id": 180
+ },
+ {
+ "id": 181,
+ "summary": "<p>Oulu, Finland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 58.018918918918914,
+ "city_id": 181
+ },
+ {
+ "id": 182,
+ "summary": "<p>Oxford, United Kingdom, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 64.9818918918919,
+ "city_id": 182
+ },
+ {
+ "id": 183,
+ "summary": "<p> Palo Alto, California, is among the top cities with a <b>high quality of education</b>. According to our data, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>economy</b>.<br /><br />Palo Alto is part of Silicon Valley and the wider San Francisco Bay Area. For more information on scores and rankings, check <a href=\"/cities/san-francisco-bay-area/\">San Francisco Bay Area</a>'s FindMyCity profile.</p>",
+ "total_score": 52.918378378378385,
+ "city_id": 183
+ },
+ {
+ "id": 184,
+ "summary": "<p>Panama, Panama, features a <b>very safe living environment</b>. Our data reflects that this city has a good ranking in <b>taxation</b> and <b>tolerance</b>. </p>",
+ "total_score": 41.57094594594595,
+ "city_id": 184
+ },
+ {
+ "id": 185,
+ "summary": "<p> Paris, the most visited city in the world, is a historical, cultural and esthetic gem that has played a major role in European history for centuries. Its <b>overwhelming beauty</b>, architectural wonders and national <b>cuisine</b> call to people from around the world, adding to its exciting and <b>diverse environment</b>. As a global <b>economic center</b>, Paris offers opportunities in a wide range of industries and business markets.</p> <p>Paris is one of the top ten city matches for 9.5% of FindMyCity users.</p>",
+ "total_score": 64.78743243243241,
+ "city_id": 185
+ },
+ {
+ "id": 186,
+ "summary": "<p>Perth, Australia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 60.41878378378376,
+ "city_id": 186
+ },
+ {
+ "id": 187,
+ "summary": "<p>Philadelphia, Pennsylvania, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>internet access</b>. </p> <p>Philadelphia is one of the top ten city matches for 0.4% of FindMyCity users.</p>",
+ "total_score": 56.2437837837838,
+ "city_id": 187
+ },
+ {
+ "id": 188,
+ "summary": "<p>Phnom Penh, Cambodia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p>",
+ "total_score": 40.31662162162162,
+ "city_id": 188
+ },
+ {
+ "id": 189,
+ "summary": "<p>Phoenix, Arizona, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>leisure & culture</b> and <b>outdoors</b>. </p> <p>Phoenix is one of the top ten city matches for 0.2% of FindMyCity users.</p>",
+ "total_score": 56.66256756756756,
+ "city_id": 189
+ },
+ {
+ "id": 190,
+ "summary": "<p>Phuket, Thailand, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>cost of living</b> and <b>taxation</b>. </p>",
+ "total_score": 45.06986486486487,
+ "city_id": 190
+ },
+ {
+ "id": 191,
+ "summary": "<p>Pittsburgh, Pennsylvania, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>internet access</b>. </p> <p>Pittsburgh is one of the top ten city matches for 1.0% of FindMyCity users.</p>",
+ "total_score": 58.85837837837838,
+ "city_id": 191
+ },
+ {
+ "id": 192,
+ "summary": "<p> Portland, Maine, is a small, seaside city with a <b>welcoming community</b> and great <b>outdoor environment</b>. With its natural beauty, low unemployment and safe environment it should be especially attractive for young families. It has a distinct local <b>business culture</b> dominated by the port, niche cafes and boutiques. With more than 200 restaurants, Portland has one of the highest per capita restaurant densities in the United States.</p> <p>Portland, ME is one of the top ten city matches for 0.3% of FindMyCity users.</p>",
+ "total_score": 46.60932432432432,
+ "city_id": 192
+ },
+ {
+ "id": 193,
+ "summary": "<p>Portland, Oregon, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Portland, OR is one of the top ten city matches for 0.7% of FindMyCity users.</p>",
+ "total_score": 60.32581081081081,
+ "city_id": 193
+ },
+ {
+ "id": 194,
+ "summary": "<p>Porto, Portugal, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>safety</b>. </p> <p>Porto is one of the top ten city matches for 1.3% of FindMyCity users.</p>",
+ "total_score": 61.32216216216217,
+ "city_id": 194
+ },
+ {
+ "id": 195,
+ "summary": "<p>Porto Alegre, Brazil, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>leisure & culture</b> and <b>tolerance</b>. </p>",
+ "total_score": 44.05797297297297,
+ "city_id": 195
+ },
+ {
+ "id": 196,
+ "summary": "<p>Prague, Czechia, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>healthcare</b>. </p> <p>Prague is one of the top ten city matches for 11.9% of FindMyCity users.</p>",
+ "total_score": 64.15054054054055,
+ "city_id": 196
+ },
+ {
+ "id": 197,
+ "summary": "<p>Providence, Rhode Island, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 50.9114864864865,
+ "city_id": 197
+ },
+ {
+ "id": 198,
+ "summary": "<p>Quebec, Canada, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>healthcare</b>. </p>",
+ "total_score": 64.68310810810812,
+ "city_id": 198
+ },
+ {
+ "id": 199,
+ "summary": "<p>Quito, Ecuador, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p>",
+ "total_score": 48.191351351351365,
+ "city_id": 199
+ },
+ {
+ "id": 200,
+ "summary": "<p>Raleigh, North Carolina, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>education</b> and <b>environmental quality</b>. </p> <p>Raleigh is one of the top ten city matches for 3.4% of FindMyCity users.</p>",
+ "total_score": 62.51567567567569,
+ "city_id": 200
+ },
+ {
+ "id": 201,
+ "summary": "<p>Reykjavik, Iceland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Reykjavik is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 59.11932432432431,
+ "city_id": 201
+ },
+ {
+ "id": 202,
+ "summary": "<p>Richmond, Virginia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>internet access</b>. </p>",
+ "total_score": 53.926756756756774,
+ "city_id": 202
+ },
+ {
+ "id": 203,
+ "summary": "<p> <i>By Elizabete Laivina</i><br><br>Riga is a great place for young people due to its <b>low cost of living</b> and vibrant <b>creative scene</b>. It boasts excellent museums and art galleries, an active night life and close-by unspoiled <b>nature</b>. Riga is also an avid sports city with frequent football, basketball and ice hockey matches.</p> <p>Riga is one of the top ten city matches for 1.1% of FindMyCity users.</p>",
+ "total_score": 58.917027027027025,
+ "city_id": 203
+ },
+ {
+ "id": 204,
+ "summary": "<p> Rio de Janeiro is the second most populous city in Brazil, known for the <b>beautiful scenery</b> samba rhythms and Carnival. It is the national center for oil, mining and telecommunications, but the major economic base is in <b>tourism</b> and <b>entertainment</b> industries. With <b>affordable rentals</b>, <b>friendly expat community</b> and tropical climate, Rio is for people looking for a relaxed and welcoming environment.</p> <p>Rio De Janeiro is one of the top ten city matches for 0.2% of FindMyCity users.</p>",
+ "total_score": 45.45878378378378,
+ "city_id": 204
+ },
+ {
+ "id": 205,
+ "summary": "<p>Riyadh, Saudi Arabia, is characterized by <b>low taxes</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>safety</b>. </p>",
+ "total_score": 50.88608108108108,
+ "city_id": 205
+ },
+ {
+ "id": 206,
+ "summary": "<p>Rochester, New York, is among the top cities with a <b>free business environment</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>healthcare</b>. </p>",
+ "total_score": 52.29013513513514,
+ "city_id": 206
+ },
+ {
+ "id": 207,
+ "summary": "<p> Rome, the Eternal City, is a historic marvel with <b>great travel connections</b> mild Mediterranean climate and intense urban energy. Its outgoing society is known for its style, fondness for football and the world-famous restaurants and cafes that can be sampled on every corner. Rome also hosts an independent country—Vatican City—within its borders. Its long history and modern achievements make Rome one of the most visited cities in the world.</p>",
+ "total_score": 55.08729729729729,
+ "city_id": 207
+ },
+ {
+ "id": 208,
+ "summary": "<p> <i>By Ander Hindremäe</i><br><br>Rotterdam is a <b>multicultural</b> hub with a <b>modern</b> look, <b>low level of corruption</b>, an advanced public transport system and superb network of bike-paths. While less touristy than some of its neighboring Dutch cities, Rotterdam hosts the largest port in Europe, making it an important transit, logistical and marine center. With its high quality of life and <b>lively</b> cultural scene, Rotterdam has been welcoming visitors for almost 800 years.</p> <p>Rotterdam is one of the top ten city matches for 1.6% of FindMyCity users.</p>",
+ "total_score": 64.95567567567565,
+ "city_id": 208
+ },
+ {
+ "id": 209,
+ "summary": "<p>Saint Petersburg, Russia, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>safety</b>. </p> <p>Saint Petersburg is one of the top ten city matches for 0.4% of FindMyCity users.</p>",
+ "total_score": 55.966756756756766,
+ "city_id": 209
+ },
+ {
+ "id": 210,
+ "summary": "<p>Salt Lake City, Utah, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>venture capital</b>, <b>healthcare</b> and <b>internet access</b>. </p> <p>Salt Lake City is one of the top ten city matches for 2.4% of FindMyCity users.</p>",
+ "total_score": 61.79513513513514,
+ "city_id": 210
+ },
+ {
+ "id": 211,
+ "summary": "<p>San Antonio, Texas, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>healthcare</b> and <b>internet access</b>. </p> <p>San Antonio is one of the top ten city matches for 0.5% of FindMyCity users.</p>",
+ "total_score": 56.70824324324324,
+ "city_id": 211
+ },
+ {
+ "id": 212,
+ "summary": "<p>San Diego, California, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>venture capital</b> and <b>safety</b>. </p> <p>San Diego is one of the top ten city matches for 1.4% of FindMyCity users.</p>",
+ "total_score": 64.59310810810813,
+ "city_id": 212
+ },
+ {
+ "id": 213,
+ "summary": "<p>San Francisco Bay Area, California, is among the leading cities with a <b>higher number of accelerators or available funding</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>business freedom</b> and <b>healthcare</b>. </p> <p>San Francisco Bay Area is one of the top ten city matches for 6.9% of FindMyCity users.</p>",
+ "total_score": 65.53635135135136,
+ "city_id": 213
+ },
+ {
+ "id": 214,
+ "summary": "<p>San Jose, Costa Rica, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 49.683513513513525,
+ "city_id": 214
+ },
+ {
+ "id": 215,
+ "summary": "<p>San Juan, Puerto Rico, is characterized by <b>reasonably priced housing</b>. This urban area is consistently ahead in <b>leisure & culture</b>. </p>",
+ "total_score": 32.91783783783784,
+ "city_id": 215
+ },
+ {
+ "id": 216,
+ "summary": "<p>San Luis Obispo, California, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p>",
+ "total_score": 50.006621621621626,
+ "city_id": 216
+ },
+ {
+ "id": 217,
+ "summary": "<p>San Salvador, El Salvador, is characterized by <b>reasonably priced housing</b>. This urban area is consistently ahead in <b>cost of living</b>. </p>",
+ "total_score": 38.64581081081081,
+ "city_id": 217
+ },
+ {
+ "id": 218,
+ "summary": "<p>Santiago, Chile, is characterized by <b>low taxes</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p> <p>Santiago is one of the top ten city matches for 1.7% of FindMyCity users.</p>",
+ "total_score": 59.10459459459461,
+ "city_id": 218
+ },
+ {
+ "id": 219,
+ "summary": "<p>Santo Domingo, Dominican Republic, is characterized by <b>reasonably priced housing</b>. This urban area is consistently ahead in <b>cost of living</b>. </p>",
+ "total_score": 43.80567567567566,
+ "city_id": 219
+ },
+ {
+ "id": 220,
+ "summary": "<p>Sao Paulo, Brazil, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>startups</b>. </p> <p>Sao Paulo is one of the top ten city matches for 0.4% of FindMyCity users.</p>",
+ "total_score": 47.716891891891876,
+ "city_id": 220
+ },
+ {
+ "id": 221,
+ "summary": "<p>Sarajevo, Bosnia and Herzegovina, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p> <p>Sarajevo is one of the top ten city matches for 1.9% of FindMyCity users.</p>",
+ "total_score": 48.12418918918919,
+ "city_id": 221
+ },
+ {
+ "id": 222,
+ "summary": "<p>Saskatoon, Canada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 55.4191891891892,
+ "city_id": 222
+ },
+ {
+ "id": 223,
+ "summary": "<p>Seattle, Washington, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>venture capital</b> and <b>healthcare</b>. </p> <p>Seattle is one of the top ten city matches for 3.2% of FindMyCity users.</p>",
+ "total_score": 62.74189189189191,
+ "city_id": 223
+ },
+ {
+ "id": 224,
+ "summary": "<p> Seoul is a fast-paced metropolis with 24 hour facilities and <b>expat-friendly</b> social environment. The vibrant nightlife scene, fabulous pop culture as well as the <b>refreshing nature</b> can be reached by using Seoul’s affordable and reliable public transport system, which is also equipped with public wifi common to the <b>most wired city in the world</b>. The advanced technological environment and delicious local food combined with the <b>low crime rate</b> truly make it a highly attractive destination.</p> <p>Seoul is one of the top ten city matches for 18.4% of FindMyCity users.</p>",
+ "total_score": 66.28027027027026,
+ "city_id": 224
+ },
+ {
+ "id": 225,
+ "summary": "<p>Seville, Spain, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p>",
+ "total_score": 59.89675675675675,
+ "city_id": 225
+ },
+ {
+ "id": 226,
+ "summary": "<p>Shanghai, China, is among the leading cities with a <b>higher number of accelerators or available funding</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>travel connectivity</b> and <b>safety</b>. </p> <p>Shanghai is one of the top ten city matches for 4.3% of FindMyCity users.</p>",
+ "total_score": 52.60499999999998,
+ "city_id": 226
+ },
+ {
+ "id": 227,
+ "summary": "<p> Singapore is the <b>futuristic bridge</b> between East and West. It is an attractive site for <b>startups</b>, offering access to capital and a highly qualified workforce. When it comes to culture, the city is a dense mix of Chinese, Indian and Malay as well as Western influences. Despite Singapore’s high urban density, it remains as one of the <b>greenest cities</b> in the world—nearly half of its compact land area is filled with lush greenery.</p> <p>Singapore is one of the top ten city matches for 42.0% of FindMyCity users.</p>",
+ "total_score": 73.32743243243243,
+ "city_id": 227
+ },
+ {
+ "id": 228,
+ "summary": "<p>Skopje, Macedonia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Skopje is one of the top ten city matches for 1.9% of FindMyCity users.</p>",
+ "total_score": 51.75486486486487,
+ "city_id": 228
+ },
+ {
+ "id": 229,
+ "summary": "<p>Sofia, Bulgaria, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p> <p>Sofia is one of the top ten city matches for 2.6% of FindMyCity users.</p>",
+ "total_score": 55.26216216216216,
+ "city_id": 229
+ },
+ {
+ "id": 230,
+ "summary": "<p>St. Louis, Missouri, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>healthcare</b>. </p> <p>St. Louis is one of the top ten city matches for 1.4% of FindMyCity users.</p>",
+ "total_score": 58.587162162162166,
+ "city_id": 230
+ },
+ {
+ "id": 231,
+ "summary": "<p> Stockholm has emerged as one of Europe's <b>innovation</b> and entrepreneurial capitals with a vibrant start-up scene and open, <b>tolerant society</b>. It is also one of the cleanest cities in the world with a population of roughly 1 million residents embracing green-leaning programs and strong <b>environmental protection</b>. Stockholm's winter climate can be a challenge to some, but even then, very few would turn down the opportunity to spend time in this welcoming city.</p> <p>Stockholm is one of the top ten city matches for 1.2% of FindMyCity users.</p>",
+ "total_score": 64.99675675675675,
+ "city_id": 231
+ },
+ {
+ "id": 232,
+ "summary": "<p>Stuttgart, Germany, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Stuttgart is one of the top ten city matches for 2.1% of FindMyCity users.</p>",
+ "total_score": 62.84594594594595,
+ "city_id": 232
+ },
+ {
+ "id": 233,
+ "summary": "<p>Sydney, Australia, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Sydney is one of the top ten city matches for 2.1% of FindMyCity users.</p>",
+ "total_score": 64.38000000000001,
+ "city_id": 233
+ },
+ {
+ "id": 234,
+ "summary": "<p>Taipei, Taiwan, features a <b>very safe living environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>economy</b>. </p> <p>Taipei is one of the top ten city matches for 13.9% of FindMyCity users.</p>",
+ "total_score": 63.08648648648651,
+ "city_id": 234
+ },
+ {
+ "id": 235,
+ "summary": "<p> With its stunning old town and high tech culture, Tallinn offers a unique blend of history and the modern 21st century living. It is among the <b>most wired cities</b> in the world, offering universal free public wifi and free public transportation for residents. The vibrant <b>start-up scene</b> is actively supported by the government and the city's <b>strong tech eco-system</b>. With low tax rates, cost of living and the seaside location, Tallinn is a truly inviting place to live.</p> <p>Tallinn is one of the top ten city matches for 14.5% of FindMyCity users.</p>",
+ "total_score": 64.5916216216216,
+ "city_id": 235
+ },
+ {
+ "id": 236,
+ "summary": "<p>Tampa Bay Area, Florida, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>healthcare</b>, <b>environmental quality</b> and <b>internet access</b>. </p> <p>Tampa Bay Area is one of the top ten city matches for 1.2% of FindMyCity users.</p>",
+ "total_score": 54.968513513513514,
+ "city_id": 236
+ },
+ {
+ "id": 237,
+ "summary": "<p>Tampere, Finland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 62.972432432432434,
+ "city_id": 237
+ },
+ {
+ "id": 238,
+ "summary": "<p> <i>By Merilin Jürjo</i><br><br>Tartu is a true student town and home to Estonia's oldest university. Its academic atmosphere and high concentration of <b>bright minds</b> makes it a center for innovation and entrepreneurship. With safe and tolerant environment, the city takes pride in its <b>urban greenery</b>, easy transit and <b>excellent healthcare</b>, all contributing to a high quality of life at a reasonable cost.</p> <p>Tartu is one of the top ten city matches for 9.9% of FindMyCity users.</p>",
+ "total_score": 61.13337837837838,
+ "city_id": 238
+ },
+ {
+ "id": 239,
+ "summary": "<p>Tashkent, Uzbekistan, features a <b>very safe living environment</b>. When considering your preferences, this city does not have any category with a high rating. </p>",
+ "total_score": 38.21743243243244,
+ "city_id": 239
+ },
+ {
+ "id": 240,
+ "summary": "<p>Tbilisi, Georgia, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Tbilisi is one of the top ten city matches for 4.6% of FindMyCity users.</p>",
+ "total_score": 57.144459459459455,
+ "city_id": 240
+ },
+ {
+ "id": 241,
+ "summary": "<p>Tehran, Iran, differentiates itself with <b>low living costs</b>. Our data reflects that this city has a good ranking in <b>housing</b> and <b>safety</b>. </p>",
+ "total_score": 45.518108108108116,
+ "city_id": 241
+ },
+ {
+ "id": 242,
+ "summary": "<p>Tel Aviv, Israel, is among the leading cities with a <b>higher number of accelerators or available funding</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>business freedom</b> and <b>safety</b>. </p> <p>Tel Aviv is one of the top ten city matches for 0.1% of FindMyCity users.</p>",
+ "total_score": 59.70608108108109,
+ "city_id": 242
+ },
+ {
+ "id": 243,
+ "summary": "<p>The Hague, Netherlands, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 64.6308108108108,
+ "city_id": 243
+ },
+ {
+ "id": 244,
+ "summary": "<p>Thessaloniki, Greece, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 54.96418918918919,
+ "city_id": 244
+ },
+ {
+ "id": 245,
+ "summary": "<p> Tokyo is one of the most <b>vibrant and modern</b> cities in the world. It provides a wide range of opportunities from recreational activities to job offers, and is therefore an appealing choice for people looking for a change. When it comes to food, you are spoiled with choices: there are more restaurants than you could visit in your lifetime. It is also a relatively <b>green city</b>, as 3.6% of Tokyo is covered by parks and forests, and, despite its size, it is still among the <b>safest cities</b> in the world.</p> <p>Tokyo is one of the top ten city matches for 8.5% of FindMyCity users.</p>",
+ "total_score": 70.50445945945947,
+ "city_id": 245
+ },
+ {
+ "id": 246,
+ "summary": "<p> Toronto is a <b>multicultural</b> city in every sense of the word. Nearly half of its population are immigrants from virtually every corner of the globe. The city is internationally known as a <b>center of finance and business</b> as well as the film and television industry. However, there are still plenty of ways to unwind, be it hiking in the nature with <b>breathtaking views</b> or immersing in the local cultural scene.</p> <p>Toronto is one of the top ten city matches for 39.4% of FindMyCity users.</p>",
+ "total_score": 69.29972972972972,
+ "city_id": 246
+ },
+ {
+ "id": 247,
+ "summary": "<p>Toulouse, France, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 55.86797297297299,
+ "city_id": 247
+ },
+ {
+ "id": 248,
+ "summary": "<p>Tunis, Tunisia, differentiates itself with <b>low living costs</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>business freedom</b> and <b>safety</b>. </p>",
+ "total_score": 49.47405405405405,
+ "city_id": 248
+ },
+ {
+ "id": 249,
+ "summary": "<p>Turin, Italy, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>leisure & culture</b>. </p>",
+ "total_score": 52.118648648648666,
+ "city_id": 249
+ },
+ {
+ "id": 250,
+ "summary": "<p>Turku, Finland, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>commute</b> and <b>safety</b>. </p>",
+ "total_score": 64.57054054054055,
+ "city_id": 250
+ },
+ {
+ "id": 251,
+ "summary": "<p>Uppsala, Sweden, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 59.68621621621624,
+ "city_id": 251
+ },
+ {
+ "id": 252,
+ "summary": "<p>Utrecht, Netherlands, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>travel connectivity</b>, <b>safety</b> and <b>healthcare</b>. </p> <p>Utrecht is one of the top ten city matches for 3.8% of FindMyCity users.</p>",
+ "total_score": 66.26999999999998,
+ "city_id": 252
+ },
+ {
+ "id": 253,
+ "summary": "<p>Valencia, Spain, is among the leading cities with a <b>speedy internet access</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>cost of living</b> and <b>business freedom</b>. </p> <p>Valencia is one of the top ten city matches for 0.9% of FindMyCity users.</p>",
+ "total_score": 61.27256756756756,
+ "city_id": 253
+ },
+ {
+ "id": 254,
+ "summary": "<p>Valletta, Malta, features a <b>very safe living environment</b>. Our data reflects that this city has a good ranking in <b>healthcare</b> and <b>tolerance</b>. </p>",
+ "total_score": 45.63243243243244,
+ "city_id": 254
+ },
+ {
+ "id": 255,
+ "summary": "<p> Vancouver is a city with high-rise buildings, <b>picturesque mountains</b> and easily distinguishable ethnic neighborhoods. The city ranks high in <b>cleanliness</b> and quality of living, but is also one of the most expensive cities in Canada. Besides forestry, Vancouver is becoming an influencer in industries like software, <b>film</b> and biotechnology. For those interested in <b>being in the open air</b>, there are plenty of opportunities from boating to mountain skiing.</p> <p>Vancouver is one of the top ten city matches for 26.4% of FindMyCity users.</p>",
+ "total_score": 67.17567567567568,
+ "city_id": 255
+ },
+ {
+ "id": 256,
+ "summary": "<p>Victoria, Canada, is characterized by a <b>clean environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>business freedom</b>, <b>safety</b> and <b>healthcare</b>. </p>",
+ "total_score": 63.09364864864866,
+ "city_id": 256
+ },
+ {
+ "id": 257,
+ "summary": "<p> Vienna is a truly imperial city filled with palaces, gardens and <b>historical sites</b>. Its wealth and power contributed greatly to the <b>arts</b> and development of classical music. It is also known as one of the great cafe cities of the world with a <b>coffee-house</b> culture dating back to the 17th century. The Viennese take coffee seriously—if you do, too, this might be your city.</p> <p>Vienna is one of the top ten city matches for 25.7% of FindMyCity users.</p>",
+ "total_score": 68.09459459459461,
+ "city_id": 257
+ },
+ {
+ "id": 258,
+ "summary": "<p> Vilnius is an innovative city with great <b>business freedom</b> and <b>affordable housing</b>. Offering one of the <b>fastest public wifi upload speeds</b> in the world and a low cost of living, the city has become an attractive business center. Along with its modern facilities and high <b>environmental quality</b>, Vilnius has a rich historical background that remains an important part of the city’s identity.</p> <p>Vilnius is one of the top ten city matches for 3.7% of FindMyCity users.</p>",
+ "total_score": 61.60297297297297,
+ "city_id": 258
+ },
+ {
+ "id": 259,
+ "summary": "<p> <i>By Adam Stasiak</i><br><br>Warsaw, a <b>unique blend</b> of the old and new, is comprised of 18 districts, each with their distinctive characteristics. Warsaw's widely <b>varied architecture</b> reflects its tumultuous history and adds to a vibrant cultural scene - both classical and underground. Its history, cuisine and quality of life have made Warsaw an increasingly popular destination and its <b>reasonable cost of living</b> adds to the charm.</p> <p>Warsaw is one of the top ten city matches for 10.8% of FindMyCity users.</p>",
+ "total_score": 59.09945945945946,
+ "city_id": 259
+ },
+ {
+ "id": 260,
+ "summary": "<p>Washington, District of Columbia, features a wide variety of <b>free time activities</b>. According to our city rankings, this is a good place to live with high ratings in <b>startups</b>, <b>venture capital</b> and <b>business freedom</b>. </p> <p>Washington, D.C. is one of the top ten city matches for 3.4% of FindMyCity users.</p>",
+ "total_score": 57.50216216216215,
+ "city_id": 260
+ },
+ {
+ "id": 261,
+ "summary": "<p>Wellington, New Zealand, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>safety</b>, <b>healthcare</b> and <b>environmental quality</b>. </p> <p>Wellington is one of the top ten city matches for 2.8% of FindMyCity users.</p>",
+ "total_score": 62.557027027027026,
+ "city_id": 261
+ },
+ {
+ "id": 262,
+ "summary": "<p>Winnipeg, Canada, is among the top cities with a <b>free business environment</b>. According to our city rankings, this is a good place to live with high ratings in <b>housing</b>, <b>healthcare</b> and <b>taxation</b>. </p>",
+ "total_score": 57.53810810810812,
+ "city_id": 262
+ },
+ {
+ "id": 263,
+ "summary": "<p>Wroclaw, Poland, is characterized by <b>reasonably priced housing</b>. Our data reflects that this city has a good ranking in <b>cost of living</b> and <b>safety</b>. </p>",
+ "total_score": 53.167027027027025,
+ "city_id": 263
+ },
+ {
+ "id": 264,
+ "summary": "<p>Yerevan, Armenia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>taxation</b>. </p> <p>Yerevan is one of the top ten city matches for 1.7% of FindMyCity users.</p>",
+ "total_score": 55.574054054054066,
+ "city_id": 264
+ },
+ {
+ "id": 265,
+ "summary": "<p>Zagreb, Croatia, is characterized by <b>reasonably priced housing</b>. According to our city rankings, this is a good place to live with high ratings in <b>cost of living</b>, <b>safety</b> and <b>environmental quality</b>. </p> <p>Zagreb is one of the top ten city matches for 1.3% of FindMyCity users.</p>",
+ "total_score": 57.2587837837838,
+ "city_id": 265
+ },
+ {
+ "id": 266,
+ "summary": "<p> Zurich is one of the wealthiest but also one of the most expensive cities in Europe. It is a <b>leader</b> in the world's financial industry as well as an international hub for banking. Zurich is also the center for development and <b>scientific research</b> with two world-class universities within its boundaries. The city is extremely <b>well-connected</b> through public transport and offers an exceptionally <b>high quality of life</b>.</p> <p>Zurich is one of the top ten city matches for 13.3% of FindMyCity users.</p>",
+ "total_score": 68.80797297297298,
+ "city_id": 266
+ }
+]

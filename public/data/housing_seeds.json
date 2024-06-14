@@ -1,0 +1,1864 @@
+[
+  {
+    "id": 1,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 1
+  },
+  {
+    "id": 2,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 1000,
+    "city_id": 2
+  },
+  {
+    "id": 3,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 760,
+    "city_id": 3
+  },
+  {
+    "id": 4,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 480,
+    "APARTMENT_RENT_SMALL": 340,
+    "city_id": 4
+  },
+  {
+    "id": 5,
+    "APARTMENT_RENT_LARGE": 2400,
+    "APARTMENT_RENT_MEDIUM": 2000,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 5
+  },
+  {
+    "id": 6,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1000,
+    "city_id": 6
+  },
+  {
+    "id": 7,
+    "APARTMENT_RENT_LARGE": 970,
+    "APARTMENT_RENT_MEDIUM": 800,
+    "APARTMENT_RENT_SMALL": 640,
+    "city_id": 7
+  },
+  {
+    "id": 8,
+    "APARTMENT_RENT_LARGE": 390,
+    "APARTMENT_RENT_MEDIUM": 330,
+    "APARTMENT_RENT_SMALL": 270,
+    "city_id": 8
+  },
+  {
+    "id": 9,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 9
+  },
+  {
+    "id": 10,
+    "APARTMENT_RENT_LARGE": 710,
+    "APARTMENT_RENT_MEDIUM": 550,
+    "APARTMENT_RENT_SMALL": 390,
+    "city_id": 10
+  },
+  {
+    "id": 11,
+    "APARTMENT_RENT_LARGE": 690,
+    "APARTMENT_RENT_MEDIUM": 560,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 11
+  },
+  {
+    "id": 12,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 12
+  },
+  {
+    "id": 13,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 13
+  },
+  {
+    "id": 14,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 14
+  },
+  {
+    "id": 15,
+    "APARTMENT_RENT_LARGE": 430,
+    "APARTMENT_RENT_MEDIUM": 340,
+    "APARTMENT_RENT_SMALL": 250,
+    "city_id": 15
+  },
+  {
+    "id": 16,
+    "APARTMENT_RENT_LARGE": 290,
+    "APARTMENT_RENT_MEDIUM": 230,
+    "APARTMENT_RENT_SMALL": 180,
+    "city_id": 16
+  },
+  {
+    "id": 17,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 17
+  },
+  {
+    "id": 18,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 910,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 18
+  },
+  {
+    "id": 19,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 980,
+    "city_id": 19
+  },
+  {
+    "id": 20,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 860,
+    "city_id": 20
+  },
+  {
+    "id": 21,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 720,
+    "city_id": 21
+  },
+  {
+    "id": 22,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 780,
+    "city_id": 22
+  },
+  {
+    "id": 23,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 490,
+    "APARTMENT_RENT_SMALL": 350,
+    "city_id": 23
+  },
+  {
+    "id": 24,
+    "APARTMENT_RENT_LARGE": 610,
+    "APARTMENT_RENT_MEDIUM": 470,
+    "APARTMENT_RENT_SMALL": 330,
+    "city_id": 24
+  },
+  {
+    "id": 25,
+    "APARTMENT_RENT_LARGE": 430,
+    "APARTMENT_RENT_MEDIUM": 330,
+    "APARTMENT_RENT_SMALL": 230,
+    "city_id": 25
+  },
+  {
+    "id": 26,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 26
+  },
+  {
+    "id": 27,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 850,
+    "city_id": 27
+  },
+  {
+    "id": 28,
+    "APARTMENT_RENT_LARGE": 2200,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 28
+  },
+  {
+    "id": 29,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 29
+  },
+  {
+    "id": 30,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 30
+  },
+  {
+    "id": 31,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 820,
+    "city_id": 31
+  },
+  {
+    "id": 32,
+    "APARTMENT_RENT_LARGE": 710,
+    "APARTMENT_RENT_MEDIUM": 570,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 32
+  },
+  {
+    "id": 33,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 33
+  },
+  {
+    "id": 34,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 930,
+    "APARTMENT_RENT_SMALL": 670,
+    "city_id": 34
+  },
+  {
+    "id": 35,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 680,
+    "city_id": 35
+  },
+  {
+    "id": 36,
+    "APARTMENT_RENT_LARGE": 2900,
+    "APARTMENT_RENT_MEDIUM": 2500,
+    "APARTMENT_RENT_SMALL": 2100,
+    "city_id": 36
+  },
+  {
+    "id": 37,
+    "APARTMENT_RENT_LARGE": 2300,
+    "APARTMENT_RENT_MEDIUM": 1800,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 37
+  },
+  {
+    "id": 38,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 980,
+    "city_id": 38
+  },
+  {
+    "id": 39,
+    "APARTMENT_RENT_LARGE": 1000,
+    "APARTMENT_RENT_MEDIUM": 820,
+    "APARTMENT_RENT_SMALL": 630,
+    "city_id": 39
+  },
+  {
+    "id": 40,
+    "APARTMENT_RENT_LARGE": null,
+    "APARTMENT_RENT_MEDIUM": null,
+    "APARTMENT_RENT_SMALL": null,
+    "city_id": 40
+  },
+  {
+    "id": 41,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 41
+  },
+  {
+    "id": 42,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 42
+  },
+  {
+    "id": 43,
+    "APARTMENT_RENT_LARGE": 860,
+    "APARTMENT_RENT_MEDIUM": 700,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 43
+  },
+  {
+    "id": 44,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 880,
+    "city_id": 44
+  },
+  {
+    "id": 45,
+    "APARTMENT_RENT_LARGE": 610,
+    "APARTMENT_RENT_MEDIUM": 490,
+    "APARTMENT_RENT_SMALL": 370,
+    "city_id": 45
+  },
+  {
+    "id": 46,
+    "APARTMENT_RENT_LARGE": 820,
+    "APARTMENT_RENT_MEDIUM": 660,
+    "APARTMENT_RENT_SMALL": 500,
+    "city_id": 46
+  },
+  {
+    "id": 47,
+    "APARTMENT_RENT_LARGE": 750,
+    "APARTMENT_RENT_MEDIUM": 620,
+    "APARTMENT_RENT_SMALL": 480,
+    "city_id": 47
+  },
+  {
+    "id": 48,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 980,
+    "APARTMENT_RENT_SMALL": 830,
+    "city_id": 48
+  },
+  {
+    "id": 49,
+    "APARTMENT_RENT_LARGE": 310,
+    "APARTMENT_RENT_MEDIUM": 250,
+    "APARTMENT_RENT_SMALL": 190,
+    "city_id": 49
+  },
+  {
+    "id": 50,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 990,
+    "city_id": 50
+  },
+  {
+    "id": 51,
+    "APARTMENT_RENT_LARGE": 2300,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 51
+  },
+  {
+    "id": 52,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 780,
+    "city_id": 52
+  },
+  {
+    "id": 53,
+    "APARTMENT_RENT_LARGE": null,
+    "APARTMENT_RENT_MEDIUM": null,
+    "APARTMENT_RENT_SMALL": null,
+    "city_id": 53
+  },
+  {
+    "id": 54,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 790,
+    "city_id": 54
+  },
+  {
+    "id": 55,
+    "APARTMENT_RENT_LARGE": 720,
+    "APARTMENT_RENT_MEDIUM": 590,
+    "APARTMENT_RENT_SMALL": 450,
+    "city_id": 55
+  },
+  {
+    "id": 56,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 56
+  },
+  {
+    "id": 57,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 57
+  },
+  {
+    "id": 58,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 930,
+    "city_id": 58
+  },
+  {
+    "id": 59,
+    "APARTMENT_RENT_LARGE": 350,
+    "APARTMENT_RENT_MEDIUM": 280,
+    "APARTMENT_RENT_SMALL": 200,
+    "city_id": 59
+  },
+  {
+    "id": 60,
+    "APARTMENT_RENT_LARGE": 600,
+    "APARTMENT_RENT_MEDIUM": 450,
+    "APARTMENT_RENT_SMALL": 300,
+    "city_id": 60
+  },
+  {
+    "id": 61,
+    "APARTMENT_RENT_LARGE": 2100,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 61
+  },
+  {
+    "id": 62,
+    "APARTMENT_RENT_LARGE": 510,
+    "APARTMENT_RENT_MEDIUM": 390,
+    "APARTMENT_RENT_SMALL": 270,
+    "city_id": 62
+  },
+  {
+    "id": 63,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 870,
+    "city_id": 63
+  },
+  {
+    "id": 64,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 64
+  },
+  {
+    "id": 65,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 970,
+    "APARTMENT_RENT_SMALL": 770,
+    "city_id": 65
+  },
+  {
+    "id": 66,
+    "APARTMENT_RENT_LARGE": 630,
+    "APARTMENT_RENT_MEDIUM": 490,
+    "APARTMENT_RENT_SMALL": 360,
+    "city_id": 66
+  },
+  {
+    "id": 67,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 820,
+    "city_id": 67
+  },
+  {
+    "id": 68,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 890,
+    "city_id": 68
+  },
+  {
+    "id": 69,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 890,
+    "city_id": 69
+  },
+  {
+    "id": 70,
+    "APARTMENT_RENT_LARGE": 2300,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 70
+  },
+  {
+    "id": 71,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 71
+  },
+  {
+    "id": 72,
+    "APARTMENT_RENT_LARGE": 560,
+    "APARTMENT_RENT_MEDIUM": 450,
+    "APARTMENT_RENT_SMALL": 350,
+    "city_id": 72
+  },
+  {
+    "id": 73,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 73
+  },
+  {
+    "id": 74,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 920,
+    "APARTMENT_RENT_SMALL": 480,
+    "city_id": 74
+  },
+  {
+    "id": 75,
+    "APARTMENT_RENT_LARGE": 460,
+    "APARTMENT_RENT_MEDIUM": 360,
+    "APARTMENT_RENT_SMALL": 260,
+    "city_id": 75
+  },
+  {
+    "id": 76,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 76
+  },
+  {
+    "id": 77,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 77
+  },
+  {
+    "id": 78,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 880,
+    "city_id": 78
+  },
+  {
+    "id": 79,
+    "APARTMENT_RENT_LARGE": 2800,
+    "APARTMENT_RENT_MEDIUM": 2300,
+    "APARTMENT_RENT_SMALL": 1700,
+    "city_id": 79
+  },
+  {
+    "id": 80,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 800,
+    "APARTMENT_RENT_SMALL": 550,
+    "city_id": 80
+  },
+  {
+    "id": 81,
+    "APARTMENT_RENT_LARGE": 2500,
+    "APARTMENT_RENT_MEDIUM": 2000,
+    "APARTMENT_RENT_SMALL": 1500,
+    "city_id": 81
+  },
+  {
+    "id": 82,
+    "APARTMENT_RENT_LARGE": 2600,
+    "APARTMENT_RENT_MEDIUM": 2100,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 82
+  },
+  {
+    "id": 83,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 820,
+    "city_id": 83
+  },
+  {
+    "id": 84,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 84
+  },
+  {
+    "id": 85,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 980,
+    "city_id": 85
+  },
+  {
+    "id": 86,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 980,
+    "city_id": 86
+  },
+  {
+    "id": 87,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 750,
+    "city_id": 87
+  },
+  {
+    "id": 88,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 790,
+    "city_id": 88
+  },
+  {
+    "id": 89,
+    "APARTMENT_RENT_LARGE": 680,
+    "APARTMENT_RENT_MEDIUM": 540,
+    "APARTMENT_RENT_SMALL": 400,
+    "city_id": 89
+  },
+  {
+    "id": 90,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 90
+  },
+  {
+    "id": 91,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 960,
+    "city_id": 91
+  },
+  {
+    "id": 92,
+    "APARTMENT_RENT_LARGE": 980,
+    "APARTMENT_RENT_MEDIUM": 780,
+    "APARTMENT_RENT_SMALL": 580,
+    "city_id": 92
+  },
+  {
+    "id": 93,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 990,
+    "city_id": 93
+  },
+  {
+    "id": 94,
+    "APARTMENT_RENT_LARGE": 860,
+    "APARTMENT_RENT_MEDIUM": 680,
+    "APARTMENT_RENT_SMALL": 510,
+    "city_id": 94
+  },
+  {
+    "id": 95,
+    "APARTMENT_RENT_LARGE": 3500,
+    "APARTMENT_RENT_MEDIUM": 2800,
+    "APARTMENT_RENT_SMALL": 2100,
+    "city_id": 95
+  },
+  {
+    "id": 96,
+    "APARTMENT_RENT_LARGE": 2900,
+    "APARTMENT_RENT_MEDIUM": 2200,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 96
+  },
+  {
+    "id": 97,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 750,
+    "city_id": 97
+  },
+  {
+    "id": 98,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 960,
+    "city_id": 98
+  },
+  {
+    "id": 99,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 700,
+    "city_id": 99
+  },
+  {
+    "id": 100,
+    "APARTMENT_RENT_LARGE": 570,
+    "APARTMENT_RENT_MEDIUM": 460,
+    "APARTMENT_RENT_SMALL": 340,
+    "city_id": 100
+  },
+  {
+    "id": 101,
+    "APARTMENT_RENT_LARGE": 720,
+    "APARTMENT_RENT_MEDIUM": 620,
+    "APARTMENT_RENT_SMALL": 520,
+    "city_id": 101
+  },
+  {
+    "id": 102,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 870,
+    "city_id": 102
+  },
+  {
+    "id": 103,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 860,
+    "city_id": 103
+  },
+  {
+    "id": 104,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 850,
+    "APARTMENT_RENT_SMALL": 650,
+    "city_id": 104
+  },
+  {
+    "id": 105,
+    "APARTMENT_RENT_LARGE": 800,
+    "APARTMENT_RENT_MEDIUM": 630,
+    "APARTMENT_RENT_SMALL": 450,
+    "city_id": 105
+  },
+  {
+    "id": 106,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 106
+  },
+  {
+    "id": 107,
+    "APARTMENT_RENT_LARGE": 880,
+    "APARTMENT_RENT_MEDIUM": 660,
+    "APARTMENT_RENT_SMALL": 440,
+    "city_id": 107
+  },
+  {
+    "id": 108,
+    "APARTMENT_RENT_LARGE": 3700,
+    "APARTMENT_RENT_MEDIUM": 2900,
+    "APARTMENT_RENT_SMALL": 2000,
+    "city_id": 108
+  },
+  {
+    "id": 109,
+    "APARTMENT_RENT_LARGE": 2600,
+    "APARTMENT_RENT_MEDIUM": 2100,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 109
+  },
+  {
+    "id": 110,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 110
+  },
+  {
+    "id": 111,
+    "APARTMENT_RENT_LARGE": 310,
+    "APARTMENT_RENT_MEDIUM": 250,
+    "APARTMENT_RENT_SMALL": 190,
+    "city_id": 111
+  },
+  {
+    "id": 112,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 860,
+    "city_id": 112
+  },
+  {
+    "id": 113,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 810,
+    "city_id": 113
+  },
+  {
+    "id": 114,
+    "APARTMENT_RENT_LARGE": 670,
+    "APARTMENT_RENT_MEDIUM": 550,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 114
+  },
+  {
+    "id": 115,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 950,
+    "city_id": 115
+  },
+  {
+    "id": 116,
+    "APARTMENT_RENT_LARGE": 880,
+    "APARTMENT_RENT_MEDIUM": 630,
+    "APARTMENT_RENT_SMALL": 390,
+    "city_id": 116
+  },
+  {
+    "id": 117,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 850,
+    "APARTMENT_RENT_SMALL": 650,
+    "city_id": 117
+  },
+  {
+    "id": 118,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 790,
+    "city_id": 118
+  },
+  {
+    "id": 119,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 870,
+    "APARTMENT_RENT_SMALL": 660,
+    "city_id": 119
+  },
+  {
+    "id": 120,
+    "APARTMENT_RENT_LARGE": 280,
+    "APARTMENT_RENT_MEDIUM": 250,
+    "APARTMENT_RENT_SMALL": 220,
+    "city_id": 120
+  },
+  {
+    "id": 121,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 500,
+    "APARTMENT_RENT_SMALL": 380,
+    "city_id": 121
+  },
+  {
+    "id": 122,
+    "APARTMENT_RENT_LARGE": 660,
+    "APARTMENT_RENT_MEDIUM": 530,
+    "APARTMENT_RENT_SMALL": 410,
+    "city_id": 122
+  },
+  {
+    "id": 123,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 890,
+    "city_id": 123
+  },
+  {
+    "id": 124,
+    "APARTMENT_RENT_LARGE": 860,
+    "APARTMENT_RENT_MEDIUM": 700,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 124
+  },
+  {
+    "id": 125,
+    "APARTMENT_RENT_LARGE": 720,
+    "APARTMENT_RENT_MEDIUM": 610,
+    "APARTMENT_RENT_SMALL": 490,
+    "city_id": 125
+  },
+  {
+    "id": 126,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 900,
+    "APARTMENT_RENT_SMALL": 660,
+    "city_id": 126
+  },
+  {
+    "id": 127,
+    "APARTMENT_RENT_LARGE": 820,
+    "APARTMENT_RENT_MEDIUM": 720,
+    "APARTMENT_RENT_SMALL": 630,
+    "city_id": 127
+  },
+  {
+    "id": 128,
+    "APARTMENT_RENT_LARGE": 550,
+    "APARTMENT_RENT_MEDIUM": 430,
+    "APARTMENT_RENT_SMALL": 300,
+    "city_id": 128
+  },
+  {
+    "id": 129,
+    "APARTMENT_RENT_LARGE": 910,
+    "APARTMENT_RENT_MEDIUM": 740,
+    "APARTMENT_RENT_SMALL": 560,
+    "city_id": 129
+  },
+  {
+    "id": 130,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 880,
+    "city_id": 130
+  },
+  {
+    "id": 131,
+    "APARTMENT_RENT_LARGE": 2400,
+    "APARTMENT_RENT_MEDIUM": 1800,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 131
+  },
+  {
+    "id": 132,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 920,
+    "city_id": 132
+  },
+  {
+    "id": 133,
+    "APARTMENT_RENT_LARGE": 970,
+    "APARTMENT_RENT_MEDIUM": 750,
+    "APARTMENT_RENT_SMALL": 520,
+    "city_id": 133
+  },
+  {
+    "id": 134,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 940,
+    "APARTMENT_RENT_SMALL": 710,
+    "city_id": 134
+  },
+  {
+    "id": 135,
+    "APARTMENT_RENT_LARGE": 750,
+    "APARTMENT_RENT_MEDIUM": 610,
+    "APARTMENT_RENT_SMALL": 470,
+    "city_id": 135
+  },
+  {
+    "id": 136,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 136
+  },
+  {
+    "id": 137,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 920,
+    "APARTMENT_RENT_SMALL": 750,
+    "city_id": 137
+  },
+  {
+    "id": 138,
+    "APARTMENT_RENT_LARGE": 960,
+    "APARTMENT_RENT_MEDIUM": 740,
+    "APARTMENT_RENT_SMALL": 530,
+    "city_id": 138
+  },
+  {
+    "id": 139,
+    "APARTMENT_RENT_LARGE": 3200,
+    "APARTMENT_RENT_MEDIUM": 2500,
+    "APARTMENT_RENT_SMALL": 1900,
+    "city_id": 139
+  },
+  {
+    "id": 140,
+    "APARTMENT_RENT_LARGE": 2700,
+    "APARTMENT_RENT_MEDIUM": 2300,
+    "APARTMENT_RENT_SMALL": 1800,
+    "city_id": 140
+  },
+  {
+    "id": 141,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 750,
+    "city_id": 141
+  },
+  {
+    "id": 142,
+    "APARTMENT_RENT_LARGE": 2700,
+    "APARTMENT_RENT_MEDIUM": 2100,
+    "APARTMENT_RENT_SMALL": 1500,
+    "city_id": 142
+  },
+  {
+    "id": 143,
+    "APARTMENT_RENT_LARGE": 410,
+    "APARTMENT_RENT_MEDIUM": 320,
+    "APARTMENT_RENT_SMALL": 230,
+    "city_id": 143
+  },
+  {
+    "id": 144,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 144
+  },
+  {
+    "id": 145,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1000,
+    "city_id": 145
+  },
+  {
+    "id": 146,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 870,
+    "city_id": 146
+  },
+  {
+    "id": 147,
+    "APARTMENT_RENT_LARGE": 920,
+    "APARTMENT_RENT_MEDIUM": 780,
+    "APARTMENT_RENT_SMALL": 640,
+    "city_id": 147
+  },
+  {
+    "id": 148,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 770,
+    "city_id": 148
+  },
+  {
+    "id": 149,
+    "APARTMENT_RENT_LARGE": 500,
+    "APARTMENT_RENT_MEDIUM": 400,
+    "APARTMENT_RENT_SMALL": 290,
+    "city_id": 149
+  },
+  {
+    "id": 150,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 970,
+    "city_id": 150
+  },
+  {
+    "id": 151,
+    "APARTMENT_RENT_LARGE": 870,
+    "APARTMENT_RENT_MEDIUM": 630,
+    "APARTMENT_RENT_SMALL": 390,
+    "city_id": 151
+  },
+  {
+    "id": 152,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 930,
+    "APARTMENT_RENT_SMALL": 720,
+    "city_id": 152
+  },
+  {
+    "id": 153,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 510,
+    "APARTMENT_RENT_SMALL": 400,
+    "city_id": 153
+  },
+  {
+    "id": 154,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 154
+  },
+  {
+    "id": 155,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 990,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 155
+  },
+  {
+    "id": 156,
+    "APARTMENT_RENT_LARGE": 900,
+    "APARTMENT_RENT_MEDIUM": 710,
+    "APARTMENT_RENT_SMALL": 520,
+    "city_id": 156
+  },
+  {
+    "id": 157,
+    "APARTMENT_RENT_LARGE": 2400,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 157
+  },
+  {
+    "id": 158,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 158
+  },
+  {
+    "id": 159,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 940,
+    "city_id": 159
+  },
+  {
+    "id": 160,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1500,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 160
+  },
+  {
+    "id": 161,
+    "APARTMENT_RENT_LARGE": 470,
+    "APARTMENT_RENT_MEDIUM": 400,
+    "APARTMENT_RENT_SMALL": 330,
+    "city_id": 161
+  },
+  {
+    "id": 162,
+    "APARTMENT_RENT_LARGE": 930,
+    "APARTMENT_RENT_MEDIUM": 750,
+    "APARTMENT_RENT_SMALL": 580,
+    "city_id": 162
+  },
+  {
+    "id": 163,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 930,
+    "APARTMENT_RENT_SMALL": 730,
+    "city_id": 163
+  },
+  {
+    "id": 164,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 164
+  },
+  {
+    "id": 165,
+    "APARTMENT_RENT_LARGE": 980,
+    "APARTMENT_RENT_MEDIUM": 740,
+    "APARTMENT_RENT_SMALL": 500,
+    "city_id": 165
+  },
+  {
+    "id": 166,
+    "APARTMENT_RENT_LARGE": 2200,
+    "APARTMENT_RENT_MEDIUM": 1800,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 166
+  },
+  {
+    "id": 167,
+    "APARTMENT_RENT_LARGE": 920,
+    "APARTMENT_RENT_MEDIUM": 680,
+    "APARTMENT_RENT_SMALL": 440,
+    "city_id": 167
+  },
+  {
+    "id": 168,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 900,
+    "APARTMENT_RENT_SMALL": 640,
+    "city_id": 168
+  },
+  {
+    "id": 169,
+    "APARTMENT_RENT_LARGE": 930,
+    "APARTMENT_RENT_MEDIUM": 770,
+    "APARTMENT_RENT_SMALL": 610,
+    "city_id": 169
+  },
+  {
+    "id": 170,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 170
+  },
+  {
+    "id": 171,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 171
+  },
+  {
+    "id": 172,
+    "APARTMENT_RENT_LARGE": 3800,
+    "APARTMENT_RENT_MEDIUM": 3100,
+    "APARTMENT_RENT_SMALL": 2400,
+    "city_id": 172
+  },
+  {
+    "id": 173,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 173
+  },
+  {
+    "id": 174,
+    "APARTMENT_RENT_LARGE": 750,
+    "APARTMENT_RENT_MEDIUM": 600,
+    "APARTMENT_RENT_SMALL": 460,
+    "city_id": 174
+  },
+  {
+    "id": 175,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 990,
+    "APARTMENT_RENT_SMALL": 820,
+    "city_id": 175
+  },
+  {
+    "id": 176,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 990,
+    "APARTMENT_RENT_SMALL": 760,
+    "city_id": 176
+  },
+  {
+    "id": 177,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 177
+  },
+  {
+    "id": 178,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 840,
+    "APARTMENT_RENT_SMALL": 600,
+    "city_id": 178
+  },
+  {
+    "id": 179,
+    "APARTMENT_RENT_LARGE": 2200,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 179
+  },
+  {
+    "id": 180,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 840,
+    "city_id": 180
+  },
+  {
+    "id": 181,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 910,
+    "APARTMENT_RENT_SMALL": 690,
+    "city_id": 181
+  },
+  {
+    "id": 182,
+    "APARTMENT_RENT_LARGE": 2400,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 182
+  },
+  {
+    "id": 183,
+    "APARTMENT_RENT_LARGE": 4100,
+    "APARTMENT_RENT_MEDIUM": 3300,
+    "APARTMENT_RENT_SMALL": 2600,
+    "city_id": 183
+  },
+  {
+    "id": 184,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 880,
+    "city_id": 184
+  },
+  {
+    "id": 185,
+    "APARTMENT_RENT_LARGE": 2700,
+    "APARTMENT_RENT_MEDIUM": 2000,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 185
+  },
+  {
+    "id": 186,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 186
+  },
+  {
+    "id": 187,
+    "APARTMENT_RENT_LARGE": 2100,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 187
+  },
+  {
+    "id": 188,
+    "APARTMENT_RENT_LARGE": 880,
+    "APARTMENT_RENT_MEDIUM": 660,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 188
+  },
+  {
+    "id": 189,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 860,
+    "city_id": 189
+  },
+  {
+    "id": 190,
+    "APARTMENT_RENT_LARGE": 760,
+    "APARTMENT_RENT_MEDIUM": 590,
+    "APARTMENT_RENT_SMALL": 410,
+    "city_id": 190
+  },
+  {
+    "id": 191,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 880,
+    "city_id": 191
+  },
+  {
+    "id": 192,
+    "APARTMENT_RENT_LARGE": null,
+    "APARTMENT_RENT_MEDIUM": null,
+    "APARTMENT_RENT_SMALL": null,
+    "city_id": 192
+  },
+  {
+    "id": 193,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1400,
+    "city_id": 193
+  },
+  {
+    "id": 194,
+    "APARTMENT_RENT_LARGE": 920,
+    "APARTMENT_RENT_MEDIUM": 730,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 194
+  },
+  {
+    "id": 195,
+    "APARTMENT_RENT_LARGE": 670,
+    "APARTMENT_RENT_MEDIUM": 530,
+    "APARTMENT_RENT_SMALL": 390,
+    "city_id": 195
+  },
+  {
+    "id": 196,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 940,
+    "APARTMENT_RENT_SMALL": 740,
+    "city_id": 196
+  },
+  {
+    "id": 197,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 980,
+    "city_id": 197
+  },
+  {
+    "id": 198,
+    "APARTMENT_RENT_LARGE": 850,
+    "APARTMENT_RENT_MEDIUM": 700,
+    "APARTMENT_RENT_SMALL": 550,
+    "city_id": 198
+  },
+  {
+    "id": 199,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 520,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 199
+  },
+  {
+    "id": 200,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 930,
+    "city_id": 200
+  },
+  {
+    "id": 201,
+    "APARTMENT_RENT_LARGE": 2600,
+    "APARTMENT_RENT_MEDIUM": 2100,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 201
+  },
+  {
+    "id": 202,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 920,
+    "city_id": 202
+  },
+  {
+    "id": 203,
+    "APARTMENT_RENT_LARGE": 710,
+    "APARTMENT_RENT_MEDIUM": 580,
+    "APARTMENT_RENT_SMALL": 450,
+    "city_id": 203
+  },
+  {
+    "id": 204,
+    "APARTMENT_RENT_LARGE": 970,
+    "APARTMENT_RENT_MEDIUM": 760,
+    "APARTMENT_RENT_SMALL": 560,
+    "city_id": 204
+  },
+  {
+    "id": 205,
+    "APARTMENT_RENT_LARGE": 840,
+    "APARTMENT_RENT_MEDIUM": 670,
+    "APARTMENT_RENT_SMALL": 500,
+    "city_id": 205
+  },
+  {
+    "id": 206,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 810,
+    "city_id": 206
+  },
+  {
+    "id": 207,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 207
+  },
+  {
+    "id": 208,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1000,
+    "city_id": 208
+  },
+  {
+    "id": 209,
+    "APARTMENT_RENT_LARGE": 930,
+    "APARTMENT_RENT_MEDIUM": 720,
+    "APARTMENT_RENT_SMALL": 510,
+    "city_id": 209
+  },
+  {
+    "id": 210,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 940,
+    "city_id": 210
+  },
+  {
+    "id": 211,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 890,
+    "city_id": 211
+  },
+  {
+    "id": 212,
+    "APARTMENT_RENT_LARGE": 2300,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1500,
+    "city_id": 212
+  },
+  {
+    "id": 213,
+    "APARTMENT_RENT_LARGE": 4100,
+    "APARTMENT_RENT_MEDIUM": 3300,
+    "APARTMENT_RENT_SMALL": 2600,
+    "city_id": 213
+  },
+  {
+    "id": 214,
+    "APARTMENT_RENT_LARGE": 940,
+    "APARTMENT_RENT_MEDIUM": 830,
+    "APARTMENT_RENT_SMALL": 730,
+    "city_id": 214
+  },
+  {
+    "id": 215,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 710,
+    "city_id": 215
+  },
+  {
+    "id": 216,
+    "APARTMENT_RENT_LARGE": 2500,
+    "APARTMENT_RENT_MEDIUM": 1900,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 216
+  },
+  {
+    "id": 217,
+    "APARTMENT_RENT_LARGE": 730,
+    "APARTMENT_RENT_MEDIUM": 580,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 217
+  },
+  {
+    "id": 218,
+    "APARTMENT_RENT_LARGE": 910,
+    "APARTMENT_RENT_MEDIUM": 730,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 218
+  },
+  {
+    "id": 219,
+    "APARTMENT_RENT_LARGE": 620,
+    "APARTMENT_RENT_MEDIUM": 490,
+    "APARTMENT_RENT_SMALL": 370,
+    "city_id": 219
+  },
+  {
+    "id": 220,
+    "APARTMENT_RENT_LARGE": 950,
+    "APARTMENT_RENT_MEDIUM": 760,
+    "APARTMENT_RENT_SMALL": 580,
+    "city_id": 220
+  },
+  {
+    "id": 221,
+    "APARTMENT_RENT_LARGE": 470,
+    "APARTMENT_RENT_MEDIUM": 370,
+    "APARTMENT_RENT_SMALL": 260,
+    "city_id": 221
+  },
+  {
+    "id": 222,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 222
+  },
+  {
+    "id": 223,
+    "APARTMENT_RENT_LARGE": 2600,
+    "APARTMENT_RENT_MEDIUM": 2100,
+    "APARTMENT_RENT_SMALL": 1600,
+    "city_id": 223
+  },
+  {
+    "id": 224,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 740,
+    "city_id": 224
+  },
+  {
+    "id": 225,
+    "APARTMENT_RENT_LARGE": 930,
+    "APARTMENT_RENT_MEDIUM": 760,
+    "APARTMENT_RENT_SMALL": 590,
+    "city_id": 225
+  },
+  {
+    "id": 226,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 226
+  },
+  {
+    "id": 227,
+    "APARTMENT_RENT_LARGE": 2800,
+    "APARTMENT_RENT_MEDIUM": 2300,
+    "APARTMENT_RENT_SMALL": 1900,
+    "city_id": 227
+  },
+  {
+    "id": 228,
+    "APARTMENT_RENT_LARGE": 440,
+    "APARTMENT_RENT_MEDIUM": 350,
+    "APARTMENT_RENT_SMALL": 260,
+    "city_id": 228
+  },
+  {
+    "id": 229,
+    "APARTMENT_RENT_LARGE": 540,
+    "APARTMENT_RENT_MEDIUM": 450,
+    "APARTMENT_RENT_SMALL": 350,
+    "city_id": 229
+  },
+  {
+    "id": 230,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 800,
+    "city_id": 230
+  },
+  {
+    "id": 231,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 231
+  },
+  {
+    "id": 232,
+    "APARTMENT_RENT_LARGE": 1500,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 900,
+    "city_id": 232
+  },
+  {
+    "id": 233,
+    "APARTMENT_RENT_LARGE": 2800,
+    "APARTMENT_RENT_MEDIUM": 2300,
+    "APARTMENT_RENT_SMALL": 1700,
+    "city_id": 233
+  },
+  {
+    "id": 234,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 820,
+    "APARTMENT_RENT_SMALL": 500,
+    "city_id": 234
+  },
+  {
+    "id": 235,
+    "APARTMENT_RENT_LARGE": 850,
+    "APARTMENT_RENT_MEDIUM": 710,
+    "APARTMENT_RENT_SMALL": 570,
+    "city_id": 235
+  },
+  {
+    "id": 236,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 236
+  },
+  {
+    "id": 237,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1100,
+    "APARTMENT_RENT_SMALL": 850,
+    "city_id": 237
+  },
+  {
+    "id": 238,
+    "APARTMENT_RENT_LARGE": 710,
+    "APARTMENT_RENT_MEDIUM": 570,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 238
+  },
+  {
+    "id": 239,
+    "APARTMENT_RENT_LARGE": 410,
+    "APARTMENT_RENT_MEDIUM": 290,
+    "APARTMENT_RENT_SMALL": 180,
+    "city_id": 239
+  },
+  {
+    "id": 240,
+    "APARTMENT_RENT_LARGE": 550,
+    "APARTMENT_RENT_MEDIUM": 420,
+    "APARTMENT_RENT_SMALL": 300,
+    "city_id": 240
+  },
+  {
+    "id": 241,
+    "APARTMENT_RENT_LARGE": 970,
+    "APARTMENT_RENT_MEDIUM": 770,
+    "APARTMENT_RENT_SMALL": 570,
+    "city_id": 241
+  },
+  {
+    "id": 242,
+    "APARTMENT_RENT_LARGE": 2000,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1200,
+    "city_id": 242
+  },
+  {
+    "id": 243,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 1000,
+    "city_id": 243
+  },
+  {
+    "id": 244,
+    "APARTMENT_RENT_LARGE": 550,
+    "APARTMENT_RENT_MEDIUM": 450,
+    "APARTMENT_RENT_SMALL": 350,
+    "city_id": 244
+  },
+  {
+    "id": 245,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 245
+  },
+  {
+    "id": 246,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 246
+  },
+  {
+    "id": 247,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 930,
+    "APARTMENT_RENT_SMALL": 670,
+    "city_id": 247
+  },
+  {
+    "id": 248,
+    "APARTMENT_RENT_LARGE": 370,
+    "APARTMENT_RENT_MEDIUM": 310,
+    "APARTMENT_RENT_SMALL": 240,
+    "city_id": 248
+  },
+  {
+    "id": 249,
+    "APARTMENT_RENT_LARGE": 960,
+    "APARTMENT_RENT_MEDIUM": 760,
+    "APARTMENT_RENT_SMALL": 560,
+    "city_id": 249
+  },
+  {
+    "id": 250,
+    "APARTMENT_RENT_LARGE": 1200,
+    "APARTMENT_RENT_MEDIUM": 950,
+    "APARTMENT_RENT_SMALL": 730,
+    "city_id": 250
+  },
+  {
+    "id": 251,
+    "APARTMENT_RENT_LARGE": 1300,
+    "APARTMENT_RENT_MEDIUM": 1000,
+    "APARTMENT_RENT_SMALL": 780,
+    "city_id": 251
+  },
+  {
+    "id": 252,
+    "APARTMENT_RENT_LARGE": 1800,
+    "APARTMENT_RENT_MEDIUM": 1400,
+    "APARTMENT_RENT_SMALL": 1100,
+    "city_id": 252
+  },
+  {
+    "id": 253,
+    "APARTMENT_RENT_LARGE": 910,
+    "APARTMENT_RENT_MEDIUM": 790,
+    "APARTMENT_RENT_SMALL": 660,
+    "city_id": 253
+  },
+  {
+    "id": 254,
+    "APARTMENT_RENT_LARGE": 1400,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 910,
+    "city_id": 254
+  },
+  {
+    "id": 255,
+    "APARTMENT_RENT_LARGE": 2100,
+    "APARTMENT_RENT_MEDIUM": 1700,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 255
+  },
+  {
+    "id": 256,
+    "APARTMENT_RENT_LARGE": 1700,
+    "APARTMENT_RENT_MEDIUM": 1300,
+    "APARTMENT_RENT_SMALL": 920,
+    "city_id": 256
+  },
+  {
+    "id": 257,
+    "APARTMENT_RENT_LARGE": 1600,
+    "APARTMENT_RENT_MEDIUM": 1200,
+    "APARTMENT_RENT_SMALL": 850,
+    "city_id": 257
+  },
+  {
+    "id": 258,
+    "APARTMENT_RENT_LARGE": 780,
+    "APARTMENT_RENT_MEDIUM": 630,
+    "APARTMENT_RENT_SMALL": 480,
+    "city_id": 258
+  },
+  {
+    "id": 259,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 850,
+    "APARTMENT_RENT_SMALL": 640,
+    "city_id": 259
+  },
+  {
+    "id": 260,
+    "APARTMENT_RENT_LARGE": 2900,
+    "APARTMENT_RENT_MEDIUM": 2400,
+    "APARTMENT_RENT_SMALL": 1800,
+    "city_id": 260
+  },
+  {
+    "id": 261,
+    "APARTMENT_RENT_LARGE": 1900,
+    "APARTMENT_RENT_MEDIUM": 1600,
+    "APARTMENT_RENT_SMALL": 1300,
+    "city_id": 261
+  },
+  {
+    "id": 262,
+    "APARTMENT_RENT_LARGE": 1100,
+    "APARTMENT_RENT_MEDIUM": 910,
+    "APARTMENT_RENT_SMALL": 720,
+    "city_id": 262
+  },
+  {
+    "id": 263,
+    "APARTMENT_RENT_LARGE": 830,
+    "APARTMENT_RENT_MEDIUM": 680,
+    "APARTMENT_RENT_SMALL": 540,
+    "city_id": 263
+  },
+  {
+    "id": 264,
+    "APARTMENT_RENT_LARGE": 440,
+    "APARTMENT_RENT_MEDIUM": 350,
+    "APARTMENT_RENT_SMALL": 250,
+    "city_id": 264
+  },
+  {
+    "id": 265,
+    "APARTMENT_RENT_LARGE": 690,
+    "APARTMENT_RENT_MEDIUM": 560,
+    "APARTMENT_RENT_SMALL": 430,
+    "city_id": 265
+  },
+  {
+    "id": 266,
+    "APARTMENT_RENT_LARGE": 3100,
+    "APARTMENT_RENT_MEDIUM": 2500,
+    "APARTMENT_RENT_SMALL": 1900,
+    "city_id": 266
+  }
+]

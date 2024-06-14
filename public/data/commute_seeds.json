@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 1,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9813,
+    "city_id": 1
+  },
+  {
+    "id": 2,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Australia/Adelaide",
+    "TRAFFIC_INDEX_TELESCORE": 0.7326,
+    "city_id": 2
+  },
+  {
+    "id": 3,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Albuquerque",
+    "TRAFFIC_INDEX_TELESCORE": 0.7949,
+    "city_id": 3
+  },
+  {
+    "id": 4,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Kazakhstan/Almaty",
+    "TRAFFIC_INDEX_TELESCORE": 0.8874,
+    "city_id": 4
+  },
+  {
+    "id": 5,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Netherlands/Amsterdam",
+    "TRAFFIC_INDEX_TELESCORE": 0.9075,
+    "city_id": 5
+  },
+  {
+    "id": 6,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Anchorage",
+    "TRAFFIC_INDEX_TELESCORE": 0.6506,
+    "city_id": 6
+  },
+  {
+    "id": 7,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 7
+  },
+  {
+    "id": 8,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Turkey/Ankara",
+    "TRAFFIC_INDEX_TELESCORE": 0.7156,
+    "city_id": 8
+  },
+  {
+    "id": 9,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5432,
+    "city_id": 9
+  },
+  {
+    "id": 10,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Paraguay/Asunción",
+    "TRAFFIC_INDEX_TELESCORE": 0.7597,
+    "city_id": 10
+  },
+  {
+    "id": 11,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Greece/Athens",
+    "TRAFFIC_INDEX_TELESCORE": 0.6688,
+    "city_id": 11
+  },
+  {
+    "id": 12,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Atlanta",
+    "TRAFFIC_INDEX_TELESCORE": 0.3216,
+    "city_id": 12
+  },
+  {
+    "id": 13,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5687,
+    "city_id": 13
+  },
+  {
+    "id": 14,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Austin",
+    "TRAFFIC_INDEX_TELESCORE": 0.5115,
+    "city_id": 14
+  },
+  {
+    "id": 15,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Azerbaijan/Baku",
+    "TRAFFIC_INDEX_TELESCORE": 0.7326,
+    "city_id": 15
+  },
+  {
+    "id": 16,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.806,
+    "city_id": 16
+  },
+  {
+    "id": 17,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Baltimore",
+    "TRAFFIC_INDEX_TELESCORE": 0.6688,
+    "city_id": 17
+  },
+  {
+    "id": 18,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Thailand/Bangkok",
+    "TRAFFIC_INDEX_TELESCORE": 0.4056,
+    "city_id": 18
+  },
+  {
+    "id": 19,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Spain/Barcelona",
+    "TRAFFIC_INDEX_TELESCORE": 0.8416,
+    "city_id": 19
+  },
+  {
+    "id": 20,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/China/Beijing",
+    "TRAFFIC_INDEX_TELESCORE": 0.4411,
+    "city_id": 20
+  },
+  {
+    "id": 21,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Lebanon/Beirut",
+    "TRAFFIC_INDEX_TELESCORE": 0.6074,
+    "city_id": 21
+  },
+  {
+    "id": 22,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7861,
+    "city_id": 22
+  },
+  {
+    "id": 23,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Serbia/Belgrade",
+    "TRAFFIC_INDEX_TELESCORE": 0.8143,
+    "city_id": 23
+  },
+  {
+    "id": 24,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 24
+  },
+  {
+    "id": 25,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/India/Bangalore",
+    "TRAFFIC_INDEX_TELESCORE": 0.1853,
+    "city_id": 25
+  },
+  {
+    "id": 26,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9162,
+    "city_id": 26
+  },
+  {
+    "id": 27,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Germany/Berlin",
+    "TRAFFIC_INDEX_TELESCORE": 0.9006,
+    "city_id": 27
+  },
+  {
+    "id": 28,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9167,
+    "city_id": 28
+  },
+  {
+    "id": 29,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7681,
+    "city_id": 29
+  },
+  {
+    "id": 30,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_Kingdom/Birmingham",
+    "TRAFFIC_INDEX_TELESCORE": 0.8254,
+    "city_id": 30
+  },
+  {
+    "id": 31,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Birmingham",
+    "TRAFFIC_INDEX_TELESCORE": 0.8083,
+    "city_id": 31
+  },
+  {
+    "id": 32,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Colombia/Bogotá",
+    "TRAFFIC_INDEX_TELESCORE": 0.4477,
+    "city_id": 32
+  },
+  {
+    "id": 33,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Boise",
+    "TRAFFIC_INDEX_TELESCORE": 0.8622,
+    "city_id": 33
+  },
+  {
+    "id": 34,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7969,
+    "city_id": 34
+  },
+  {
+    "id": 35,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8694,
+    "city_id": 35
+  },
+  {
+    "id": 36,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Boston",
+    "TRAFFIC_INDEX_TELESCORE": 0.4354,
+    "city_id": 36
+  },
+  {
+    "id": 37,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 37
+  },
+  {
+    "id": 38,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 38
+  },
+  {
+    "id": 39,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8448,
+    "city_id": 39
+  },
+  {
+    "id": 40,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7902,
+    "city_id": 40
+  },
+  {
+    "id": 41,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Australia/Brisbane",
+    "TRAFFIC_INDEX_TELESCORE": 0.502,
+    "city_id": 41
+  },
+  {
+    "id": 42,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8337,
+    "city_id": 42
+  },
+  {
+    "id": 43,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9482,
+    "city_id": 43
+  },
+  {
+    "id": 44,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Belgium/Brussels",
+    "TRAFFIC_INDEX_TELESCORE": 0.7468,
+    "city_id": 44
+  },
+  {
+    "id": 45,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Romania/Bucharest",
+    "TRAFFIC_INDEX_TELESCORE": 0.5863,
+    "city_id": 45
+  },
+  {
+    "id": 46,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Hungary/Budapest",
+    "TRAFFIC_INDEX_TELESCORE": 0.7416,
+    "city_id": 46
+  },
+  {
+    "id": 47,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Argentina/Buenos_Aires",
+    "TRAFFIC_INDEX_TELESCORE": 0.4325,
+    "city_id": 47
+  },
+  {
+    "id": 48,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Buffalo",
+    "TRAFFIC_INDEX_TELESCORE": 0.8616,
+    "city_id": 48
+  },
+  {
+    "id": 49,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Egypt/Cairo",
+    "TRAFFIC_INDEX_TELESCORE": 0.2439,
+    "city_id": 49
+  },
+  {
+    "id": 50,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Calgary",
+    "TRAFFIC_INDEX_TELESCORE": 0.6688,
+    "city_id": 50
+  },
+  {
+    "id": 51,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8338,
+    "city_id": 51
+  },
+  {
+    "id": 52,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/South_Africa/Cape_Town",
+    "TRAFFIC_INDEX_TELESCORE": 0.3022,
+    "city_id": 52
+  },
+  {
+    "id": 53,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Venezuela/Caracas",
+    "TRAFFIC_INDEX_TELESCORE": 0.4698,
+    "city_id": 53
+  },
+  {
+    "id": 54,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9119,
+    "city_id": 54
+  },
+  {
+    "id": 55,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Morocco/Casablanca",
+    "TRAFFIC_INDEX_TELESCORE": 0.343,
+    "city_id": 55
+  },
+  {
+    "id": 56,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Charleston",
+    "TRAFFIC_INDEX_TELESCORE": 0.6209,
+    "city_id": 56
+  },
+  {
+    "id": 57,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Charlotte",
+    "TRAFFIC_INDEX_TELESCORE": 0.4534,
+    "city_id": 57
+  },
+  {
+    "id": 58,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Chattanooga",
+    "TRAFFIC_INDEX_TELESCORE": 0.3188,
+    "city_id": 58
+  },
+  {
+    "id": 59,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/India/Chennai",
+    "TRAFFIC_INDEX_TELESCORE": 0.4758,
+    "city_id": 59
+  },
+  {
+    "id": 60,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7451,
+    "city_id": 60
+  },
+  {
+    "id": 61,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Chicago",
+    "TRAFFIC_INDEX_TELESCORE": 0.4674,
+    "city_id": 61
+  },
+  {
+    "id": 62,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Moldova/Chişinău",
+    "TRAFFIC_INDEX_TELESCORE": 0.7664,
+    "city_id": 62
+  },
+  {
+    "id": 63,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8967,
+    "city_id": 63
+  },
+  {
+    "id": 64,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Cincinnati",
+    "TRAFFIC_INDEX_TELESCORE": 0.6899,
+    "city_id": 64
+  },
+  {
+    "id": 65,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Cleveland",
+    "TRAFFIC_INDEX_TELESCORE": 0.5304,
+    "city_id": 65
+  },
+  {
+    "id": 66,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8875,
+    "city_id": 66
+  },
+  {
+    "id": 67,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.6603,
+    "city_id": 67
+  },
+  {
+    "id": 68,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Colorado_Springs",
+    "TRAFFIC_INDEX_TELESCORE": 0.6941,
+    "city_id": 68
+  },
+  {
+    "id": 69,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Columbus",
+    "TRAFFIC_INDEX_TELESCORE": 0.7997,
+    "city_id": 69
+  },
+  {
+    "id": 70,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Denmark/Copenhagen",
+    "TRAFFIC_INDEX_TELESCORE": 0.9389,
+    "city_id": 70
+  },
+  {
+    "id": 71,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7509,
+    "city_id": 71
+  },
+  {
+    "id": 72,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Brazil/Curitiba",
+    "TRAFFIC_INDEX_TELESCORE": 0.684,
+    "city_id": 72
+  },
+  {
+    "id": 73,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Dallas",
+    "TRAFFIC_INDEX_TELESCORE": 0.5455,
+    "city_id": 73
+  },
+  {
+    "id": 74,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Tanzania/Dar_es_Salaam",
+    "TRAFFIC_INDEX_TELESCORE": 0.8303,
+    "city_id": 74
+  },
+  {
+    "id": 75,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/India/Delhi",
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 75
+  },
+  {
+    "id": 76,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Denver",
+    "TRAFFIC_INDEX_TELESCORE": 0.5868,
+    "city_id": 76
+  },
+  {
+    "id": 77,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Des_Moines",
+    "TRAFFIC_INDEX_TELESCORE": 0.8289,
+    "city_id": 77
+  },
+  {
+    "id": 78,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Detroit",
+    "TRAFFIC_INDEX_TELESCORE": 0.3732,
+    "city_id": 78
+  },
+  {
+    "id": 79,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.6278,
+    "city_id": 79
+  },
+  {
+    "id": 80,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8885,
+    "city_id": 80
+  },
+  {
+    "id": 81,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.4499,
+    "city_id": 81
+  },
+  {
+    "id": 82,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Ireland/Dublin",
+    "TRAFFIC_INDEX_TELESCORE": 0.6824,
+    "city_id": 82
+  },
+  {
+    "id": 83,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7319,
+    "city_id": 83
+  },
+  {
+    "id": 84,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9051,
+    "city_id": 84
+  },
+  {
+    "id": 85,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Edmonton",
+    "TRAFFIC_INDEX_TELESCORE": 0.7035,
+    "city_id": 85
+  },
+  {
+    "id": 86,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9189,
+    "city_id": 86
+  },
+  {
+    "id": 87,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Eugene",
+    "TRAFFIC_INDEX_TELESCORE": 0.8685,
+    "city_id": 87
+  },
+  {
+    "id": 88,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8332,
+    "city_id": 88
+  },
+  {
+    "id": 89,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.4988,
+    "city_id": 89
+  },
+  {
+    "id": 90,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Fort_Collins",
+    "TRAFFIC_INDEX_TELESCORE": 0.803,
+    "city_id": 90
+  },
+  {
+    "id": 91,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Germany/Frankfurt_am_Main",
+    "TRAFFIC_INDEX_TELESCORE": 0.9561,
+    "city_id": 91
+  },
+  {
+    "id": 92,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Japan/Fukuoka-shi",
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 92
+  },
+  {
+    "id": 93,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8918,
+    "city_id": 93
+  },
+  {
+    "id": 94,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9059,
+    "city_id": 94
+  },
+  {
+    "id": 95,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9257,
+    "city_id": 95
+  },
+  {
+    "id": 96,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 96
+  },
+  {
+    "id": 97,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_Kingdom/Glasgow",
+    "TRAFFIC_INDEX_TELESCORE": 0.662,
+    "city_id": 97
+  },
+  {
+    "id": 98,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9748,
+    "city_id": 98
+  },
+  {
+    "id": 99,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9782,
+    "city_id": 99
+  },
+  {
+    "id": 100,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Mexico/Guadalajara",
+    "TRAFFIC_INDEX_TELESCORE": 0.4419,
+    "city_id": 100
+  },
+  {
+    "id": 101,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Guatemala/Guatemala_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.2095,
+    "city_id": 101
+  },
+  {
+    "id": 102,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7703,
+    "city_id": 102
+  },
+  {
+    "id": 103,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Germany/Hamburg",
+    "TRAFFIC_INDEX_TELESCORE": 0.8852,
+    "city_id": 103
+  },
+  {
+    "id": 104,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9216,
+    "city_id": 104
+  },
+  {
+    "id": 105,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Cuba/Havana",
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 105
+  },
+  {
+    "id": 106,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8136,
+    "city_id": 106
+  },
+  {
+    "id": 107,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Vietnam/Ho_Chi_Minh_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.7527,
+    "city_id": 107
+  },
+  {
+    "id": 108,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Hong_Kong/Hong_Kong",
+    "TRAFFIC_INDEX_TELESCORE": 0.7299,
+    "city_id": 108
+  },
+  {
+    "id": 109,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Honolulu",
+    "TRAFFIC_INDEX_TELESCORE": 0.4114,
+    "city_id": 109
+  },
+  {
+    "id": 110,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Houston",
+    "TRAFFIC_INDEX_TELESCORE": 0.3935,
+    "city_id": 110
+  },
+  {
+    "id": 111,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/India/Hyderabad",
+    "TRAFFIC_INDEX_TELESCORE": 0.4623,
+    "city_id": 111
+  },
+  {
+    "id": 112,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Indianapolis",
+    "TRAFFIC_INDEX_TELESCORE": 0.7099,
+    "city_id": 112
+  },
+  {
+    "id": 113,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9745,
+    "city_id": 113
+  },
+  {
+    "id": 114,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Turkey/İstanbul",
+    "TRAFFIC_INDEX_TELESCORE": 0.2067,
+    "city_id": 114
+  },
+  {
+    "id": 115,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Jacksonville",
+    "TRAFFIC_INDEX_TELESCORE": 0.5623,
+    "city_id": 115
+  },
+  {
+    "id": 116,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Indonesia/Jakarta",
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 116
+  },
+  {
+    "id": 117,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/South_Africa/Johannesburg",
+    "TRAFFIC_INDEX_TELESCORE": 0.3689,
+    "city_id": 117
+  },
+  {
+    "id": 118,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Kansas_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.789,
+    "city_id": 118
+  },
+  {
+    "id": 119,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 119
+  },
+  {
+    "id": 120,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Nepal/Kathmandu",
+    "TRAFFIC_INDEX_TELESCORE": 0.5064,
+    "city_id": 120
+  },
+  {
+    "id": 121,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Ukraine/Kiev",
+    "TRAFFIC_INDEX_TELESCORE": 0.6233,
+    "city_id": 121
+  },
+  {
+    "id": 122,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Jamaica/Kingston",
+    "TRAFFIC_INDEX_TELESCORE": 0.4207,
+    "city_id": 122
+  },
+  {
+    "id": 123,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Knoxville",
+    "TRAFFIC_INDEX_TELESCORE": 0.7772,
+    "city_id": 123
+  },
+  {
+    "id": 124,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Poland/Kraków",
+    "TRAFFIC_INDEX_TELESCORE": 0.8987,
+    "city_id": 124
+  },
+  {
+    "id": 125,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Malaysia/Kuala_Lumpur",
+    "TRAFFIC_INDEX_TELESCORE": 0.4807,
+    "city_id": 125
+  },
+  {
+    "id": 126,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Japan/Kyoto",
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 126
+  },
+  {
+    "id": 127,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Nigeria/Lagos",
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 127
+  },
+  {
+    "id": 128,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Bolivia/La_Paz",
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 128
+  },
+  {
+    "id": 129,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 129
+  },
+  {
+    "id": 130,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Las_Vegas",
+    "TRAFFIC_INDEX_TELESCORE": 0.6719,
+    "city_id": 130
+  },
+  {
+    "id": 131,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8242,
+    "city_id": 131
+  },
+  {
+    "id": 132,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.6543,
+    "city_id": 132
+  },
+  {
+    "id": 133,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8008,
+    "city_id": 133
+  },
+  {
+    "id": 134,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9175,
+    "city_id": 134
+  },
+  {
+    "id": 135,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Peru/Lima",
+    "TRAFFIC_INDEX_TELESCORE": 0.4374,
+    "city_id": 135
+  },
+  {
+    "id": 136,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7172,
+    "city_id": 136
+  },
+  {
+    "id": 137,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.3832,
+    "city_id": 137
+  },
+  {
+    "id": 138,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8489,
+    "city_id": 138
+  },
+  {
+    "id": 139,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_Kingdom/London",
+    "TRAFFIC_INDEX_TELESCORE": 0.5406,
+    "city_id": 139
+  },
+  {
+    "id": 140,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Los_Angeles",
+    "TRAFFIC_INDEX_TELESCORE": 0.257,
+    "city_id": 140
+  },
+  {
+    "id": 141,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Louisville",
+    "TRAFFIC_INDEX_TELESCORE": 0.7816,
+    "city_id": 141
+  },
+  {
+    "id": 142,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8286,
+    "city_id": 142
+  },
+  {
+    "id": 143,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Ukraine/L'viv",
+    "TRAFFIC_INDEX_TELESCORE": 0.6825,
+    "city_id": 143
+  },
+  {
+    "id": 144,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7198,
+    "city_id": 144
+  },
+  {
+    "id": 145,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Madison",
+    "TRAFFIC_INDEX_TELESCORE": 0.8688,
+    "city_id": 145
+  },
+  {
+    "id": 146,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Spain/Madrid",
+    "TRAFFIC_INDEX_TELESCORE": 0.6772,
+    "city_id": 146
+  },
+  {
+    "id": 147,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9136,
+    "city_id": 147
+  },
+  {
+    "id": 148,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.776,
+    "city_id": 148
+  },
+  {
+    "id": 149,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Nicaragua/Managua",
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 149
+  },
+  {
+    "id": 150,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5677,
+    "city_id": 150
+  },
+  {
+    "id": 151,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Philippines/Manila",
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 151
+  },
+  {
+    "id": 152,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/France/Marseille",
+    "TRAFFIC_INDEX_TELESCORE": 0.847,
+    "city_id": 152
+  },
+  {
+    "id": 153,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Colombia/Medellín",
+    "TRAFFIC_INDEX_TELESCORE": 0.6635,
+    "city_id": 153
+  },
+  {
+    "id": 154,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Australia/Melbourne",
+    "TRAFFIC_INDEX_TELESCORE": 0.5862,
+    "city_id": 154
+  },
+  {
+    "id": 155,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Memphis",
+    "TRAFFIC_INDEX_TELESCORE": 0.767,
+    "city_id": 155
+  },
+  {
+    "id": 156,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Mexico/Mexico_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.2397,
+    "city_id": 156
+  },
+  {
+    "id": 157,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Miami",
+    "TRAFFIC_INDEX_TELESCORE": 0.3853,
+    "city_id": 157
+  },
+  {
+    "id": 158,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Italy/Milano",
+    "TRAFFIC_INDEX_TELESCORE": 0.7254,
+    "city_id": 158
+  },
+  {
+    "id": 159,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Milwaukee",
+    "TRAFFIC_INDEX_TELESCORE": 0.7601,
+    "city_id": 159
+  },
+  {
+    "id": 160,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Minneapolis",
+    "TRAFFIC_INDEX_TELESCORE": 0.6747,
+    "city_id": 160
+  },
+  {
+    "id": 161,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Belarus/Minsk",
+    "TRAFFIC_INDEX_TELESCORE": 0.8208,
+    "city_id": 161
+  },
+  {
+    "id": 162,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Uruguay/Montevideo",
+    "TRAFFIC_INDEX_TELESCORE": 0.6206,
+    "city_id": 162
+  },
+  {
+    "id": 163,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Montréal",
+    "TRAFFIC_INDEX_TELESCORE": 0.6111,
+    "city_id": 163
+  },
+  {
+    "id": 164,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Russia/Moscow",
+    "TRAFFIC_INDEX_TELESCORE": 0.2857,
+    "city_id": 164
+  },
+  {
+    "id": 165,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/India/Mumbai",
+    "TRAFFIC_INDEX_TELESCORE": 0.1194,
+    "city_id": 165
+  },
+  {
+    "id": 166,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Germany/Munich",
+    "TRAFFIC_INDEX_TELESCORE": 0.8713,
+    "city_id": 166
+  },
+  {
+    "id": 167,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Kenya/Nairobi",
+    "TRAFFIC_INDEX_TELESCORE": 0.1685,
+    "city_id": 167
+  },
+  {
+    "id": 168,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9467,
+    "city_id": 168
+  },
+  {
+    "id": 169,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Italy/Napoli",
+    "TRAFFIC_INDEX_TELESCORE": 0.3182,
+    "city_id": 169
+  },
+  {
+    "id": 170,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Nashville",
+    "TRAFFIC_INDEX_TELESCORE": 0.578,
+    "city_id": 170
+  },
+  {
+    "id": 171,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/New_Orleans",
+    "TRAFFIC_INDEX_TELESCORE": 0.6208,
+    "city_id": 171
+  },
+  {
+    "id": 172,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/New_York_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.6052,
+    "city_id": 172
+  },
+  {
+    "id": 173,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.861,
+    "city_id": 173
+  },
+  {
+    "id": 174,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.891,
+    "city_id": 174
+  },
+  {
+    "id": 175,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Oklahoma_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.7998,
+    "city_id": 175
+  },
+  {
+    "id": 176,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Omaha",
+    "TRAFFIC_INDEX_TELESCORE": 0.8511,
+    "city_id": 176
+  },
+  {
+    "id": 177,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Orlando",
+    "TRAFFIC_INDEX_TELESCORE": 0.5495,
+    "city_id": 177
+  },
+  {
+    "id": 178,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.802,
+    "city_id": 178
+  },
+  {
+    "id": 179,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7498,
+    "city_id": 179
+  },
+  {
+    "id": 180,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Ottawa",
+    "TRAFFIC_INDEX_TELESCORE": 0.7387,
+    "city_id": 180
+  },
+  {
+    "id": 181,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9826,
+    "city_id": 181
+  },
+  {
+    "id": 182,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8741,
+    "city_id": 182
+  },
+  {
+    "id": 183,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8811,
+    "city_id": 183
+  },
+  {
+    "id": 184,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 184
+  },
+  {
+    "id": 185,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/France/Paris",
+    "TRAFFIC_INDEX_TELESCORE": 0.5922,
+    "city_id": 185
+  },
+  {
+    "id": 186,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Australia/Perth",
+    "TRAFFIC_INDEX_TELESCORE": 0.5609,
+    "city_id": 186
+  },
+  {
+    "id": 187,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Philadelphia",
+    "TRAFFIC_INDEX_TELESCORE": 0.3395,
+    "city_id": 187
+  },
+  {
+    "id": 188,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Cambodia/Phnom_Penh",
+    "TRAFFIC_INDEX_TELESCORE": 0.7594,
+    "city_id": 188
+  },
+  {
+    "id": 189,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Phoenix",
+    "TRAFFIC_INDEX_TELESCORE": 0.71,
+    "city_id": 189
+  },
+  {
+    "id": 190,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5499,
+    "city_id": 190
+  },
+  {
+    "id": 191,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Pittsburgh",
+    "TRAFFIC_INDEX_TELESCORE": 0.4841,
+    "city_id": 191
+  },
+  {
+    "id": 192,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7881,
+    "city_id": 192
+  },
+  {
+    "id": 193,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Portland",
+    "TRAFFIC_INDEX_TELESCORE": 0.7026,
+    "city_id": 193
+  },
+  {
+    "id": 194,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7881,
+    "city_id": 194
+  },
+  {
+    "id": 195,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Brazil/Porto_Alegre",
+    "TRAFFIC_INDEX_TELESCORE": 0.605,
+    "city_id": 195
+  },
+  {
+    "id": 196,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Czech_Republic/Prague",
+    "TRAFFIC_INDEX_TELESCORE": 0.8435,
+    "city_id": 196
+  },
+  {
+    "id": 197,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Providence",
+    "TRAFFIC_INDEX_TELESCORE": 0.9688,
+    "city_id": 197
+  },
+  {
+    "id": 198,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8046,
+    "city_id": 198
+  },
+  {
+    "id": 199,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Ecuador/Quito",
+    "TRAFFIC_INDEX_TELESCORE": 0.5138,
+    "city_id": 199
+  },
+  {
+    "id": 200,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Raleigh",
+    "TRAFFIC_INDEX_TELESCORE": 0.6769,
+    "city_id": 200
+  },
+  {
+    "id": 201,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8663,
+    "city_id": 201
+  },
+  {
+    "id": 202,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Richmond",
+    "TRAFFIC_INDEX_TELESCORE": 0.9158,
+    "city_id": 202
+  },
+  {
+    "id": 203,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Latvia/Riga",
+    "TRAFFIC_INDEX_TELESCORE": 0.741,
+    "city_id": 203
+  },
+  {
+    "id": 204,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Brazil/Rio_de_Janeiro",
+    "TRAFFIC_INDEX_TELESCORE": 0.2825,
+    "city_id": 204
+  },
+  {
+    "id": 205,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Saudi_Arabia/Riyadh",
+    "TRAFFIC_INDEX_TELESCORE": 0.6588,
+    "city_id": 205
+  },
+  {
+    "id": 206,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Rochester",
+    "TRAFFIC_INDEX_TELESCORE": 0.7631,
+    "city_id": 206
+  },
+  {
+    "id": 207,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Italy/Rome",
+    "TRAFFIC_INDEX_TELESCORE": 0.4173,
+    "city_id": 207
+  },
+  {
+    "id": 208,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Netherlands/Rotterdam",
+    "TRAFFIC_INDEX_TELESCORE": 0.8403,
+    "city_id": 208
+  },
+  {
+    "id": 209,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Russia/Saint_Petersburg",
+    "TRAFFIC_INDEX_TELESCORE": 0.4154,
+    "city_id": 209
+  },
+  {
+    "id": 210,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Salt_Lake_City",
+    "TRAFFIC_INDEX_TELESCORE": 0.6011,
+    "city_id": 210
+  },
+  {
+    "id": 211,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/San_Antonio",
+    "TRAFFIC_INDEX_TELESCORE": 0.7654,
+    "city_id": 211
+  },
+  {
+    "id": 212,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/San_Diego",
+    "TRAFFIC_INDEX_TELESCORE": 0.543,
+    "city_id": 212
+  },
+  {
+    "id": 213,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/San_Francisco",
+    "TRAFFIC_INDEX_TELESCORE": 0.4768,
+    "city_id": 213
+  },
+  {
+    "id": 214,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.1,
+    "city_id": 214
+  },
+  {
+    "id": 215,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.4568,
+    "city_id": 215
+  },
+  {
+    "id": 216,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5569,
+    "city_id": 216
+  },
+  {
+    "id": 217,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.502,
+    "city_id": 217
+  },
+  {
+    "id": 218,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Chile/Santiago",
+    "TRAFFIC_INDEX_TELESCORE": 0.6918,
+    "city_id": 218
+  },
+  {
+    "id": 219,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Dominican_Republic/Santo_Domingo",
+    "TRAFFIC_INDEX_TELESCORE": 0.5582,
+    "city_id": 219
+  },
+  {
+    "id": 220,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Brazil/São_Paulo",
+    "TRAFFIC_INDEX_TELESCORE": 0.3005,
+    "city_id": 220
+  },
+  {
+    "id": 221,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Bosnia_and_Herzegovina/Sarajevo",
+    "TRAFFIC_INDEX_TELESCORE": 0.8653,
+    "city_id": 221
+  },
+  {
+    "id": 222,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.984,
+    "city_id": 222
+  },
+  {
+    "id": 223,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Seattle",
+    "TRAFFIC_INDEX_TELESCORE": 0.4187,
+    "city_id": 223
+  },
+  {
+    "id": 224,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/South_Korea/Seoul",
+    "TRAFFIC_INDEX_TELESCORE": 0.6976,
+    "city_id": 224
+  },
+  {
+    "id": 225,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Spain/Sevilla",
+    "TRAFFIC_INDEX_TELESCORE": 0.8143,
+    "city_id": 225
+  },
+  {
+    "id": 226,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/China/Shanghai",
+    "TRAFFIC_INDEX_TELESCORE": 0.4746,
+    "city_id": 226
+  },
+  {
+    "id": 227,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Singapore/Singapore",
+    "TRAFFIC_INDEX_TELESCORE": 0.6135,
+    "city_id": 227
+  },
+  {
+    "id": 228,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8395,
+    "city_id": 228
+  },
+  {
+    "id": 229,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Bulgaria/Sofia",
+    "TRAFFIC_INDEX_TELESCORE": 0.8309,
+    "city_id": 229
+  },
+  {
+    "id": 230,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/St._Louis",
+    "TRAFFIC_INDEX_TELESCORE": 0.7641,
+    "city_id": 230
+  },
+  {
+    "id": 231,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Sweden/Stockholm",
+    "TRAFFIC_INDEX_TELESCORE": 0.7028,
+    "city_id": 231
+  },
+  {
+    "id": 232,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8723,
+    "city_id": 232
+  },
+  {
+    "id": 233,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Australia/Sydney",
+    "TRAFFIC_INDEX_TELESCORE": 0.5142,
+    "city_id": 233
+  },
+  {
+    "id": 234,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Taiwan/Taipei",
+    "TRAFFIC_INDEX_TELESCORE": 0.7924,
+    "city_id": 234
+  },
+  {
+    "id": 235,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.836,
+    "city_id": 235
+  },
+  {
+    "id": 236,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5603,
+    "city_id": 236
+  },
+  {
+    "id": 237,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9002,
+    "city_id": 237
+  },
+  {
+    "id": 238,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 238
+  },
+  {
+    "id": 239,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Uzbekistan/Tashkent",
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 239
+  },
+  {
+    "id": 240,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Georgia/Tbilisi",
+    "TRAFFIC_INDEX_TELESCORE": 0.7409,
+    "city_id": 240
+  },
+  {
+    "id": 241,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Iran/Tehrān",
+    "TRAFFIC_INDEX_TELESCORE": 0.1846,
+    "city_id": 241
+  },
+  {
+    "id": 242,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5607,
+    "city_id": 242
+  },
+  {
+    "id": 243,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.5732,
+    "city_id": 243
+  },
+  {
+    "id": 244,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9186,
+    "city_id": 244
+  },
+  {
+    "id": 245,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Japan/Tokyo",
+    "TRAFFIC_INDEX_TELESCORE": 0.7636,
+    "city_id": 245
+  },
+  {
+    "id": 246,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Toronto",
+    "TRAFFIC_INDEX_TELESCORE": 0.4948,
+    "city_id": 246
+  },
+  {
+    "id": 247,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8035,
+    "city_id": 247
+  },
+  {
+    "id": 248,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Tunisia/Tunis",
+    "TRAFFIC_INDEX_TELESCORE": 0.7668,
+    "city_id": 248
+  },
+  {
+    "id": 249,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Italy/Turin",
+    "TRAFFIC_INDEX_TELESCORE": 0.8606,
+    "city_id": 249
+  },
+  {
+    "id": 250,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 250
+  },
+  {
+    "id": 251,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 1,
+    "city_id": 251
+  },
+  {
+    "id": 252,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Netherlands/Utrecht",
+    "TRAFFIC_INDEX_TELESCORE": 0.8311,
+    "city_id": 252
+  },
+  {
+    "id": 253,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Spain/Valencia",
+    "TRAFFIC_INDEX_TELESCORE": 0.8504,
+    "city_id": 253
+  },
+  {
+    "id": 254,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": null,
+    "city_id": 254
+  },
+  {
+    "id": 255,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Vancouver",
+    "TRAFFIC_INDEX_TELESCORE": 0.5748,
+    "city_id": 255
+  },
+  {
+    "id": 256,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.7651,
+    "city_id": 256
+  },
+  {
+    "id": 257,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Austria/Vienna",
+    "TRAFFIC_INDEX_TELESCORE": 0.9985,
+    "city_id": 257
+  },
+  {
+    "id": 258,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8871,
+    "city_id": 258
+  },
+  {
+    "id": 259,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Poland/Warsaw",
+    "TRAFFIC_INDEX_TELESCORE": 0.7223,
+    "city_id": 259
+  },
+  {
+    "id": 260,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/United_States/Washington,_D.C.",
+    "TRAFFIC_INDEX_TELESCORE": 0.4519,
+    "city_id": 260
+  },
+  {
+    "id": 261,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.9219,
+    "city_id": 261
+  },
+  {
+    "id": 262,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Canada/Winnipeg",
+    "TRAFFIC_INDEX_TELESCORE": 0.7144,
+    "city_id": 262
+  },
+  {
+    "id": 263,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Poland/Wrocław",
+    "TRAFFIC_INDEX_TELESCORE": 0.8083,
+    "city_id": 263
+  },
+  {
+    "id": 264,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Armenia/Yerevan",
+    "TRAFFIC_INDEX_TELESCORE": 0.8734,
+    "city_id": 264
+  },
+  {
+    "id": 265,
+    "HUMAN_CITIES_PAGE_URLS": "http://cities.human.co/details/Croatia/Zagreb",
+    "TRAFFIC_INDEX_TELESCORE": 0.7443,
+    "city_id": 265
+  },
+  {
+    "id": 266,
+    "HUMAN_CITIES_PAGE_URLS": null,
+    "TRAFFIC_INDEX_TELESCORE": 0.8759,
+    "city_id": 266
+  }
+]

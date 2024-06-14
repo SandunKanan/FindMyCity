@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "category": "Housing"
+  },
+  {
+    "id": 2,
+    "category": "Cost of Living"
+  },
+  {
+    "id": 3,
+    "category": "Startups"
+  },
+  {
+    "id": 4,
+    "category": "Venture Capital"
+  },
+  {
+    "id": 5,
+    "category": "Travel Connectivity"
+  },
+  {
+    "id": 6,
+    "category": "Commute"
+  },
+  {
+    "id": 7,
+    "category": "Business Freedom"
+  },
+  {
+    "id": 8,
+    "category": "Safety"
+  },
+  {
+    "id": 9,
+    "category": "Healthcare"
+  },
+  {
+    "id": 10,
+    "category": "Education"
+  },
+  {
+    "id": 11,
+    "category": "Environmental Quality"
+  },
+  {
+    "id": 12,
+    "category": "Economy"
+  },
+  {
+    "id": 13,
+    "category": "Taxation"
+  },
+  {
+    "id": 14,
+    "category": "Internet Access"
+  },
+  {
+    "id": 15,
+    "category": "Leisure & Culture"
+  },
+  {
+    "id": 16,
+    "category": "Tolerance"
+  },
+  {
+    "id": 17,
+    "category": "Outdoors"
+  }
+]

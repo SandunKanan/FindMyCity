@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 1,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/aarhus-67c2f42848.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/aarhus_web-1462c370b8.jpg",
+    "city_id": 1
+  },
+  {
+    "id": 2,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/adelaide-3b1b936db3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/adelaide_web-e462ed5b74.jpg",
+    "city_id": 2
+  },
+  {
+    "id": 3,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/albuquerque-f730c0301f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/albuquerque_web-3079b54e59.jpg",
+    "city_id": 3
+  },
+  {
+    "id": 4,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/almaty-e6f7b165d0.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/almaty_web-acac42d539.jpg",
+    "city_id": 4
+  },
+  {
+    "id": 5,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/amsterdam-731a0d165a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/amsterdam_web-1cd4b2bf75.jpg",
+    "city_id": 5
+  },
+  {
+    "id": 6,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/anchorage-a75ea8617c.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/anchorage_web-f4b864de05.jpg",
+    "city_id": 6
+  },
+  {
+    "id": 7,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/andorra-b139acf7b1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/andorra_web-be85670237.jpg",
+    "city_id": 7
+  },
+  {
+    "id": 8,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ankara-af854e11da.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ankara_web-5c79a0f22a.jpg",
+    "city_id": 8
+  },
+  {
+    "id": 9,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/asheville-d2a4aaacae.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/asheville_web-9ee1a50c7c.jpg",
+    "city_id": 9
+  },
+  {
+    "id": 10,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/asuncion-6f34e2d44d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/asuncion_web-ccff2634a4.jpg",
+    "city_id": 10
+  },
+  {
+    "id": 11,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/athens-325ec1b595.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/athens_web-d8e89c8496.jpg",
+    "city_id": 11
+  },
+  {
+    "id": 12,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/atlanta-9e33744cb4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/atlanta_web-01e0d78232.jpg",
+    "city_id": 12
+  },
+  {
+    "id": 13,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/auckland-d60b1ab66b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/auckland_web-a178a0f647.jpg",
+    "city_id": 13
+  },
+  {
+    "id": 14,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/austin-f42354c37f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/austin_web-e93a5e75a0.jpg",
+    "city_id": 14
+  },
+  {
+    "id": 15,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/baku-0aa6019508.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/baku_web-71bcbddb43.jpg",
+    "city_id": 15
+  },
+  {
+    "id": 16,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bali-934e688d1a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bali_web-8c42fbe979.jpg",
+    "city_id": 16
+  },
+  {
+    "id": 17,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/baltimore-14c1f65307.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/baltimore_web-251806a8b8.jpg",
+    "city_id": 17
+  },
+  {
+    "id": 18,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bangkok-abfa69e431.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bangkok_web-24b795d6ac.jpg",
+    "city_id": 18
+  },
+  {
+    "id": 19,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/barcelona-aacdf7ba91.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/barcelona_web-8ce54f1421.jpg",
+    "city_id": 19
+  },
+  {
+    "id": 20,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/beijing-536dacdadf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/beijing_web-a6aa65e646.jpg",
+    "city_id": 20
+  },
+  {
+    "id": 21,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/beirut-ef6936d067.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/beirut_web-7c42a04b9a.jpg",
+    "city_id": 21
+  },
+  {
+    "id": 22,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belfast-ec5ae8b81e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belfast_web-bd24559e6e.jpg",
+    "city_id": 22
+  },
+  {
+    "id": 23,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belgrade-0f5df4fa7a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belgrade_web-212bcfc828.jpg",
+    "city_id": 23
+  },
+  {
+    "id": 24,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belize-city-9d18240778.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/belize-city_web-374466b5bd.jpg",
+    "city_id": 24
+  },
+  {
+    "id": 25,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bengaluru-95c4126d8f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bengaluru_web-bf52a4c14f.jpg",
+    "city_id": 25
+  },
+  {
+    "id": 26,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bergen-77dcd0440d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bergen_web-08dc70c9a1.jpg",
+    "city_id": 26
+  },
+  {
+    "id": 27,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/berlin-c96f97c4ba.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/berlin_web-42996a2587.jpg",
+    "city_id": 27
+  },
+  {
+    "id": 28,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bern-68ce01df41.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bern_web-d74cd85f5c.jpg",
+    "city_id": 28
+  },
+  {
+    "id": 29,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bilbao-3e47e9a98e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bilbao_web-2a6089e655.jpg",
+    "city_id": 29
+  },
+  {
+    "id": 30,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/birmingham-f603089e10.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/birmingham_web-76fdd27a1c.jpg",
+    "city_id": 30
+  },
+  {
+    "id": 31,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/birmingham-al-519d15019a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/birmingham-al_web-8faa3202a7.jpg",
+    "city_id": 31
+  },
+  {
+    "id": 32,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bogota-8dc7193397.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bogota_web-7fc246764f.jpg",
+    "city_id": 32
+  },
+  {
+    "id": 33,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boise-d105b2e947.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boise_web-ab609d8f2f.jpg",
+    "city_id": 33
+  },
+  {
+    "id": 34,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bologna-778667e51d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bologna_web-9fcbf7d109.jpg",
+    "city_id": 34
+  },
+  {
+    "id": 35,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bordeaux-02c83f38b1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bordeaux_web-0bc8d1e9fd.jpg",
+    "city_id": 35
+  },
+  {
+    "id": 36,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boston-7399414b98.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boston_web-550bb970ba.jpg",
+    "city_id": 36
+  },
+  {
+    "id": 37,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boulder-75be72cfaf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/boulder_web-3765374a2b.jpg",
+    "city_id": 37
+  },
+  {
+    "id": 38,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bozeman-be510b35ee.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bozeman_web-d4ed92c20b.jpg",
+    "city_id": 38
+  },
+  {
+    "id": 39,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bratislava-25c0ce72a3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bratislava_web-0a3c9d6cee.jpg",
+    "city_id": 39
+  },
+  {
+    "id": 40,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brighton-1b7e2d30d8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brighton_web-77835c9a55.jpg",
+    "city_id": 40
+  },
+  {
+    "id": 41,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brisbane-194b3e5b49.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brisbane_web-9770dd4972.jpg",
+    "city_id": 41
+  },
+  {
+    "id": 42,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bristol-6f35ac7985.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bristol_web-cd250da968.jpg",
+    "city_id": 42
+  },
+  {
+    "id": 43,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brno-6e7bb6ef6b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brno_web-8fde468fac.jpg",
+    "city_id": 43
+  },
+  {
+    "id": 44,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brussels-0d5db943f4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/brussels_web-638082b79b.jpg",
+    "city_id": 44
+  },
+  {
+    "id": 45,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bucharest-0baa0f5eaa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/bucharest_web-b82e0bb355.jpg",
+    "city_id": 45
+  },
+  {
+    "id": 46,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/budapest-e325bd2bb4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/budapest_web-9de9bc410f.jpg",
+    "city_id": 46
+  },
+  {
+    "id": 47,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/buenos-aires-bb7fb05d6b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/buenos-aires_web-17f0020100.jpg",
+    "city_id": 47
+  },
+  {
+    "id": 48,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/buffalo-9f2a7e56fa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/buffalo_web-fa914f05b9.jpg",
+    "city_id": 48
+  },
+  {
+    "id": 49,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cairo-ba88a8816b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cairo_web-52946f68c1.jpg",
+    "city_id": 49
+  },
+  {
+    "id": 50,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/calgary-e0d8e7b67f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/calgary_web-731a90b807.jpg",
+    "city_id": 50
+  },
+  {
+    "id": 51,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cambridge-959b693a44.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cambridge_web-18308c1a16.jpg",
+    "city_id": 51
+  },
+  {
+    "id": 52,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cape-town-fa015ec35b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cape-town_web-fb6e942b16.jpg",
+    "city_id": 52
+  },
+  {
+    "id": 53,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/caracas-ebd8917fa6.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/caracas_web-7b3ec40c94.jpg",
+    "city_id": 53
+  },
+  {
+    "id": 54,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cardiff-95ed1d4ce4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cardiff_web-674ad9c9ef.jpg",
+    "city_id": 54
+  },
+  {
+    "id": 55,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/casablanca-06c7107aa5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/casablanca_web-52e4b34233.jpg",
+    "city_id": 55
+  },
+  {
+    "id": 56,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/charleston-595fdee96e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/charleston_web-d8fe7f2811.jpg",
+    "city_id": 56
+  },
+  {
+    "id": 57,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/charlotte-acc065366a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/charlotte_web-062d6f0cd8.jpg",
+    "city_id": 57
+  },
+  {
+    "id": 58,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chattanooga-faefd3d09a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chattanooga_web-9dd6779191.jpg",
+    "city_id": 58
+  },
+  {
+    "id": 59,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chennai-ed456334e5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chennai_web-cfd75649a5.jpg",
+    "city_id": 59
+  },
+  {
+    "id": 60,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chiang-mai-744406e9e0.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chiang-mai_web-5403ba3666.jpg",
+    "city_id": 60
+  },
+  {
+    "id": 61,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chicago-1e610b84c3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chicago_web-b20b0b8249.jpg",
+    "city_id": 61
+  },
+  {
+    "id": 62,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chisinau-80ba5b8c71.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/chisinau_web-21a9e52e2e.jpg",
+    "city_id": 62
+  },
+  {
+    "id": 63,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/christchurch-0cf7c854fe.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/christchurch_web-23e4656c2c.jpg",
+    "city_id": 63
+  },
+  {
+    "id": 64,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cincinnati-c45eaa103c.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cincinnati_web-5c8d680d6b.jpg",
+    "city_id": 64
+  },
+  {
+    "id": 65,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cleveland-293d4e8c4c.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cleveland_web-171efbfa3a.jpg",
+    "city_id": 65
+  },
+  {
+    "id": 66,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cluj-napoca-80c173dd65.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cluj-napoca_web-5ceb03ea4b.jpg",
+    "city_id": 66
+  },
+  {
+    "id": 67,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cologne-c9ec74dec3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cologne_web-9176bda62d.jpg",
+    "city_id": 67
+  },
+  {
+    "id": 68,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/colorado-springs-ccf32e73d2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/colorado-springs_web-a8228d2190.jpg",
+    "city_id": 68
+  },
+  {
+    "id": 69,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/columbus-f65f5476cf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/columbus_web-748d46d705.jpg",
+    "city_id": 69
+  },
+  {
+    "id": 70,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/copenhagen-db746852d1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/copenhagen_web-0f21a09556.jpg",
+    "city_id": 70
+  },
+  {
+    "id": 71,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cork-a74562472f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/cork_web-1a9e606c19.jpg",
+    "city_id": 71
+  },
+  {
+    "id": 72,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/curitiba-81eae696f4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/curitiba_web-174df4bc8d.jpg",
+    "city_id": 72
+  },
+  {
+    "id": 73,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dallas-a55f677457.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dallas_web-1b0ab83512.jpg",
+    "city_id": 73
+  },
+  {
+    "id": 74,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dar-es-salaam-0106cbeeb1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dar-es-salaam_web-35099c7334.jpg",
+    "city_id": 74
+  },
+  {
+    "id": 75,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/delhi-c0a7e4cf62.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/delhi_web-a44b25acb2.jpg",
+    "city_id": 75
+  },
+  {
+    "id": 76,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/denver-655725fd8b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/denver_web-9726d88300.jpg",
+    "city_id": 76
+  },
+  {
+    "id": 77,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/des-moines-21042501eb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/des-moines_web-3ea5b6d3c3.jpg",
+    "city_id": 77
+  },
+  {
+    "id": 78,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/detroit-e0a9dfeff2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/detroit_web-fa9062b00a.jpg",
+    "city_id": 78
+  },
+  {
+    "id": 79,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/doha-a7431481f9.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/doha_web-608bb1baef.jpg",
+    "city_id": 79
+  },
+  {
+    "id": 80,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dresden-34b4a78bf4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dresden_web-17c407d521.jpg",
+    "city_id": 80
+  },
+  {
+    "id": 81,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dubai-89581487e2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dubai_web-e211678fd9.jpg",
+    "city_id": 81
+  },
+  {
+    "id": 82,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dublin-acf68f9012.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dublin_web-6815db729f.jpg",
+    "city_id": 82
+  },
+  {
+    "id": 83,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dusseldorf-4dad01e18e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/dusseldorf_web-6df143652a.jpg",
+    "city_id": 83
+  },
+  {
+    "id": 84,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/edinburgh-ad0653a76d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/edinburgh_web-18ebc57174.jpg",
+    "city_id": 84
+  },
+  {
+    "id": 85,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/edmonton-405d742d77.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/edmonton_web-9ee9e16446.jpg",
+    "city_id": 85
+  },
+  {
+    "id": 86,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/eindhoven-f40936546b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/eindhoven_web-b4482e3780.jpg",
+    "city_id": 86
+  },
+  {
+    "id": 87,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/eugene-c98f529290.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/eugene_web-40a357f0c4.jpg",
+    "city_id": 87
+  },
+  {
+    "id": 88,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/florence-ddf9003aa1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/florence_web-9bdb5ab7cf.jpg",
+    "city_id": 88
+  },
+  {
+    "id": 89,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/florianopolis-d07f8216bf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/florianopolis_web-fa46d494f0.jpg",
+    "city_id": 89
+  },
+  {
+    "id": 90,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/fort-collins-23ecdede12.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/fort-collins_web-4f6961e6e4.jpg",
+    "city_id": 90
+  },
+  {
+    "id": 91,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/frankfurt-c7c5f50305.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/frankfurt_web-b3ce5e2270.jpg",
+    "city_id": 91
+  },
+  {
+    "id": 92,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/fukuoka-719ae64d54.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/fukuoka_web-f7e0ca9bd0.jpg",
+    "city_id": 92
+  },
+  {
+    "id": 93,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gaillimh-312de1b5ab.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gaillimh_web-059ef82df4.jpg",
+    "city_id": 93
+  },
+  {
+    "id": 94,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gdansk-1597ef2a0f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gdansk_web-f5f48564f4.jpg",
+    "city_id": 94
+  },
+  {
+    "id": 95,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/geneva-ef3b5749a3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/geneva_web-17df94c117.jpg",
+    "city_id": 95
+  },
+  {
+    "id": 96,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gibraltar-e563d90acf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gibraltar_web-98477ce33a.jpg",
+    "city_id": 96
+  },
+  {
+    "id": 97,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/glasgow-e4bcca691b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/glasgow_web-487c0a6b66.jpg",
+    "city_id": 97
+  },
+  {
+    "id": 98,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gothenburg-83b57a5feb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/gothenburg_web-85d49ea381.jpg",
+    "city_id": 98
+  },
+  {
+    "id": 99,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/grenoble-a3c92744cb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/grenoble_web-14ae75217c.jpg",
+    "city_id": 99
+  },
+  {
+    "id": 100,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/guadalajara-b7eb63f649.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/guadalajara_web-62348f0923.jpg",
+    "city_id": 100
+  },
+  {
+    "id": 101,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/guatemala-city-69c91dfc00.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/guatemala-city_web-047225c087.jpg",
+    "city_id": 101
+  },
+  {
+    "id": 102,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/halifax-27e17f2ce8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/halifax_web-92b02d4873.jpg",
+    "city_id": 102
+  },
+  {
+    "id": 103,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hamburg-6ef9530ff8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hamburg_web-bd28aab609.jpg",
+    "city_id": 103
+  },
+  {
+    "id": 104,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hannover-5ea8044ce4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hannover_web-b3046d05cf.jpg",
+    "city_id": 104
+  },
+  {
+    "id": 105,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/havana-809012259a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/havana_web-c3f326f3f7.jpg",
+    "city_id": 105
+  },
+  {
+    "id": 106,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/helsinki-1202ff2170.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/helsinki_web-eaaa1a4064.jpg",
+    "city_id": 106
+  },
+  {
+    "id": 107,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ho-chi-minh-city-e615342546.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ho-chi-minh-city_web-307eb3d218.jpg",
+    "city_id": 107
+  },
+  {
+    "id": 108,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hong-kong-09cb9b74b0.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hong-kong_web-64b58d8c1b.jpg",
+    "city_id": 108
+  },
+  {
+    "id": 109,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/honolulu-624c07453d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/honolulu_web-1b1279edc3.jpg",
+    "city_id": 109
+  },
+  {
+    "id": 110,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/houston-0e46f4fbb7.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/houston_web-7a1ff7109f.jpg",
+    "city_id": 110
+  },
+  {
+    "id": 111,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hyderabad-c7f647937d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/hyderabad_web-6c1177e0db.jpg",
+    "city_id": 111
+  },
+  {
+    "id": 112,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/indianapolis-0f293b1150.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/indianapolis_web-de0ee7a5bd.jpg",
+    "city_id": 112
+  },
+  {
+    "id": 113,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/innsbruck-fb4a25ee07.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/innsbruck_web-ff4f5bb5b7.jpg",
+    "city_id": 113
+  },
+  {
+    "id": 114,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/istanbul-bbe6bcce3f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/istanbul_web-3fe0dbfd69.jpg",
+    "city_id": 114
+  },
+  {
+    "id": 115,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/jacksonville-62a5b94ba8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/jacksonville_web-cc69395f3f.jpg",
+    "city_id": 115
+  },
+  {
+    "id": 116,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/jakarta-7a73f56e41.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/jakarta_web-69216c8025.jpg",
+    "city_id": 116
+  },
+  {
+    "id": 117,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/johannesburg-6f2d7ccc07.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/johannesburg_web-6d56b16404.jpg",
+    "city_id": 117
+  },
+  {
+    "id": 118,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kansas-city-1e8f1c1456.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kansas-city_web-d977356d14.jpg",
+    "city_id": 118
+  },
+  {
+    "id": 119,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/karlsruhe-9b87b495f5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/karlsruhe_web-af446b3913.jpg",
+    "city_id": 119
+  },
+  {
+    "id": 120,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kathmandu-e60a22e131.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kathmandu_web-792cf16781.jpg",
+    "city_id": 120
+  },
+  {
+    "id": 121,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kiev-e7a4b194e1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kiev_web-86086ae216.jpg",
+    "city_id": 121
+  },
+  {
+    "id": 122,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kingston-cb632a919d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kingston_web-ac760c1fca.jpg",
+    "city_id": 122
+  },
+  {
+    "id": 123,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/knoxville-8e071a1579.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/knoxville_web-ee19eb4974.jpg",
+    "city_id": 123
+  },
+  {
+    "id": 124,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/krakow-c22885ae40.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/krakow_web-618bd7788b.jpg",
+    "city_id": 124
+  },
+  {
+    "id": 125,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kuala-lumpur-1663138882.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kuala-lumpur_web-d9a669d5d4.jpg",
+    "city_id": 125
+  },
+  {
+    "id": 126,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kyoto-bc8c37d2f9.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/kyoto_web-aa4cdb11e7.jpg",
+    "city_id": 126
+  },
+  {
+    "id": 127,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lagos-f42cff422e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lagos_web-7f21edd9c4.jpg",
+    "city_id": 127
+  },
+  {
+    "id": 128,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/la-paz-b6e7626788.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/la-paz_web-681a5137af.jpg",
+    "city_id": 128
+  },
+  {
+    "id": 129,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/las-palmas-de-gran-canaria-e74ff76acd.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/las-palmas-de-gran-canaria_web-fe5efe4810.jpg",
+    "city_id": 129
+  },
+  {
+    "id": 130,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/las-vegas-6acb21a1fe.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/las-vegas_web-7dc177ab7c.jpg",
+    "city_id": 130
+  },
+  {
+    "id": 131,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lausanne-b4aeaa635f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lausanne_web-d3df8656ec.jpg",
+    "city_id": 131
+  },
+  {
+    "id": 132,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/leeds-6913c9d8ac.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/leeds_web-614dd7bd0c.jpg",
+    "city_id": 132
+  },
+  {
+    "id": 133,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/leipzig-2ead903e61.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/leipzig_web-a64d74e819.jpg",
+    "city_id": 133
+  },
+  {
+    "id": 134,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lille-221e93ffda.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lille_web-556e404f8c.jpg",
+    "city_id": 134
+  },
+  {
+    "id": 135,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lima-0c69e4ed56.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lima_web-d5641b4390.jpg",
+    "city_id": 135
+  },
+  {
+    "id": 136,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lisbon-2b8bf1786b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lisbon_web-294c05442f.jpg",
+    "city_id": 136
+  },
+  {
+    "id": 137,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/liverpool-564727cbf9.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/liverpool_web-3038c1bea1.jpg",
+    "city_id": 137
+  },
+  {
+    "id": 138,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ljubljana-19d815be2e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ljubljana_web-adc151f388.jpg",
+    "city_id": 138
+  },
+  {
+    "id": 139,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/london-12fdfd9fcf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/london_web-e8502ca139.jpg",
+    "city_id": 139
+  },
+  {
+    "id": 140,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/los-angeles-f5b60deb04.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/los-angeles_web-2eedb2a83e.jpg",
+    "city_id": 140
+  },
+  {
+    "id": 141,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/louisville-d5997729f5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/louisville_web-af543d6a99.jpg",
+    "city_id": 141
+  },
+  {
+    "id": 142,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/luxembourg-1fea6523dc.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/luxembourg_web-c82ccc399b.jpg",
+    "city_id": 142
+  },
+  {
+    "id": 143,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lviv-9cc63e64e2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lviv_web-3e20fcd298.jpg",
+    "city_id": 143
+  },
+  {
+    "id": 144,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lyon-b5d38c06cf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/lyon_web-32d6865b19.jpg",
+    "city_id": 144
+  },
+  {
+    "id": 145,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/madison-3d09b9f142.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/madison_web-c8769a2784.jpg",
+    "city_id": 145
+  },
+  {
+    "id": 146,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/madrid-ee355b90b3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/madrid_web-baf72ff2d6.jpg",
+    "city_id": 146
+  },
+  {
+    "id": 147,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/malaga-162a2bb8fd.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/malaga_web-58cf77c170.jpg",
+    "city_id": 147
+  },
+  {
+    "id": 148,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/malmo-cbc10d0dc3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/malmo_web-fc1793c12c.jpg",
+    "city_id": 148
+  },
+  {
+    "id": 149,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/managua-f2637ab6ef.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/managua_web-d7bc30e574.jpg",
+    "city_id": 149
+  },
+  {
+    "id": 150,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/manchester-f873de8594.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/manchester_web-cea1b0c243.jpg",
+    "city_id": 150
+  },
+  {
+    "id": 151,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/manila-5150275531.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/manila_web-d60a05cd04.jpg",
+    "city_id": 151
+  },
+  {
+    "id": 152,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/marseille-65ca8f5da8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/marseille_web-8490928ef4.jpg",
+    "city_id": 152
+  },
+  {
+    "id": 153,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/medellin-8559818a33.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/medellin_web-d40fa1b2b9.jpg",
+    "city_id": 153
+  },
+  {
+    "id": 154,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/melbourne-17ca593856.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/melbourne_web-c18afdd50c.jpg",
+    "city_id": 154
+  },
+  {
+    "id": 155,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/memphis-6135da61bc.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/memphis_web-6015ce820e.jpg",
+    "city_id": 155
+  },
+  {
+    "id": 156,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/mexico-city-248909c78a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/mexico-city_web-a0553ddbe0.jpg",
+    "city_id": 156
+  },
+  {
+    "id": 157,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/miami-730928937f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/miami_web-9307474a5e.jpg",
+    "city_id": 157
+  },
+  {
+    "id": 158,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/milan-536b0cd6d3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/milan_web-b92932c77a.jpg",
+    "city_id": 158
+  },
+  {
+    "id": 159,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/milwaukee-aa45ba9b6b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/milwaukee_web-59a01d05ad.jpg",
+    "city_id": 159
+  },
+  {
+    "id": 160,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/minneapolis-saint-paul-0167dd447d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/minneapolis-saint-paul_web-16dbfd4210.jpg",
+    "city_id": 160
+  },
+  {
+    "id": 161,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/minsk-d5bfd8baf5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/minsk_web-52223909af.jpg",
+    "city_id": 161
+  },
+  {
+    "id": 162,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/montevideo-0a62686b66.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/montevideo_web-24b23f6ce1.jpg",
+    "city_id": 162
+  },
+  {
+    "id": 163,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/montreal-3499a883aa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/montreal_web-4f942eeee8.jpg",
+    "city_id": 163
+  },
+  {
+    "id": 164,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/moscow-99ccf7ba84.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/moscow_web-3b49a7d2d1.jpg",
+    "city_id": 164
+  },
+  {
+    "id": 165,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/mumbai-03cddd9bd2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/mumbai_web-21682401ea.jpg",
+    "city_id": 165
+  },
+  {
+    "id": 166,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/munich-b190ea0a11.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/munich_web-2b4628b75d.jpg",
+    "city_id": 166
+  },
+  {
+    "id": 167,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nairobi-8e8453c4de.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nairobi_web-1d43d8c0ec.jpg",
+    "city_id": 167
+  },
+  {
+    "id": 168,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nantes-593fbe5c58.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nantes_web-ed6d93e5fb.jpg",
+    "city_id": 168
+  },
+  {
+    "id": 169,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/naples-ddc3b31e44.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/naples_web-64f4f4ab42.jpg",
+    "city_id": 169
+  },
+  {
+    "id": 170,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nashville-79d8242c30.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nashville_web-928afede11.jpg",
+    "city_id": 170
+  },
+  {
+    "id": 171,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/new-orleans-1d86b69be5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/new-orleans_web-7a3fec60d7.jpg",
+    "city_id": 171
+  },
+  {
+    "id": 172,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/new-york-9cb6cc2ae5.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/new-york_web-99d9bb0809.jpg",
+    "city_id": 172
+  },
+  {
+    "id": 173,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nice-b3ec9f6de2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nice_web-ccca0a78c0.jpg",
+    "city_id": 173
+  },
+  {
+    "id": 174,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nicosia-c5c75a628f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/nicosia_web-221f3941f7.jpg",
+    "city_id": 174
+  },
+  {
+    "id": 175,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oklahoma-city-429f6bf45d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oklahoma-city_web-2d2437c3f2.jpg",
+    "city_id": 175
+  },
+  {
+    "id": 176,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/omaha-65cfdabcd3.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/omaha_web-43f20ccdd7.jpg",
+    "city_id": 176
+  },
+  {
+    "id": 177,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/orlando-9dfb4090da.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/orlando_web-77cf0adb77.jpg",
+    "city_id": 177
+  },
+  {
+    "id": 178,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/osaka-acd34c98bd.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/osaka_web-eac2ef7c0e.jpg",
+    "city_id": 178
+  },
+  {
+    "id": 179,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oslo-85b1f2e525.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oslo_web-dc398e708e.jpg",
+    "city_id": 179
+  },
+  {
+    "id": 180,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ottawa-b78a66e47b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/ottawa_web-ad27c8487d.jpg",
+    "city_id": 180
+  },
+  {
+    "id": 181,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oulu-c043235399.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oulu_web-ffdd3f6861.jpg",
+    "city_id": 181
+  },
+  {
+    "id": 182,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oxford-3025c52c07.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/oxford_web-c28bba265a.jpg",
+    "city_id": 182
+  },
+  {
+    "id": 183,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/palo-alto-c7dc854872.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/palo-alto_web-c5d0b34c18.jpg",
+    "city_id": 183
+  },
+  {
+    "id": 184,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/panama-115e3623c6.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/panama_web-58f27bf2e2.jpg",
+    "city_id": 184
+  },
+  {
+    "id": 185,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/paris-0ae0bb626e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/paris_web-0a3c7314a5.jpg",
+    "city_id": 185
+  },
+  {
+    "id": 186,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/perth-1e220f50f9.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/perth_web-99a082a61e.jpg",
+    "city_id": 186
+  },
+  {
+    "id": 187,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/philadelphia-41bf6ab8ef.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/philadelphia_web-ebd7cad1dc.jpg",
+    "city_id": 187
+  },
+  {
+    "id": 188,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phnom-penh-6f19962eaf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phnom-penh_web-1b2c0f98cc.jpg",
+    "city_id": 188
+  },
+  {
+    "id": 189,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phoenix-9fedc88f57.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phoenix_web-92224752db.jpg",
+    "city_id": 189
+  },
+  {
+    "id": 190,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phuket-5b86d83465.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/phuket_web-e7beb53e6b.jpg",
+    "city_id": 190
+  },
+  {
+    "id": 191,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/pittsburgh-345a34e2d1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/pittsburgh_web-7ae8545b12.jpg",
+    "city_id": 191
+  },
+  {
+    "id": 192,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/portland-me-441411d1ea.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/portland-me_web-e7c7cdeeee.jpg",
+    "city_id": 192
+  },
+  {
+    "id": 193,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/portland-or-90f71ea149.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/portland-or_web-55a07378b0.jpg",
+    "city_id": 193
+  },
+  {
+    "id": 194,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/porto-9bc6639329.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/porto_web-46ed9159e9.jpg",
+    "city_id": 194
+  },
+  {
+    "id": 195,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/porto-alegre-1a625034e0.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/porto-alegre_web-b066e1ebdf.jpg",
+    "city_id": 195
+  },
+  {
+    "id": 196,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/prague-1857bf62f8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/prague_web-c800dc9a25.jpg",
+    "city_id": 196
+  },
+  {
+    "id": 197,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/providence-790d7e19eb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/providence_web-0fd0aa674f.jpg",
+    "city_id": 197
+  },
+  {
+    "id": 198,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/quebec-b460753757.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/quebec_web-21a4ca0a12.jpg",
+    "city_id": 198
+  },
+  {
+    "id": 199,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/quito-6913384127.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/quito_web-1b3a380ae3.jpg",
+    "city_id": 199
+  },
+  {
+    "id": 200,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/raleigh-e74249142f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/raleigh_web-2909c09abe.jpg",
+    "city_id": 200
+  },
+  {
+    "id": 201,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/reykjavik-88db0aa26d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/reykjavik_web-042068d0d4.jpg",
+    "city_id": 201
+  },
+  {
+    "id": 202,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/richmond-e06cc3dd7a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/richmond_web-3895e986fd.jpg",
+    "city_id": 202
+  },
+  {
+    "id": 203,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/riga-9f3e30aa43.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/riga_web-807b1f301a.jpg",
+    "city_id": 203
+  },
+  {
+    "id": 204,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rio-de-janeiro-448ecb9d55.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rio-de-janeiro_web-600ed3659c.jpg",
+    "city_id": 204
+  },
+  {
+    "id": 205,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/riyadh-41db8948a7.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/riyadh_web-2d119597b7.jpg",
+    "city_id": 205
+  },
+  {
+    "id": 206,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rochester-2ec3648b5b.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rochester_web-d2be9d4ad1.jpg",
+    "city_id": 206
+  },
+  {
+    "id": 207,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rome-d6d22de42a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rome_web-30e1610428.jpg",
+    "city_id": 207
+  },
+  {
+    "id": 208,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rotterdam-b868125e33.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/rotterdam_web-7c9e610e58.jpg",
+    "city_id": 208
+  },
+  {
+    "id": 209,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/saint-petersburg-a33d8a3855.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/saint-petersburg_web-21e57b67e5.jpg",
+    "city_id": 209
+  },
+  {
+    "id": 210,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/salt-lake-city-5cee380c68.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/salt-lake-city_web-d763c20ea8.jpg",
+    "city_id": 210
+  },
+  {
+    "id": 211,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-antonio-462487f470.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-antonio_web-37402dd546.jpg",
+    "city_id": 211
+  },
+  {
+    "id": 212,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-diego-50187120db.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-diego_web-2be4eba8b4.jpg",
+    "city_id": 212
+  },
+  {
+    "id": 213,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-francisco-bay-area-7f6d130d20.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-francisco-bay-area_web-f17b1f60e6.jpg",
+    "city_id": 213
+  },
+  {
+    "id": 214,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-jose-0a8dfb4120.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-jose_web-c73054cc3d.jpg",
+    "city_id": 214
+  },
+  {
+    "id": 215,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-juan-3bd27f2866.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-juan_web-d1d8e2cefe.jpg",
+    "city_id": 215
+  },
+  {
+    "id": 216,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-luis-obispo-d0a7b76532.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-luis-obispo_web-496eff09a5.jpg",
+    "city_id": 216
+  },
+  {
+    "id": 217,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-salvador-670f5797be.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-salvador_web-83ecca0109.jpg",
+    "city_id": 217
+  },
+  {
+    "id": 218,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/santiago-9be57c2056.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/santiago_web-f067d55885.jpg",
+    "city_id": 218
+  },
+  {
+    "id": 219,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/santo-domingo-6e37620cfa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/santo-domingo_web-22dddd55a7.jpg",
+    "city_id": 219
+  },
+  {
+    "id": 220,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sao-paulo-94ecdb90e1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sao-paulo_web-843ef93d03.jpg",
+    "city_id": 220
+  },
+  {
+    "id": 221,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sarajevo-2896c2d925.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sarajevo_web-848cc27676.jpg",
+    "city_id": 221
+  },
+  {
+    "id": 222,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/saskatoon-30832d3006.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/saskatoon_web-2d387ccb1f.jpg",
+    "city_id": 222
+  },
+  {
+    "id": 223,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seattle-9bc4830d22.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seattle_web-e07e580eca.jpg",
+    "city_id": 223
+  },
+  {
+    "id": 224,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seoul-f160535ee8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seoul_web-9dce6f94da.jpg",
+    "city_id": 224
+  },
+  {
+    "id": 225,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seville-06e4e83013.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/seville_web-71bb9fb523.jpg",
+    "city_id": 225
+  },
+  {
+    "id": 226,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/shanghai-562387e4cf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/shanghai_web-c8b77b4215.jpg",
+    "city_id": 226
+  },
+  {
+    "id": 227,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/singapore-ec606a40aa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/singapore_web-64dc53f309.jpg",
+    "city_id": 227
+  },
+  {
+    "id": 228,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/skopje-195c6bb2d8.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/skopje_web-be51bbdcf8.jpg",
+    "city_id": 228
+  },
+  {
+    "id": 229,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sofia-141d3a06cb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sofia_web-f5f214e15a.jpg",
+    "city_id": 229
+  },
+  {
+    "id": 230,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/st-louis-f0a3fe18ae.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/st-louis_web-fa014f308c.jpg",
+    "city_id": 230
+  },
+  {
+    "id": 231,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/stockholm-a696fe73b4.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/stockholm_web-1e571c8d62.jpg",
+    "city_id": 231
+  },
+  {
+    "id": 232,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/stuttgart-87cad578bb.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/stuttgart_web-5b7db8ffed.jpg",
+    "city_id": 232
+  },
+  {
+    "id": 233,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sydney-c1efeae24e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/sydney_web-b47b8df85c.jpg",
+    "city_id": 233
+  },
+  {
+    "id": 234,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/taipei-f36fb8cb4f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/taipei_web-f5a4807f35.jpg",
+    "city_id": 234
+  },
+  {
+    "id": 235,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tallinn-9a026090f2.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tallinn_web-62f5720550.jpg",
+    "city_id": 235
+  },
+  {
+    "id": 236,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tampa-bay-area-4fba731a6c.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tampa-bay-area_web-5255a94190.jpg",
+    "city_id": 236
+  },
+  {
+    "id": 237,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tampere-693eab6b1f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tampere_web-9d4b053a3c.jpg",
+    "city_id": 237
+  },
+  {
+    "id": 238,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tartu-c02c88145f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tartu_web-21105f154b.jpg",
+    "city_id": 238
+  },
+  {
+    "id": 239,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tashkent-fdb0651726.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tashkent_web-c6d0624749.jpg",
+    "city_id": 239
+  },
+  {
+    "id": 240,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tbilisi-583faa1bea.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tbilisi_web-7290a90e85.jpg",
+    "city_id": 240
+  },
+  {
+    "id": 241,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tehran-73f1f81d6a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tehran_web-a7a0f37723.jpg",
+    "city_id": 241
+  },
+  {
+    "id": 242,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tel-aviv-093f2769f7.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tel-aviv_web-aa55da3c93.jpg",
+    "city_id": 242
+  },
+  {
+    "id": 243,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/the-hague-3f49f579da.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/the-hague_web-429f03ab02.jpg",
+    "city_id": 243
+  },
+  {
+    "id": 244,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/thessaloniki-344274e98e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/thessaloniki_web-570a6c22fc.jpg",
+    "city_id": 244
+  },
+  {
+    "id": 245,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tokyo-5d21b97864.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tokyo_web-7a20b5733f.jpg",
+    "city_id": 245
+  },
+  {
+    "id": 246,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/toronto-a6fcbe977a.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/toronto_web-595a067cf7.jpg",
+    "city_id": 246
+  },
+  {
+    "id": 247,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/toulouse-7d86bd787e.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/toulouse_web-b6d5624c8d.jpg",
+    "city_id": 247
+  },
+  {
+    "id": 248,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tunis-abea50beaa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/tunis_web-48eab0072e.jpg",
+    "city_id": 248
+  },
+  {
+    "id": 249,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/turin-14f7e3e0bc.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/turin_web-d91d1c8483.jpg",
+    "city_id": 249
+  },
+  {
+    "id": 250,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/turku-5dce86ae59.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/turku_web-7e7c0aa9a2.jpg",
+    "city_id": 250
+  },
+  {
+    "id": 251,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/uppsala-8894875121.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/uppsala_web-3782bddd42.jpg",
+    "city_id": 251
+  },
+  {
+    "id": 252,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/utrecht-6fa216ef08.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/utrecht_web-43fa409833.jpg",
+    "city_id": 252
+  },
+  {
+    "id": 253,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/valencia-569b04926d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/valencia_web-5b6c44448d.jpg",
+    "city_id": 253
+  },
+  {
+    "id": 254,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/valletta-cae829d4be.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/valletta_web-c60360e66d.jpg",
+    "city_id": 254
+  },
+  {
+    "id": 255,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vancouver-3160f806cf.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vancouver_web-049c25e7e4.jpg",
+    "city_id": 255
+  },
+  {
+    "id": 256,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/victoria-d001822c68.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/victoria_web-7305a177ca.jpg",
+    "city_id": 256
+  },
+  {
+    "id": 257,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vienna-8cf316bb2d.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vienna_web-b2c460ae31.jpg",
+    "city_id": 257
+  },
+  {
+    "id": 258,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vilnius-ba39720a40.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/vilnius_web-d6b05ff0e7.jpg",
+    "city_id": 258
+  },
+  {
+    "id": 259,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/warsaw-06c037d5b1.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/warsaw_web-d6a52b39b9.jpg",
+    "city_id": 259
+  },
+  {
+    "id": 260,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/washington-dc-bd9a973760.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/washington-dc_web-cdb977d1bf.jpg",
+    "city_id": 260
+  },
+  {
+    "id": 261,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/wellington-871a5e9768.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/wellington_web-423e1575c9.jpg",
+    "city_id": 261
+  },
+  {
+    "id": 262,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/winnipeg-0a3f7a988f.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/winnipeg_web-3c1d2f955f.jpg",
+    "city_id": 262
+  },
+  {
+    "id": 263,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/wroclaw-1e6f2fb3b9.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/wroclaw_web-f8ee8c2037.jpg",
+    "city_id": 263
+  },
+  {
+    "id": 264,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/yerevan-5a9074bfec.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/yerevan_web-3f82ff0524.jpg",
+    "city_id": 264
+  },
+  {
+    "id": 265,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/zagreb-bb298592a7.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/zagreb_web-e6000a6793.jpg",
+    "city_id": 265
+  },
+  {
+    "id": 266,
+    "mob_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/zurich-bdbfcd03fa.jpg",
+    "web_url": "https://d13k13wj6adfdf.cloudfront.net/urban_areas/zurich_web-f08acd93ea.jpg",
+    "city_id": 266
+  }
+]

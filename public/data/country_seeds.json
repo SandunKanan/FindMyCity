@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "country": "Andorra"
+  },
+  {
+    "id": 2,
+    "country": "Argentina"
+  },
+  {
+    "id": 3,
+    "country": "Armenia"
+  },
+  {
+    "id": 4,
+    "country": "Australia"
+  },
+  {
+    "id": 5,
+    "country": "Austria"
+  },
+  {
+    "id": 6,
+    "country": "Azerbaijan"
+  },
+  {
+    "id": 7,
+    "country": "Belarus"
+  },
+  {
+    "id": 8,
+    "country": "Belgium"
+  },
+  {
+    "id": 9,
+    "country": "Belize"
+  },
+  {
+    "id": 10,
+    "country": "Bolivia"
+  },
+  {
+    "id": 11,
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 12,
+    "country": "Brazil"
+  },
+  {
+    "id": 13,
+    "country": "Bulgaria"
+  },
+  {
+    "id": 14,
+    "country": "Cambodia"
+  },
+  {
+    "id": 15,
+    "country": "Canada"
+  },
+  {
+    "id": 16,
+    "country": "Chile"
+  },
+  {
+    "id": 17,
+    "country": "China"
+  },
+  {
+    "id": 18,
+    "country": "Colombia"
+  },
+  {
+    "id": 19,
+    "country": "Costa Rica"
+  },
+  {
+    "id": 20,
+    "country": "Croatia"
+  },
+  {
+    "id": 21,
+    "country": "Cuba"
+  },
+  {
+    "id": 22,
+    "country": "Cyprus"
+  },
+  {
+    "id": 23,
+    "country": "Czechia"
+  },
+  {
+    "id": 24,
+    "country": "Denmark"
+  },
+  {
+    "id": 25,
+    "country": "Dominican Republic"
+  },
+  {
+    "id": 26,
+    "country": "Ecuador"
+  },
+  {
+    "id": 27,
+    "country": "Egypt"
+  },
+  {
+    "id": 28,
+    "country": "El Salvador"
+  },
+  {
+    "id": 29,
+    "country": "Estonia"
+  },
+  {
+    "id": 30,
+    "country": "Finland"
+  },
+  {
+    "id": 31,
+    "country": "France"
+  },
+  {
+    "id": 32,
+    "country": "Georgia"
+  },
+  {
+    "id": 33,
+    "country": "Germany"
+  },
+  {
+    "id": 34,
+    "country": "Gibraltar"
+  },
+  {
+    "id": 35,
+    "country": "Greece"
+  },
+  {
+    "id": 36,
+    "country": "Guatemala"
+  },
+  {
+    "id": 37,
+    "country": "Hungary"
+  },
+  {
+    "id": 38,
+    "country": "Iceland"
+  },
+  {
+    "id": 39,
+    "country": "India"
+  },
+  {
+    "id": 40,
+    "country": "Indonesia"
+  },
+  {
+    "id": 41,
+    "country": "Iran"
+  },
+  {
+    "id": 42,
+    "country": "Ireland"
+  },
+  {
+    "id": 43,
+    "country": "Israel"
+  },
+  {
+    "id": 44,
+    "country": "Italy"
+  },
+  {
+    "id": 45,
+    "country": "Jamaica"
+  },
+  {
+    "id": 46,
+    "country": "Japan"
+  },
+  {
+    "id": 47,
+    "country": "Kazakhstan"
+  },
+  {
+    "id": 48,
+    "country": "Kenya"
+  },
+  {
+    "id": 49,
+    "country": "Latvia"
+  },
+  {
+    "id": 50,
+    "country": "Lebanon"
+  },
+  {
+    "id": 51,
+    "country": "Lithuania"
+  },
+  {
+    "id": 52,
+    "country": "Luxembourg"
+  },
+  {
+    "id": 53,
+    "country": "Macedonia"
+  },
+  {
+    "id": 54,
+    "country": "Malaysia"
+  },
+  {
+    "id": 55,
+    "country": "Malta"
+  },
+  {
+    "id": 56,
+    "country": "Mexico"
+  },
+  {
+    "id": 57,
+    "country": "Moldova"
+  },
+  {
+    "id": 58,
+    "country": "Morocco"
+  },
+  {
+    "id": 59,
+    "country": "Nepal"
+  },
+  {
+    "id": 60,
+    "country": "Netherlands"
+  },
+  {
+    "id": 61,
+    "country": "New Zealand"
+  },
+  {
+    "id": 62,
+    "country": "Nicaragua"
+  },
+  {
+    "id": 63,
+    "country": "Nigeria"
+  },
+  {
+    "id": 64,
+    "country": "Norway"
+  },
+  {
+    "id": 65,
+    "country": "Panama"
+  },
+  {
+    "id": 66,
+    "country": "Paraguay"
+  },
+  {
+    "id": 67,
+    "country": "Peru"
+  },
+  {
+    "id": 68,
+    "country": "Philippines"
+  },
+  {
+    "id": 69,
+    "country": "Poland"
+  },
+  {
+    "id": 70,
+    "country": "Portugal"
+  },
+  {
+    "id": 71,
+    "country": "Puerto Rico"
+  },
+  {
+    "id": 72,
+    "country": "Qatar"
+  },
+  {
+    "id": 73,
+    "country": "Romania"
+  },
+  {
+    "id": 74,
+    "country": "Russia"
+  },
+  {
+    "id": 75,
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": 76,
+    "country": "Serbia"
+  },
+  {
+    "id": 77,
+    "country": "Singapore"
+  },
+  {
+    "id": 78,
+    "country": "Slovakia"
+  },
+  {
+    "id": 79,
+    "country": "Slovenia"
+  },
+  {
+    "id": 80,
+    "country": "South Africa"
+  },
+  {
+    "id": 81,
+    "country": "South Korea"
+  },
+  {
+    "id": 82,
+    "country": "Spain"
+  },
+  {
+    "id": 83,
+    "country": "Sweden"
+  },
+  {
+    "id": 84,
+    "country": "Switzerland"
+  },
+  {
+    "id": 85,
+    "country": "Taiwan"
+  },
+  {
+    "id": 86,
+    "country": "Tanzania"
+  },
+  {
+    "id": 87,
+    "country": "Thailand"
+  },
+  {
+    "id": 88,
+    "country": "Tunisia"
+  },
+  {
+    "id": 89,
+    "country": "Turkey"
+  },
+  {
+    "id": 90,
+    "country": "Ukraine"
+  },
+  {
+    "id": 91,
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": 92,
+    "country": "United Kingdom"
+  },
+  {
+    "id": 93,
+    "country": "United States"
+  },
+  {
+    "id": 94,
+    "country": "Uruguay"
+  },
+  {
+    "id": 95,
+    "country": "Uzbekistan"
+  },
+  {
+    "id": 96,
+    "country": "Venezuela"
+  },
+  {
+    "id": 97,
+    "country": "Vietnam"
+  }
+]
