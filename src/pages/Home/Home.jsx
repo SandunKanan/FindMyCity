@@ -12,6 +12,9 @@ export default function Home() {
             <Link to='/findmycity'>
                 <Button text="Find my City" />
             </Link>
+            <Link to='/recommendations'>
+                <Button text="Recommendations" />
+            </Link>
             <p>Welcome to FindMyCity, the ultimate platform for discovering your dream city. Our mission is to help make the process of moving to a new city less daunting and more enjoyable. Whether you're seeking a new job opportunity, a change of scenery, or a fresh start, we make it easy for you to compare cities and find the perfect fit for your needs.</p>
             <br/>
             <p>Simply answer a few questions about your budget, work preferences, and desired lifestyle, and we'll suggest cities that match your criteria.</p>
